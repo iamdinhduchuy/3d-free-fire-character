@@ -1,0 +1,205 @@
+{
+  "character": "Ignis",
+  "avatarId": 102000044,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000044,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Superteen",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      537199978,
+      2014038664,
+      3164754031,
+      902895855,
+      2237072288
+    ],
+    "RecipeValueInGame": [
+      1427811105,
+      3503447291,
+      3621529033,
+      3193881641,
+      2398592284
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_42_H_CHARACTER_SUPERTEEN_N",
+    "Introduction": "T_42_H_SKILL_INTRODUCE_SUPERTEEN",
+    "Portrait": "FF_UI_Character_Superteen",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800244003,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_Superteen",
+    "OrderSource": 57,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB42/CSH/character/Superteen.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_SUPERTEEN_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_SUPERTEEN_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      537199978,
+      2014038664
+    ],
+    "RecipeValueInGame_inAb": [
+      1427811105,
+      3503447291
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 1427811105,
+      "slot": "Male_Head_Sc_Superteen_Slot",
+      "overlay": "Male_Head_Sc_Superteen_Overlay",
+      "meshPathID": 2281257,
+      "submesh": 0,
+      "textures": [
+        73528
+      ]
+    },
+    {
+      "recipeHash": 1427811105,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_HairRoot_Sc_Superteen_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        85628
+      ]
+    },
+    {
+      "recipeHash": 3503447291,
+      "slot": "Male_Hair_Sc_Superteen_Slot",
+      "overlay": "Male_Hair_Sc_Superteen_Overlay",
+      "meshPathID": 2281287,
+      "submesh": 0,
+      "textures": [
+        65044
+      ]
+    },
+    {
+      "recipeHash": 3503447291,
+      "slot": "Head_Hair_Base_Replace_Slot",
+      "overlay": "Male_Hairroot_Sc_Superteen_Red_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        64005
+      ]
+    },
+    {
+      "recipeHash": 3621529033,
+      "slot": "Male_Top_Sc_Superteen_0_Slot",
+      "overlay": "Male_Top_Sc_Superteen_Overlay",
+      "meshPathID": 2281392,
+      "submesh": 0,
+      "textures": [
+        72164
+      ]
+    },
+    {
+      "recipeHash": 3621529033,
+      "slot": "Male_Top_Sc_Superteen_1_Slot",
+      "overlay": "Male_Body_Sc_Superteen_Overlay",
+      "meshPathID": 2281392,
+      "submesh": 1,
+      "textures": [
+        53190
+      ]
+    },
+    {
+      "recipeHash": 3193881641,
+      "slot": "Male_Bottom_Sc_Superteen_0_Slot",
+      "overlay": "Male_Bottom_Sc_Superteen_Overlay",
+      "meshPathID": 2281352,
+      "submesh": 0,
+      "textures": [
+        86527
+      ]
+    },
+    {
+      "recipeHash": 3193881641,
+      "slot": "Male_Bottom_Sc_Superteen_1_Slot",
+      "overlay": "Male_Body_Sc_Superteen_Overlay",
+      "meshPathID": 2281352,
+      "submesh": 1,
+      "textures": [
+        53190
+      ]
+    },
+    {
+      "recipeHash": 2398592284,
+      "slot": "Male_Shoe_Sc_Superteen_Slot",
+      "overlay": "Male_Shoe_Sc_Superteen_Overlay",
+      "meshPathID": 2281433,
+      "submesh": 0,
+      "textures": [
+        65590
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2281257,
+      "vertices": 358,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2281287,
+      "vertices": 2450,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2281392,
+      "vertices": 2431,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2281352,
+      "vertices": 1290,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2281433,
+      "vertices": 502,
+      "submeshes": 1
+    }
+  ],
+  "bones": 48,
+  "file": "Ignis_Default_InGame.glb",
+  "textures": 6,
+  "bytes": 1671176,
+  "sha256": "998ba2ccd8d01f1d13787025139f1e1c921db4c7a042743f987745f36bea904e",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

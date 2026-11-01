@@ -1,0 +1,183 @@
+{
+  "character": "A124",
+  "avatarId": 101000013,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000013,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_MadeManA",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      897710502,
+      1392642715,
+      1796302032,
+      2567116969,
+      1832016001
+    ],
+    "RecipeValueInGame": [
+      1516697689,
+      4154587659,
+      983422139,
+      744360126,
+      211358579
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_17_Y_CHARACTER_MADEMANA_NAME",
+    "Introduction": "T_17_Y_SKILL_INTRODUCE_MADEMANA",
+    "Portrait": "FF_UI_Character_MadeManA",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 2,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800113001,
+    "InGameSpecialAnim": "INGAME_SC_MADEMANA_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_MadeManA",
+    "OrderSource": 19,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000385,
+    "LuxuryBundleID": 710000386,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_MADEMANA_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_MADEMANA_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      897710502,
+      1392642715
+    ],
+    "RecipeValueInGame_inAb": [
+      1516697689,
+      4154587659
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": "FF_UI_SA_MadeManA"
+  },
+  "parts": [
+    {
+      "recipeHash": 897710502,
+      "slot": "Female_Head_Sc_MadeManA_N_Slot",
+      "overlay": "Female_Head_Sc_MadeManA_Overlay_N",
+      "meshPathID": 2268893,
+      "submesh": 0,
+      "textures": [
+        63560,
+        89854,
+        71611
+      ]
+    },
+    {
+      "recipeHash": 897710502,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_MadeManA_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        80143
+      ]
+    },
+    {
+      "recipeHash": 1392642715,
+      "slot": "Female_Hair_Sc_MadeManA_N_Slot",
+      "overlay": "Female_Hair_Sc_MadeManA_Overlay_N",
+      "meshPathID": 2268914,
+      "submesh": 0,
+      "textures": [
+        71073
+      ]
+    },
+    {
+      "recipeHash": 1796302032,
+      "slot": "Female_Top_Sc_MadeManA_N_Slot",
+      "overlay": "Female_Top_Sc_MadeManA_Overlay_N",
+      "meshPathID": 2268996,
+      "submesh": 0,
+      "textures": [
+        89061,
+        83688,
+        93150
+      ]
+    },
+    {
+      "recipeHash": 2567116969,
+      "slot": "Female_Bottom_Sc_MadeManA_N_Slot",
+      "overlay": "Female_Bottom_Sc_MadeManA_Overlay_N",
+      "meshPathID": 2268972,
+      "submesh": 0,
+      "textures": [
+        92600,
+        51198,
+        72696
+      ]
+    },
+    {
+      "recipeHash": 1832016001,
+      "slot": "Female_Shoe_Sc_MadeManA_N_Slot",
+      "overlay": "Female_Shoe_Sc_MadeManA_Overlay_N",
+      "meshPathID": 2269020,
+      "submesh": 0,
+      "textures": [
+        71131,
+        70053,
+        58230
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2268893,
+      "vertices": 967,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2268914,
+      "vertices": 833,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2268996,
+      "vertices": 3354,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2268972,
+      "vertices": 782,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2269020,
+      "vertices": 422,
+      "submeshes": 1
+    }
+  ],
+  "bones": 51,
+  "file": "A124_Default_Lobby.glb",
+  "textures": 5,
+  "bytes": 1288388,
+  "sha256": "1155fb9f862be19fe64612f0d6b863a6ce721a1c8ddad31cdf565b35bc520e35",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

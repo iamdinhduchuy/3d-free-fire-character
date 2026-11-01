@@ -1,0 +1,223 @@
+{
+  "character": "Paloma",
+  "avatarId": 101000009,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000009,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_armsdealer",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2651080487,
+      3495479996,
+      1721493562,
+      922463661,
+      3843047055
+    ],
+    "RecipeValueInGame": [
+      132775599,
+      1634340242,
+      1684298165,
+      3759599597,
+      1599758216
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "TXT_OB9_JRW_CHARACTER_ARMSDEALER_NAME",
+    "Introduction": "TXT_OB9_JRW_SKILL_INTRODUCE_ARMSDEALER",
+    "Portrait": "FF_UI_Character_armsdealer",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 14,
+    "DefaultSkinColor": [
+      111,
+      74,
+      60
+    ],
+    "HairType": 0,
+    "DecorPropIDRight": "PROP_ARMSDEALER_G18",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 801009001,
+    "InGameSpecialAnim": "INGAME_SC_ARMSDEALER_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_armsdealer",
+    "OrderSource": 11,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 700000052,
+    "LuxuryBundleID": 700000063,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB41/CSH/character/Paloma.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_ARMSDEALER_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_ARMSDEALER_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2651080487,
+      3495479996
+    ],
+    "RecipeValueInGame_inAb": [
+      132775599,
+      1634340242
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 2651080487,
+      "slot": "female_head_sc_armsdealer_N_Slot",
+      "overlay": "female_head_sc_armsdealer_Overlay_N",
+      "meshPathID": 2274963,
+      "submesh": 0,
+      "textures": [
+        83392,
+        91682,
+        67679
+      ]
+    },
+    {
+      "recipeHash": 2651080487,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Richgirl_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        69401
+      ]
+    },
+    {
+      "recipeHash": 3495479996,
+      "slot": "female_hair_sc_armsdealer_N_0_Slot",
+      "overlay": "female_hat_sc_armsdealer_Overlay_N",
+      "meshPathID": 2274976,
+      "submesh": 0,
+      "textures": [
+        83392,
+        91682,
+        67679
+      ]
+    },
+    {
+      "recipeHash": 3495479996,
+      "slot": "female_hair_sc_armsdealer_N_1_Slot",
+      "overlay": "female_hair_sc_armsdealer_Overlay_N",
+      "meshPathID": 2274976,
+      "submesh": 1,
+      "textures": [
+        63563
+      ]
+    },
+    {
+      "recipeHash": 1721493562,
+      "slot": "female_top_sc_armsdealer_N_0_Slot",
+      "overlay": "female_top_sc_armsdealer_Overlay_N",
+      "meshPathID": 2275036,
+      "submesh": 0,
+      "textures": [
+        92592,
+        62629,
+        48649
+      ]
+    },
+    {
+      "recipeHash": 1721493562,
+      "slot": "female_top_sc_armsdealer_N_1_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2275036,
+      "submesh": 1,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 922463661,
+      "slot": "female_bottom_sc_armsdealer_N_0_Slot",
+      "overlay": "female_bottom_sc_armsdealer_Overlay_N",
+      "meshPathID": 2275020,
+      "submesh": 0,
+      "textures": [
+        79018,
+        52499,
+        60100
+      ]
+    },
+    {
+      "recipeHash": 922463661,
+      "slot": "female_bottom_sc_armsdealer_N_1_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2275020,
+      "submesh": 1,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 3843047055,
+      "slot": "female_shoe_sc_armsdealer_N_Slot",
+      "overlay": "female_shoe_sc_armsdealer_Overlay_N",
+      "meshPathID": 2275049,
+      "submesh": 0,
+      "textures": [
+        55155,
+        48882,
+        88282
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2274963,
+      "vertices": 932,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2274976,
+      "vertices": 2741,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275036,
+      "vertices": 3672,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275020,
+      "vertices": 1985,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275049,
+      "vertices": 488,
+      "submeshes": 1
+    }
+  ],
+  "bones": 58,
+  "file": "Paloma_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1781724,
+  "sha256": "ce937a743f24c85915e438902753f2166643ad8245520bfada44bf02bd27bc13",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

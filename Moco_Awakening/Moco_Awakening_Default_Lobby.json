@@ -1,0 +1,204 @@
+{
+  "character": "Moco_Awakening",
+  "avatarId": 101000023,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000023,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_Moco_Awakening",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2436213905,
+      2515745832,
+      3199878130,
+      3806669471,
+      2880680261
+    ],
+    "RecipeValueInGame": [
+      2078627841,
+      2052700689,
+      1038645771,
+      1567877066,
+      887282796
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_29_D_CHARACTER_AMOCO_N",
+    "Introduction": "T_29_D_SKILL_INTRODUCE_AMOCO",
+    "Portrait": "FF_UI_Character_Moco_Awakening",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800122001,
+    "InGameSpecialAnim": "INGAME_SC_MOCO_AWAKENING_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Moco_Awakening",
+    "OrderSource": 46,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 720029005,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB40/CSH/character/mocoA.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_MOCO_AWAKENING_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_MOCO_AWAKENING_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2436213905,
+      2515745832
+    ],
+    "RecipeValueInGame_inAb": [
+      2078627841,
+      2052700689
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 2436213905,
+      "slot": "Female_Head_Sc_Moco_Awakening_N_Slot",
+      "overlay": "Female_Head_Sc_Moco_Awakening_Overlay_N",
+      "meshPathID": 2270715,
+      "submesh": 0,
+      "textures": [
+        58929,
+        87170,
+        81849
+      ]
+    },
+    {
+      "recipeHash": 2436213905,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Moco_Awakening_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        75399
+      ]
+    },
+    {
+      "recipeHash": 2515745832,
+      "slot": "Female_Hair_Sc_Moco_Awakening_N_Slot",
+      "overlay": "Female_Hair_Sc_Moco_Awakening_Overlay_N",
+      "meshPathID": 2270736,
+      "submesh": 0,
+      "textures": [
+        55657,
+        92261,
+        55647
+      ]
+    },
+    {
+      "recipeHash": 2515745832,
+      "slot": "Head_Hair_Base_Replace_Slot",
+      "overlay": null,
+      "meshPathID": 0,
+      "note": "Explicit empty additive overlay"
+    },
+    {
+      "recipeHash": 3199878130,
+      "slot": "Female_Top_Sc_Moco_Awakening_N_0_Slot",
+      "overlay": "Female_Top_Sc_Moco_Awakening_Overlay_N",
+      "meshPathID": 2270833,
+      "submesh": 0,
+      "textures": [
+        53704,
+        85512,
+        80689
+      ]
+    },
+    {
+      "recipeHash": 3199878130,
+      "slot": "Female_Top_Sc_Moco_Awakening_N_1_Slot",
+      "overlay": "Female_Body_Sc_Moco_Awakening_Overlay_N",
+      "meshPathID": 2270833,
+      "submesh": 1,
+      "textures": [
+        80902,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 3806669471,
+      "slot": "Female_Bottom_Sc_Moco_Awakening_N_Slot",
+      "overlay": "Female_Bottom_Sc_Moco_Awakening_Overlay_N",
+      "meshPathID": 2270812,
+      "submesh": 0,
+      "textures": [
+        59157,
+        77353,
+        70377
+      ]
+    },
+    {
+      "recipeHash": 2880680261,
+      "slot": "Female_Shoe_Sc_Moco_Awakening_N_Slot",
+      "overlay": "Female_Shoe_Sc_Moco_Awakening_Overlay_N",
+      "meshPathID": 2270855,
+      "submesh": 0,
+      "textures": [
+        87655,
+        78905,
+        87691
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2270715,
+      "vertices": 838,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2270736,
+      "vertices": 3879,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2270833,
+      "vertices": 3132,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2270812,
+      "vertices": 2286,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2270855,
+      "vertices": 425,
+      "submeshes": 1
+    }
+  ],
+  "bones": 75,
+  "file": "Moco_Awakening_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 2118496,
+  "sha256": "b256f768906fbef06e2140346ed795272f1205bfb552456c28e30637fbab4d7b",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

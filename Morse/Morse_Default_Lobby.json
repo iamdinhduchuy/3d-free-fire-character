@@ -1,0 +1,247 @@
+{
+  "character": "Morse",
+  "avatarId": 102000055,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000055,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Mysteryman",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5,
+      8
+    ],
+    "RecipeValueInLobby": [
+      776435589,
+      1612446238,
+      1588667487,
+      3011564599,
+      1431506477,
+      3876192904
+    ],
+    "RecipeValueInGame": [
+      2794854690,
+      3222661663,
+      147174886,
+      2829505919,
+      4263884805,
+      4150725257
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_52_SH_CHARACTER_MYSTERMAN_N",
+    "Introduction": "T_52_SH_SKILL_INTRODUCE_MYSTERMAN",
+    "Portrait": "FF_UI_Character_Mysteryman",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [
+      77,
+      46,
+      30
+    ],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800252001,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_Mysteryman",
+    "OrderSource": 66,
+    "Tag": 4,
+    "TagPower": 0,
+    "TagDescKey": "T_55_PD_ADJUST_MORSE",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB52/CSH/character/Mysteryman.ff_extend",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_MYSTERMAN_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_MYSTERMAN_SHOWPOSE",
+    "VFXShowPose": "FF_VFX_ShopShow_Male_SC_Mysteryman",
+    "RecipeValueInLobby_inAb": [],
+    "RecipeValueInGame_inAb": [],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 776435589,
+      "slot": "Male_Head_Sc_Mysteryman_N_Slot",
+      "overlay": "Male_Head_Sc_Mysteryman_Overlay_N",
+      "meshPathID": 2283076,
+      "submesh": 0,
+      "textures": [
+        65446,
+        69213,
+        87284
+      ]
+    },
+    {
+      "recipeHash": 776435589,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 1612446238,
+      "slot": "Male_Hair_Sc_Mysteryman_N_0_Slot",
+      "overlay": "Male_Hat_Sc_Mysteryman_Overlay_N",
+      "meshPathID": 2283108,
+      "submesh": 0,
+      "textures": [
+        70754,
+        61541,
+        54390
+      ]
+    },
+    {
+      "recipeHash": 1612446238,
+      "slot": "Male_Hair_Sc_Mysteryman_N_1_Slot",
+      "overlay": "Female_Hair_Cos_Fastbreaking22_Overlay_N",
+      "meshPathID": 2283108,
+      "submesh": 1,
+      "textures": [
+        69974
+      ]
+    },
+    {
+      "recipeHash": 1612446238,
+      "slot": "Head_Hair_Base_Replace_Slot",
+      "overlay": "Male_HairRoot_Sc_Mysteryman_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        85139
+      ]
+    },
+    {
+      "recipeHash": 1588667487,
+      "slot": "Male_Top_Sc_Mysteryman_N_0_Slot",
+      "overlay": "Male_Top_Sc_Mysteryman_Overlay_N",
+      "meshPathID": 2283178,
+      "submesh": 0,
+      "textures": [
+        67239,
+        93432,
+        64937
+      ]
+    },
+    {
+      "recipeHash": 1588667487,
+      "slot": "Male_Top_Sc_Mysteryman_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2283178,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 3011564599,
+      "slot": "Male_Bottom_Sc_Mysteryman_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_Mysteryman_Overlay_N",
+      "meshPathID": 2283140,
+      "submesh": 0,
+      "textures": [
+        65017,
+        52435,
+        64152
+      ]
+    },
+    {
+      "recipeHash": 3011564599,
+      "slot": "Male_Bottom_Sc_Mysteryman_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2283140,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 1431506477,
+      "slot": "Male_Shoe_Sc_Mysteryman_N_Slot",
+      "overlay": "Male_Shoe_Sc_Mysteryman_Overlay_N",
+      "meshPathID": 2283210,
+      "submesh": 0,
+      "textures": [
+        86037,
+        70299,
+        90544
+      ]
+    },
+    {
+      "recipeHash": 3876192904,
+      "slot": "Male_Accessory_Sc_Mysteryman_N_Slot",
+      "overlay": "Male_Accessory_Sc_Mysteryman_Overlay_N",
+      "meshPathID": 2283075,
+      "submesh": 0,
+      "textures": [
+        71724,
+        66457,
+        51360
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2283076,
+      "vertices": 1043,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2283108,
+      "vertices": 1660,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283178,
+      "vertices": 2909,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283140,
+      "vertices": 2154,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283210,
+      "vertices": 564,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2283075,
+      "vertices": 1093,
+      "submeshes": 1
+    }
+  ],
+  "bones": 61,
+  "file": "Morse_Default_Lobby.glb",
+  "textures": 8,
+  "bytes": 1618976,
+  "sha256": "858fb45baddec33951b5a4d04c33580872bfb8e9fc31dc350f1e494f64fb5c67",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

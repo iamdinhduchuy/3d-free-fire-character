@@ -1,0 +1,195 @@
+{
+  "character": "Jai",
+  "avatarId": 102000021,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000021,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_SwatGuy",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3298434606,
+      1095952884,
+      1180471494,
+      803107110,
+      527902739
+    ],
+    "RecipeValueInGame": [
+      3845763183,
+      1169400837,
+      4277434648,
+      1672164363,
+      2836838746
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_23_D_CHARACTER_SWATGUY_N",
+    "Introduction": "T_23_D_SKILL_INTRODUCE_SWATGUY",
+    "Portrait": "FF_UI_Character_SwatGuy",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800221001,
+    "InGameSpecialAnim": "INGAME_SC_SWATGUY_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_SwatGuy",
+    "OrderSource": 33,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000709,
+    "LuxuryBundleID": 710000710,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": true,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_SWATGUY_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_SWATGUY_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3298434606,
+      1095952884
+    ],
+    "RecipeValueInGame_inAb": [
+      3845763183,
+      1169400837
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3845763183,
+      "slot": "Male_Head_Sc_SwatGuy_Slot",
+      "overlay": "Male_Head_Sc_SwatGuy_Overlay",
+      "meshPathID": 2286639,
+      "submesh": 0,
+      "textures": [
+        75432
+      ]
+    },
+    {
+      "recipeHash": 3845763183,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_SwatGuy_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        66932
+      ]
+    },
+    {
+      "recipeHash": 1169400837,
+      "slot": "Male_Hair_Sc_SwatGuy_Slot",
+      "overlay": "Male_Hair_Sc_SwatGuy_Overlay",
+      "meshPathID": 2286641,
+      "submesh": 0,
+      "textures": [
+        52314
+      ]
+    },
+    {
+      "recipeHash": 4277434648,
+      "slot": "Male_Top_Sc_SwatGuy_0_Slot",
+      "overlay": "Male_Top_Sc_SwatGuy_Overlay",
+      "meshPathID": 2286645,
+      "submesh": 0,
+      "textures": [
+        80891
+      ]
+    },
+    {
+      "recipeHash": 4277434648,
+      "slot": "Male_Top_Sc_SwatGuy_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2286645,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 1672164363,
+      "slot": "Male_Bottom_Sc_SwatGuy_0_Slot",
+      "overlay": "Male_Bottom_Sc_SwatGuy_Overlay",
+      "meshPathID": 2286643,
+      "submesh": 0,
+      "textures": [
+        62183
+      ]
+    },
+    {
+      "recipeHash": 1672164363,
+      "slot": "Male_Bottom_Sc_SwatGuy_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2286643,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 2836838746,
+      "slot": "Male_Shoe_Sc_SwatGuy_Slot",
+      "overlay": "Male_Shoe_Sc_SwatGuy_Overlay",
+      "meshPathID": 2286647,
+      "submesh": 0,
+      "textures": [
+        48125
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2286639,
+      "vertices": 333,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2286641,
+      "vertices": 1208,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2286645,
+      "vertices": 1703,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2286643,
+      "vertices": 1199,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2286647,
+      "vertices": 178,
+      "submeshes": 1
+    }
+  ],
+  "bones": 48,
+  "file": "Jai_Default_InGame.glb",
+  "textures": 6,
+  "bytes": 1548592,
+  "sha256": "cfad7c913ee0ae8ab63702ccaa85e2b4a410c5b4e2d4164eea30b466ce532dcb",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

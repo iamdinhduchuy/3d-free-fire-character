@@ -1,0 +1,249 @@
+{
+  "character": "Ryden",
+  "avatarId": 102000045,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000045,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Geek",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5,
+      8
+    ],
+    "RecipeValueInLobby": [
+      3389756570,
+      1258129018,
+      107452623,
+      2338137162,
+      2350055355,
+      4245599540
+    ],
+    "RecipeValueInGame": [
+      941291787,
+      1154412934,
+      4082407572,
+      2588435640,
+      2276907278,
+      792255332
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_43_H_CHARACTER_GEEK_N",
+    "Introduction": "T_43_H_SKILL_INTRODUCE_GEEK",
+    "Portrait": "FF_UI_Character_Geek",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800244004,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_Geek",
+    "OrderSource": 58,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB43/CSH/character/Geek.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_GEEK_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_GEEK_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3389756570,
+      1258129018
+    ],
+    "RecipeValueInGame_inAb": [
+      941291787,
+      1154412934
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3389756570,
+      "slot": "Male_Head_Sc_Geek_N_Slot",
+      "overlay": "Male_Head_Sc_Geek_Overlay_N",
+      "meshPathID": 2281478,
+      "submesh": 0,
+      "textures": [
+        77359,
+        84683,
+        90330
+      ]
+    },
+    {
+      "recipeHash": 3389756570,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 1258129018,
+      "slot": "Male_Hair_Sc_Geek_N_Slot",
+      "overlay": "Male_Hair_Sc_Geek_Overlay",
+      "meshPathID": 2281518,
+      "submesh": 0,
+      "textures": [
+        89248
+      ]
+    },
+    {
+      "recipeHash": 1258129018,
+      "slot": "Head_Hair_Base_Replace_Slot",
+      "overlay": "Male_HairRoot_Sc_Geek_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        58744
+      ]
+    },
+    {
+      "recipeHash": 107452623,
+      "slot": "Male_Top_Sc_Geek_N_0_Slot",
+      "overlay": "Male_Top_Sc_Geek_Overlay_N",
+      "meshPathID": 2281636,
+      "submesh": 0,
+      "textures": [
+        58798,
+        73380,
+        68243
+      ]
+    },
+    {
+      "recipeHash": 107452623,
+      "slot": "Male_Top_Sc_Geek_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2281636,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 2338137162,
+      "slot": "Male_Bottom_Sc_Geek_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_Geek_Overlay_N",
+      "meshPathID": 2281590,
+      "submesh": 0,
+      "textures": [
+        48126,
+        50029,
+        54030
+      ]
+    },
+    {
+      "recipeHash": 2338137162,
+      "slot": "Male_Bottom_Sc_Geek_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2281590,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 2350055355,
+      "slot": "Male_Shoe_Sc_Geek_N_Slot",
+      "overlay": "Male_Shoe_Sc_Geek_Overlay_N",
+      "meshPathID": 2281680,
+      "submesh": 0,
+      "textures": [
+        52447,
+        85182,
+        63237
+      ]
+    },
+    {
+      "recipeHash": 4245599540,
+      "slot": "Male_Accessory_Sc_Geek_N_0_Slot",
+      "overlay": "Male_Accessory_Sc_Geek_Overlay_N",
+      "meshPathID": 2281477,
+      "submesh": 0,
+      "textures": [
+        68230,
+        63063,
+        65273
+      ]
+    },
+    {
+      "recipeHash": 4245599540,
+      "slot": "Male_Accessory_Sc_Geek_N_1_Slot",
+      "overlay": "Male_Accessory_Sc_Glass_Geek_Overlay_N",
+      "meshPathID": 2281477,
+      "submesh": 1,
+      "textures": [
+        68230,
+        63063,
+        65273
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2281478,
+      "vertices": 1041,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2281518,
+      "vertices": 2173,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2281636,
+      "vertices": 4600,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2281590,
+      "vertices": 1638,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2281680,
+      "vertices": 802,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2281477,
+      "vertices": 600,
+      "submeshes": 2
+    }
+  ],
+  "bones": 56,
+  "file": "Ryden_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1867680,
+  "sha256": "072c21c8b2f084d247ccfed486e3130077dd8fa190719f66386b2280c1f7245f",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

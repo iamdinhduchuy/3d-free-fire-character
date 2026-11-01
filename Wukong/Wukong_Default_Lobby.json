@@ -1,0 +1,208 @@
+{
+  "character": "Wukong",
+  "avatarId": 102000011,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000011,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_monkeygod",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2898173176,
+      898898400,
+      1972684527,
+      4243033711,
+      1281463584
+    ],
+    "RecipeValueInGame": [
+      1841827315,
+      1611510020,
+      3565918376,
+      3171514696,
+      2376081533
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_12_R_CHARACTER_MONKEYGOD_NAME",
+    "Introduction": "T_12_R_SKILL_INTRODUCE_MONKEYGOD",
+    "Portrait": "FF_UI_Character_Monkeygod",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800211001,
+    "InGameSpecialAnim": "INGAME_SC_MONKEYGOD_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Monkeygod",
+    "OrderSource": 68,
+    "Tag": 3,
+    "TagPower": 0,
+    "TagDescKey": "T_55_PD_ADJUST_WUKONG",
+    "BundleID": 700000161,
+    "LuxuryBundleID": 700000162,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 1,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB41/CSH/character/MonkeyGod.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_MONKEYGOD_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_MONKEYGOD_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2898173176,
+      898898400
+    ],
+    "RecipeValueInGame_inAb": [
+      1841827315,
+      1611510020
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": "FF_UI_SA_Monkeygod"
+  },
+  "parts": [
+    {
+      "recipeHash": 2898173176,
+      "slot": "Male_Head_SC_MonkeyGod_N_Slot",
+      "overlay": "Male_SC_Monkeygod_head_Overlay_N",
+      "meshPathID": 2283767,
+      "submesh": 0,
+      "textures": [
+        89002,
+        67200,
+        89569
+      ]
+    },
+    {
+      "recipeHash": 2898173176,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_Monkeygod_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        76964
+      ]
+    },
+    {
+      "recipeHash": 898898400,
+      "slot": "Male_accessory_cos_MonkeyGod_N_0_Slot",
+      "overlay": "Male_accessory_cos_MonkeyGod_Overlay_N",
+      "meshPathID": 2275626,
+      "submesh": 0,
+      "textures": [
+        53554,
+        67666,
+        58921
+      ]
+    },
+    {
+      "recipeHash": 898898400,
+      "slot": "Male_accessory_cos_MonkeyGod_N_1_Slot",
+      "overlay": "Male_Hair_SC_MonkeyGod_Overlay_N",
+      "meshPathID": 2275626,
+      "submesh": 1,
+      "textures": [
+        86417,
+        0
+      ]
+    },
+    {
+      "recipeHash": 1972684527,
+      "slot": "Male_Top_SC_MonkeyGod_N_Slot",
+      "overlay": "Male_Top_SC_MonkeyGod_Overlay_N",
+      "meshPathID": 2275725,
+      "submesh": 0,
+      "textures": [
+        67729,
+        71545,
+        65046
+      ]
+    },
+    {
+      "recipeHash": 4243033711,
+      "slot": "Male_Bottom_SC_MonkeyGod_N_0_Slot",
+      "overlay": "Male_Bottom_SC_MonkeyGod_Overlay_N",
+      "meshPathID": 2275697,
+      "submesh": 0,
+      "textures": [
+        70696,
+        81174,
+        50233
+      ]
+    },
+    {
+      "recipeHash": 4243033711,
+      "slot": "Male_Bottom_SC_MonkeyGod_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2275697,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 1281463584,
+      "slot": "Male_Shoe_SC_MonkeyGod_N_Slot",
+      "overlay": "Male_Shoe_SC_MonkeyGod_Overlay_N",
+      "meshPathID": 2275749,
+      "submesh": 0,
+      "textures": [
+        64950,
+        53116,
+        65014
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2283767,
+      "vertices": 636,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275626,
+      "vertices": 1660,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275725,
+      "vertices": 2288,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275697,
+      "vertices": 1026,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275749,
+      "vertices": 302,
+      "submeshes": 1
+    }
+  ],
+  "bones": 53,
+  "file": "Wukong_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1886140,
+  "sha256": "0d756d2c37f8a820cf533213886b921f42c3813fb33bb51a4371f2dc2d7ba203",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

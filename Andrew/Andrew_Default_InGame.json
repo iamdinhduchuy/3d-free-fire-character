@@ -1,0 +1,189 @@
+{
+  "character": "Andrew",
+  "avatarId": 102000005,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000005,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_cop",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      779442162,
+      1987811344,
+      754971873,
+      20360694,
+      1974378444
+    ],
+    "RecipeValueInGame": [
+      1272454632,
+      1128212262,
+      3602464256,
+      26234288,
+      955864777
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "TXT_CHARACTER_COP_NAME",
+    "Introduction": "TXT_SKILL_INTRODUCE_COP",
+    "Portrait": "FF_UI_Character_Andrew",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 802005001,
+    "InGameSpecialAnim": "INGAME_SC_COP_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Andrew",
+    "OrderSource": 4,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 700000003,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/AndrewAwakening.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_OFFICER_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_OFFICER_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [],
+    "RecipeValueInGame_inAb": [],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 1272454632,
+      "slot": "Male_SC_Cop_head_ingame_Slot",
+      "overlay": "Male_SC_Cop_head_overlay",
+      "meshPathID": 2283764,
+      "submesh": 0,
+      "textures": [
+        58237
+      ]
+    },
+    {
+      "recipeHash": 1272454632,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 1128212262,
+      "slot": "Male_SC_Cop_hair_Ingame_Slot",
+      "overlay": "Male_SC_Cop_hair_overlay",
+      "meshPathID": 2283779,
+      "submesh": 0,
+      "textures": [
+        66076
+      ]
+    },
+    {
+      "recipeHash": 3602464256,
+      "slot": "Male_SC_Cop_top_ingame_0_Slot",
+      "overlay": "Male_SC_Cop_top_overlay",
+      "meshPathID": 2283914,
+      "submesh": 0,
+      "textures": [
+        82606
+      ]
+    },
+    {
+      "recipeHash": 3602464256,
+      "slot": "Male_SC_Cop_top_ingame_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2283914,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 26234288,
+      "slot": "Male_SC_Cop_leg_ingame_0_Slot",
+      "overlay": "Male_SC_Cop_leg_overlay",
+      "meshPathID": 2283862,
+      "submesh": 0,
+      "textures": [
+        84998
+      ]
+    },
+    {
+      "recipeHash": 26234288,
+      "slot": "Male_SC_Cop_leg_ingame_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2283862,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 955864777,
+      "slot": "Male_SC_Cop_feet_Slot",
+      "overlay": "Male_SC_Cop_feet_overlay",
+      "meshPathID": 2283980,
+      "submesh": 0,
+      "textures": [
+        84281
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2283764,
+      "vertices": 332,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2283779,
+      "vertices": 576,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2283914,
+      "vertices": 1574,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283862,
+      "vertices": 660,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283980,
+      "vertices": 324,
+      "submeshes": 1
+    }
+  ],
+  "bones": 48,
+  "file": "Andrew_Default_InGame.glb",
+  "textures": 6,
+  "bytes": 1141808,
+  "sha256": "c33d1bbd51042b84fb31b9943fb57a2ecc029ef92bce8205d3d7cfffea00ba28",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

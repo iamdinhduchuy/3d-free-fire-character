@@ -1,0 +1,195 @@
+{
+  "character": "J.Biebs",
+  "avatarId": 102000038,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000038,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Singers",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      4125162720,
+      3285545864,
+      1999008264,
+      2875608296,
+      4259651986
+    ],
+    "RecipeValueInGame": [
+      2286178675,
+      1318063577,
+      2475268100,
+      2836281422,
+      3047744673
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_35_YZY_CHARACTER_SINGERS_N",
+    "Introduction": "T_35_YZY_SKILL_INTRODUCE_SINGERS",
+    "Portrait": "FF_UI_Character_Singers",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800239001,
+    "InGameSpecialAnim": "INGAME_SC_SINGERS_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Singers",
+    "OrderSource": 49,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710035001,
+    "LuxuryBundleID": 710035002,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_SINGERS_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_SINGERS_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      4125162720,
+      3285545864
+    ],
+    "RecipeValueInGame_inAb": [
+      2286178675,
+      1318063577
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 2286178675,
+      "slot": "Male_Head_Sc_Singers_Slot",
+      "overlay": "Male_Head_Sc_Singers_Overlay",
+      "meshPathID": 2286512,
+      "submesh": 0,
+      "textures": [
+        53009
+      ]
+    },
+    {
+      "recipeHash": 2286178675,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_HairRoot_Sc_Singers_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        90325
+      ]
+    },
+    {
+      "recipeHash": 1318063577,
+      "slot": "Male_Hair_Sc_Singers_Slot",
+      "overlay": "Male_Hair_Sc_Singers_Overlay",
+      "meshPathID": 2286515,
+      "submesh": 0,
+      "textures": [
+        65815
+      ]
+    },
+    {
+      "recipeHash": 2475268100,
+      "slot": "Male_Top_Sc_Singers_0_Slot",
+      "overlay": "Male_Top_Sc_Singers_Overlay",
+      "meshPathID": 2286519,
+      "submesh": 0,
+      "textures": [
+        72814
+      ]
+    },
+    {
+      "recipeHash": 2475268100,
+      "slot": "Male_Top_Sc_Singers_1_Slot",
+      "overlay": "Male_Body_Sc_Singers_Overlay",
+      "meshPathID": 2286519,
+      "submesh": 1,
+      "textures": [
+        63813
+      ]
+    },
+    {
+      "recipeHash": 2836281422,
+      "slot": "Male_Bottom_Sc_Singers_0_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2286517,
+      "submesh": 0,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 2836281422,
+      "slot": "Male_Bottom_Sc_Singers_1_Slot",
+      "overlay": "Male_Bottom_Sc_Singers_Overlay",
+      "meshPathID": 2286517,
+      "submesh": 1,
+      "textures": [
+        67144
+      ]
+    },
+    {
+      "recipeHash": 3047744673,
+      "slot": "Male_Shoe_Sc_Singers_Slot",
+      "overlay": "Male_Shoe_Sc_Singers_Overlay",
+      "meshPathID": 2286521,
+      "submesh": 0,
+      "textures": [
+        50480
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2286512,
+      "vertices": 373,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2286515,
+      "vertices": 1880,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2286519,
+      "vertices": 2013,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2286517,
+      "vertices": 752,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2286521,
+      "vertices": 404,
+      "submeshes": 1
+    }
+  ],
+  "bones": 51,
+  "file": "J.Biebs_Default_InGame.glb",
+  "textures": 7,
+  "bytes": 1969008,
+  "sha256": "022cf6cae933a3cb526421930cdfcd0a78b9565a396b35bc8c2f2cff99cb9572",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

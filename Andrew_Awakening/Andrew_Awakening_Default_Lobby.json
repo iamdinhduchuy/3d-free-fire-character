@@ -1,0 +1,227 @@
+{
+  "character": "Andrew_Awakening",
+  "avatarId": 102000027,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000027,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Andrew_Awakening",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      1361594455,
+      2485176868,
+      1791157038,
+      805102195,
+      3615104531
+    ],
+    "RecipeValueInGame": [
+      2494056165,
+      2423182940,
+      2706946294,
+      4075326909,
+      2922273585
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_27_D_CHARACTER_ANDREW_AWAKENING_N",
+    "Introduction": "T_27_D_SKILL_INTRODUCE_ANDREW_AWAKENING",
+    "Portrait": "FF_UI_Character_AwakenAndrew",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800227001,
+    "InGameSpecialAnim": "INGAME_SC_ANDREW_AWAKENING_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_AwakenAndrew",
+    "OrderSource": 41,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 710027005,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/AndrewAwakening.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_ANDREW_AWAKENING_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_ANDREW_AWAKENING_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      1361594455,
+      2485176868
+    ],
+    "RecipeValueInGame_inAb": [
+      2494056165,
+      2423182940
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 1361594455,
+      "slot": "Male_Head_Sc_Andrew_Awakening_N_Slot",
+      "overlay": "Male_Head_Sc_Andrew_Awakening_Overlay_N",
+      "meshPathID": 2277904,
+      "submesh": 0,
+      "textures": [
+        72373,
+        92347,
+        47569
+      ]
+    },
+    {
+      "recipeHash": 1361594455,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 1361594455,
+      "slot": "Male_Head_Sc_Andrew_Awakening_N_1_Slot",
+      "overlay": "Male_Accessory_Sc_Andrew_Awakening_Overlay_N",
+      "meshPathID": 2277904,
+      "submesh": 1,
+      "textures": [
+        71714
+      ]
+    },
+    {
+      "recipeHash": 2485176868,
+      "slot": "Male_Hair_Sc_Andrew_Awakening_N_Slot",
+      "overlay": "Male_Hair_Sc_Andrew_Awakening_Overlay_N",
+      "meshPathID": 2277937,
+      "submesh": 0,
+      "textures": [
+        91564
+      ]
+    },
+    {
+      "recipeHash": 2485176868,
+      "slot": "Head_Hair_Base_Replace_Slot",
+      "overlay": "Male_Hairroot_Sc_Andrew_Awakening_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        91383
+      ]
+    },
+    {
+      "recipeHash": 1791157038,
+      "slot": "Male_Top_Sc_Andrew_Awakening_N_0_Slot",
+      "overlay": "Male_Top_Sc_Andrew_Awakening_Overlay_N",
+      "meshPathID": 2278049,
+      "submesh": 0,
+      "textures": [
+        77088,
+        68835,
+        48960
+      ]
+    },
+    {
+      "recipeHash": 1791157038,
+      "slot": "Male_Top_Sc_Andrew_Awakening_N_1_Slot",
+      "overlay": "Male_Skin_Sc_Andrew_Awakening_Overlay_N",
+      "meshPathID": 2278049,
+      "submesh": 1,
+      "textures": [
+        92675,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 805102195,
+      "slot": "Male_Bottom_Sc_Andrew_Awakening_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_Andrew_Awakening_Overlay_N",
+      "meshPathID": 2278009,
+      "submesh": 0,
+      "textures": [
+        68121,
+        87777,
+        65753
+      ]
+    },
+    {
+      "recipeHash": 805102195,
+      "slot": "Male_Bottom_Sc_Andrew_Awakening_N_1_Slot",
+      "overlay": "Male_Skin_Sc_Andrew_Awakening_Overlay_N",
+      "meshPathID": 2278009,
+      "submesh": 1,
+      "textures": [
+        92675,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 3615104531,
+      "slot": "Male_Shoe_Sc_Andrew_Awakening_N_Slot",
+      "overlay": "Male_Shoe_Sc_Andrew_Awakening_Overlay_N",
+      "meshPathID": 2278089,
+      "submesh": 0,
+      "textures": [
+        75000,
+        89325,
+        93732
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2277904,
+      "vertices": 1748,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2277937,
+      "vertices": 2573,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2278049,
+      "vertices": 3112,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2278009,
+      "vertices": 1562,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2278089,
+      "vertices": 254,
+      "submeshes": 1
+    }
+  ],
+  "bones": 55,
+  "file": "Andrew_Awakening_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1958084,
+  "sha256": "bf97577995f6cd3ba9abd9f1e0a9d3f16f47c6ff17e1d721d34640f7537b8412",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

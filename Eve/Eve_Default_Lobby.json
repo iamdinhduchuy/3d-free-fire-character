@@ -1,0 +1,193 @@
+{
+  "character": "Eve",
+  "avatarId": 101000001,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000001,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female01_head",
+    "Type": [
+      11
+    ],
+    "RecipeValueInLobby": [
+      645773978
+    ],
+    "RecipeValueInGame": [
+      1041330518
+    ],
+    "CanChangeSkinColor": true,
+    "Name": "TXT_CHARACTER_EVA_NAME",
+    "Introduction": "TXT_SKILL_INTRUDUCE_EVA",
+    "Portrait": "FF_UI_Character_Eva",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 0,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_Eva",
+    "OrderSource": 2,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": true,
+    "AvatarType": 3,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_BASE_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_BASE_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      645773978
+    ],
+    "RecipeValueInGame_inAb": [
+      1041330518
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": false,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 0,
+      "slot": "Base_female_Chest_N_0_Slot",
+      "overlay": "female_cos_top_new_max_Overlay_N",
+      "meshPathID": 2273577,
+      "submesh": 0,
+      "textures": [
+        66090,
+        60207,
+        54024
+      ]
+    },
+    {
+      "recipeHash": 0,
+      "slot": "Base_female_Chest_N_1_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2273577,
+      "submesh": 1,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 0,
+      "slot": "Base_female_Leg_N_0_Slot",
+      "overlay": "female_cos_bottom_new_max_Overlay_N",
+      "meshPathID": 2273538,
+      "submesh": 0,
+      "textures": [
+        55276,
+        91615,
+        90399
+      ]
+    },
+    {
+      "recipeHash": 0,
+      "slot": "Base_female_Leg_N_1_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2273538,
+      "submesh": 1,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 0,
+      "slot": "Base_lobby_Female_Head_N_Slot",
+      "overlay": "female_head001_Overlay_N",
+      "meshPathID": 2275060,
+      "submesh": 0,
+      "textures": [
+        62845,
+        88520,
+        74814
+      ]
+    },
+    {
+      "recipeHash": 645773978,
+      "slot": "Base_lobby_Female_Hair_N_Slot",
+      "overlay": "female_hair_001_Overlay_N",
+      "meshPathID": 2275052,
+      "submesh": 0,
+      "textures": [
+        84812
+      ]
+    },
+    {
+      "recipeHash": 0,
+      "slot": "Base_female_Feet_N_Slot",
+      "overlay": "female_cos_shoe_new_max_Overlay_N",
+      "meshPathID": 2275058,
+      "submesh": 0,
+      "textures": [
+        50384,
+        67150,
+        69211
+      ]
+    },
+    {
+      "recipeHash": 0,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Agent_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        83586
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2273577,
+      "vertices": 1811,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2273538,
+      "vertices": 844,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275060,
+      "vertices": 698,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275052,
+      "vertices": 993,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275058,
+      "vertices": 328,
+      "submeshes": 1
+    }
+  ],
+  "bones": 50,
+  "file": "Eve_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1375356,
+  "sha256": "16fd0a086b64ca6ba7161693095faef17860c4845dd85a907c348fe1bea6ce37",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

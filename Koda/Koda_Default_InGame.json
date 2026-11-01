@@ -1,0 +1,185 @@
+{
+  "character": "Koda",
+  "avatarId": 102000051,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000051,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Auroraboy",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      4266022535,
+      2789775717,
+      1658913666,
+      3952233218,
+      1528057933
+    ],
+    "RecipeValueInGame": [
+      4204539900,
+      2136266790,
+      2019205396,
+      299385076,
+      561060289
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_47_H_CHARACTER_AURORABOY_N",
+    "Introduction": "T_47_H_SKILL_INTRODUCE_AURORABOY",
+    "Portrait": "FF_UI_Character_Auroraboy",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800247001,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_Auroraboy",
+    "OrderSource": 68,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB47/CSH/character/Auroraboy.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_AURORABOY_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_AURORABOY_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      4266022535,
+      2789775717
+    ],
+    "RecipeValueInGame_inAb": [
+      4204539900,
+      2136266790
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 4204539900,
+      "slot": "Male_Head_Sc_Auroraboy_Slot",
+      "overlay": "Male_Head_Sc_Auroraboy_Overlay",
+      "meshPathID": 2282246,
+      "submesh": 0,
+      "textures": [
+        48180
+      ]
+    },
+    {
+      "recipeHash": 4204539900,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_HairRoot_Sc_Auroraboy_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        72452
+      ]
+    },
+    {
+      "recipeHash": 2136266790,
+      "slot": "Male_Hair_Sc_Auroraboy_Slot",
+      "overlay": "Female_Hair_Cos_Hoodlum_Overlay",
+      "meshPathID": 2282266,
+      "submesh": 0,
+      "textures": [
+        51450
+      ]
+    },
+    {
+      "recipeHash": 2019205396,
+      "slot": "Male_Top_Sc_Auroraboy_0_Slot",
+      "overlay": "Male_Top_Sc_Auroraboy_Overlay",
+      "meshPathID": 2282324,
+      "submesh": 0,
+      "textures": [
+        60818
+      ]
+    },
+    {
+      "recipeHash": 2019205396,
+      "slot": "Male_Top_Sc_Auroraboy_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2282324,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 299385076,
+      "slot": "Male_Bottom_Sc_Auroraboy_Slot",
+      "overlay": "Male_Bottom_Sc_Auroraboy_Overlay",
+      "meshPathID": 2282296,
+      "submesh": 0,
+      "textures": [
+        69877
+      ]
+    },
+    {
+      "recipeHash": 561060289,
+      "slot": "Male_Shoe_Sc_Auroraboy_Slot",
+      "overlay": "Male_Shoe_Sc_Auroraboy_Overlay",
+      "meshPathID": 2282352,
+      "submesh": 0,
+      "textures": [
+        68652
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2282246,
+      "vertices": 458,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2282266,
+      "vertices": 2669,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2282324,
+      "vertices": 2027,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2282296,
+      "vertices": 802,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2282352,
+      "vertices": 376,
+      "submeshes": 1
+    }
+  ],
+  "bones": 48,
+  "file": "Koda_Default_InGame.glb",
+  "textures": 6,
+  "bytes": 1415252,
+  "sha256": "f506528d1fe3273e92ff9e1334c59b8a44bb1b440c5456091e5eb33de89a0254",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

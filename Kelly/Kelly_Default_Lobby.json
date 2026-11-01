@@ -1,0 +1,201 @@
+{
+  "character": "Kelly",
+  "avatarId": 101000006,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000006,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_runner",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      545645913,
+      3018903244,
+      1320779587,
+      1668294228,
+      1293163395
+    ],
+    "RecipeValueInGame": [
+      3795797707,
+      2226959862,
+      3432878837,
+      369913455,
+      1799456650
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "TXT_CHARACTER_RUNNER_NAME",
+    "Introduction": "TXT_SKILL_INTRODUCE_RUNNER",
+    "Portrait": "FF_UI_Character_Kelly",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 801006001,
+    "InGameSpecialAnim": "INGAME_SC_RUNNER_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Kelly",
+    "OrderSource": 5,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 700000005,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/KellyAwakening.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_RUNNER_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_RUNNER_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [],
+    "RecipeValueInGame_inAb": [],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": "FF_UI_SA_Kelly"
+  },
+  "parts": [
+    {
+      "recipeHash": 545645913,
+      "slot": "Female_SC_Runner_head_lobby_N_Slot",
+      "overlay": "Female_SC_Runner_head_overlay_N",
+      "meshPathID": 2275069,
+      "submesh": 0,
+      "textures": [
+        91219,
+        47895,
+        82416
+      ]
+    },
+    {
+      "recipeHash": 545645913,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Suit_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        58584
+      ]
+    },
+    {
+      "recipeHash": 3018903244,
+      "slot": "Female_SC_Runner_hair_lobby_N_Slot",
+      "overlay": "Female_SC_Runner_hair_overlay_N",
+      "meshPathID": 2275096,
+      "submesh": 0,
+      "textures": [
+        91347
+      ]
+    },
+    {
+      "recipeHash": 1320779587,
+      "slot": "Female_SC_Runner_top_N_0_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2275242,
+      "submesh": 0,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 1320779587,
+      "slot": "Female_SC_Runner_top_N_1_Slot",
+      "overlay": "Female_SC_Runner_top_overlay_N",
+      "meshPathID": 2275242,
+      "submesh": 1,
+      "textures": [
+        82726,
+        50971,
+        72389
+      ]
+    },
+    {
+      "recipeHash": 1668294228,
+      "slot": "Female_SC_Runner_leg_N_0_Slot",
+      "overlay": "Female_SC_Runner_leg_overlay_N",
+      "meshPathID": 2275192,
+      "submesh": 0,
+      "textures": [
+        89496,
+        55037,
+        57593
+      ]
+    },
+    {
+      "recipeHash": 1668294228,
+      "slot": "Female_SC_Runner_leg_N_1_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2275192,
+      "submesh": 1,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 1293163395,
+      "slot": "Female_SC_Runner_feet_N_Slot",
+      "overlay": "Female_SC_Runner_feet_overlay_N",
+      "meshPathID": 2275305,
+      "submesh": 0,
+      "textures": [
+        80332,
+        59124,
+        54025
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2275069,
+      "vertices": 1136,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275096,
+      "vertices": 2422,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275242,
+      "vertices": 2248,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275192,
+      "vertices": 1001,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275305,
+      "vertices": 554,
+      "submeshes": 1
+    }
+  ],
+  "bones": 51,
+  "file": "Kelly_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1326300,
+  "sha256": "68fd20ed13163dc9dcb62258a30accb5f8859aa8e93d8f54c4f144094d32074b",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

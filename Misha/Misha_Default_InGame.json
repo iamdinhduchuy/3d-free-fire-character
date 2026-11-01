@@ -1,0 +1,205 @@
+{
+  "character": "Misha",
+  "avatarId": 101000008,
+  "variant": "InGame",
+  "config": {
+    "Id": 101000008,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_racergirl",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      782067055,
+      3186118394,
+      2377218891,
+      2628888512,
+      1581792704
+    ],
+    "RecipeValueInGame": [
+      3569666377,
+      3693343623,
+      1971927622,
+      2033182471,
+      2827344506
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "TXT_CHARACTER_RACERGIRL_NAME",
+    "Introduction": "TXT_SKILL_INTRODUCE_RACERGIRL",
+    "Portrait": "FF_UI_Character_Misha",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 2,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 801008001,
+    "InGameSpecialAnim": "INGAME_SC_RACERGIRL_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Misha",
+    "OrderSource": 9,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 700000017,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB41/CSH/character/Misha.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_RACERGIRL_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_RACERGIRL_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      782067055,
+      3186118394
+    ],
+    "RecipeValueInGame_inAb": [
+      3569666377,
+      3693343623
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": "FF_UI_SA_Misha"
+  },
+  "parts": [
+    {
+      "recipeHash": 3569666377,
+      "slot": "Female_SC_Racergirl_head_Slot",
+      "overlay": "Female_SC_Racergirl_head_overlay",
+      "meshPathID": 2275063,
+      "submesh": 0,
+      "textures": [
+        58959
+      ]
+    },
+    {
+      "recipeHash": 3569666377,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Tomboy_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        77591
+      ]
+    },
+    {
+      "recipeHash": 3693343623,
+      "slot": "Female_SC_Racergirl_hair_0_Slot",
+      "overlay": "Female_SC_Racergirl_hat_overlay",
+      "meshPathID": 2275079,
+      "submesh": 0,
+      "textures": [
+        82947
+      ]
+    },
+    {
+      "recipeHash": 3693343623,
+      "slot": "Female_SC_Racergirl_hair_1_Slot",
+      "overlay": "Female_SC_Racergirl_hair_overlay",
+      "meshPathID": 2275079,
+      "submesh": 1,
+      "textures": [
+        64502
+      ]
+    },
+    {
+      "recipeHash": 1971927622,
+      "slot": "Female_SC_Racergirl_top_0_Slot",
+      "overlay": "Female_SC_Racergirl_top_overlay",
+      "meshPathID": 2275208,
+      "submesh": 0,
+      "textures": [
+        61011
+      ]
+    },
+    {
+      "recipeHash": 1971927622,
+      "slot": "Female_SC_Racergirl_top_1_Slot",
+      "overlay": "female_body_Overlay",
+      "meshPathID": 2275208,
+      "submesh": 1,
+      "textures": [
+        48582
+      ]
+    },
+    {
+      "recipeHash": 2033182471,
+      "slot": "Female_SC_Racergirl_bottom_0_Slot",
+      "overlay": "Female_SC_Racergirl_bottom_overlay",
+      "meshPathID": 2275162,
+      "submesh": 0,
+      "textures": [
+        64907
+      ]
+    },
+    {
+      "recipeHash": 2033182471,
+      "slot": "Female_SC_Racergirl_bottom_1_Slot",
+      "overlay": "female_body_Overlay",
+      "meshPathID": 2275162,
+      "submesh": 1,
+      "textures": [
+        48582
+      ]
+    },
+    {
+      "recipeHash": 2827344506,
+      "slot": "Female_SC_Racergirl_shoe_Slot",
+      "overlay": "Female_SC_Racergirl_shoe_overlay",
+      "meshPathID": 2275271,
+      "submesh": 0,
+      "textures": [
+        80346
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2275063,
+      "vertices": 378,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275079,
+      "vertices": 2042,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275208,
+      "vertices": 1905,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275162,
+      "vertices": 560,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275271,
+      "vertices": 246,
+      "submeshes": 1
+    }
+  ],
+  "bones": 45,
+  "file": "Misha_Default_InGame.glb",
+  "textures": 7,
+  "bytes": 1556516,
+  "sha256": "1bd05efc8bc43af823a922d8774b383713598a603a71e54fa83221cdbd6b673a",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

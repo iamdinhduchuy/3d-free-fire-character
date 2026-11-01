@@ -1,0 +1,193 @@
+{
+  "character": "Antonio",
+  "avatarId": 102000010,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000010,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_gangleader",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      398296019,
+      1899917550,
+      3119394583,
+      428691342,
+      1326326516
+    ],
+    "RecipeValueInGame": [
+      1490916798,
+      4112160748,
+      2527575272,
+      310682235,
+      237141652
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_12_R_CHARACTER_GANGLEADER_NAME",
+    "Introduction": "T_12_R_SKILL_INTRODUCE_GANGLEADER",
+    "Portrait": "FF_UI_Character_Antonio",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [
+      122,
+      82,
+      67
+    ],
+    "HairType": 0,
+    "DecorPropIDRight": "INGAME_WEAPON_M1873",
+    "DecorPropIDLeft": "PROP_GANGLEADER_BEERBOTTLE",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800210001,
+    "InGameSpecialAnim": "INGAME_SC_GANGLEADER_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Antonio",
+    "OrderSource": 14,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 700000159,
+    "LuxuryBundleID": 700000160,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_GANGLEADER_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_GANGLEADER_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [],
+    "RecipeValueInGame_inAb": [],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 1490916798,
+      "slot": "Male_Head_Sc_Mafiaman_Slot",
+      "overlay": "Male_Head_Sc_Mafiaman_Overlay",
+      "meshPathID": 2275609,
+      "submesh": 0,
+      "textures": [
+        91071
+      ]
+    },
+    {
+      "recipeHash": 1490916798,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_Mafiaman_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        61103
+      ]
+    },
+    {
+      "recipeHash": 4112160748,
+      "slot": "Male_Hair_Sc_Mafiaman_Slot",
+      "overlay": "Male_Hair_Sc_Mafiaman_Overlay",
+      "meshPathID": 2275635,
+      "submesh": 0,
+      "textures": [
+        91170
+      ]
+    },
+    {
+      "recipeHash": 2527575272,
+      "slot": "Male_Top_Sc_Mafiaman_0_Slot",
+      "overlay": "Male_Top_Sc_Mafiaman_Overlay",
+      "meshPathID": 2275712,
+      "submesh": 0,
+      "textures": [
+        90147
+      ]
+    },
+    {
+      "recipeHash": 2527575272,
+      "slot": "Male_Top_Sc_Mafiaman_1_Slot",
+      "overlay": "Male_Body_Sc_Mafiaman_Overlay",
+      "meshPathID": 2275712,
+      "submesh": 1,
+      "textures": [
+        78233
+      ]
+    },
+    {
+      "recipeHash": 310682235,
+      "slot": "Male_Bottom_Sc_Mafiaman_0_Slot",
+      "overlay": "Male_Bottom_Sc_Mafiaman_Overlay",
+      "meshPathID": 2275687,
+      "submesh": 0,
+      "textures": [
+        51572
+      ]
+    },
+    {
+      "recipeHash": 310682235,
+      "slot": "Male_Bottom_Sc_Mafiaman_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2275687,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 237141652,
+      "slot": "Male_Shoe_Sc_Mafiaman_Slot",
+      "overlay": "Male_Shoe_Sc_Mafiaman_Overlay",
+      "meshPathID": 2275739,
+      "submesh": 0,
+      "textures": [
+        89761
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2275609,
+      "vertices": 434,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275635,
+      "vertices": 356,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275712,
+      "vertices": 1548,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275687,
+      "vertices": 691,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275739,
+      "vertices": 304,
+      "submeshes": 1
+    }
+  ],
+  "bones": 48,
+  "file": "Antonio_Default_InGame.glb",
+  "textures": 7,
+  "bytes": 1675904,
+  "sha256": "5e6b88ce50ec0a326589593ba8b92918c347ec649876009b3240b921666cf29d",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

@@ -1,0 +1,229 @@
+{
+  "character": "Olivia",
+  "avatarId": 101000005,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000005,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_nurse",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3111693679,
+      2826549923,
+      3037225074,
+      2768800724,
+      3089801896
+    ],
+    "RecipeValueInGame": [
+      1523743241,
+      1011976500,
+      2617532354,
+      1184211800,
+      3551312712
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "TXT_CHARACTER_NURSE_NAME",
+    "Introduction": "TXT_SKILL_INTRODUCE_NURSE",
+    "Portrait": "FF_UI_Character_Nurse",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 12,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 801005001,
+    "InGameSpecialAnim": "INGAME_SC_NURSE_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Nurse",
+    "OrderSource": 3,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 700000004,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_NURSE_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_NURSE_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3111693679,
+      2826549923
+    ],
+    "RecipeValueInGame_inAb": [
+      1523743241,
+      1011976500
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3111693679,
+      "slot": "Female_SC_Nurse_head_lobby_N_Slot",
+      "overlay": "Female_SC_Nurse_head_lobby_overlay_N",
+      "meshPathID": 2275067,
+      "submesh": 0,
+      "textures": [
+        48423,
+        64868,
+        66970
+      ]
+    },
+    {
+      "recipeHash": 3111693679,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Richgirl_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        69401
+      ]
+    },
+    {
+      "recipeHash": 2826549923,
+      "slot": "Female_SC_Nurse_hair_lobby_N_0_Slot",
+      "overlay": "Female_SC_Nurse_hair_lobby_overlay_N",
+      "meshPathID": 2275094,
+      "submesh": 0,
+      "textures": [
+        48108
+      ]
+    },
+    {
+      "recipeHash": 2826549923,
+      "slot": "Female_SC_Nurse_hair_lobby_N_1_Slot",
+      "overlay": "Female_SC_Cutoff_Nurse_hair_overlay",
+      "meshPathID": 2275094,
+      "submesh": 1,
+      "textures": [
+        48108
+      ]
+    },
+    {
+      "recipeHash": 2826549923,
+      "slot": "Female_SC_Nurse_hair_lobby_N_2_Slot",
+      "overlay": "Female_SC_Nurse_hat_lobby_overlay_N",
+      "meshPathID": 2275094,
+      "submesh": 2,
+      "textures": [
+        51724,
+        51310,
+        49646
+      ]
+    },
+    {
+      "recipeHash": 3037225074,
+      "slot": "Female_SC_Nurse_top_lobby_N_0_Slot",
+      "overlay": "Female_SC_Nurse_top_lobby_overlay_N",
+      "meshPathID": 2275240,
+      "submesh": 0,
+      "textures": [
+        69497,
+        47901,
+        65756
+      ]
+    },
+    {
+      "recipeHash": 3037225074,
+      "slot": "Female_SC_Nurse_top_lobby_N_1_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2275240,
+      "submesh": 1,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 2768800724,
+      "slot": "Female_SC_Nurse_leg_lobby_N_0_Slot",
+      "overlay": "Female_SC_Nurse_leg_lobby_overlay_N",
+      "meshPathID": 2275190,
+      "submesh": 0,
+      "textures": [
+        71459,
+        89967,
+        92431
+      ]
+    },
+    {
+      "recipeHash": 2768800724,
+      "slot": "Female_SC_Nurse_leg_lobby_N_1_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2275190,
+      "submesh": 1,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 3089801896,
+      "slot": "Female_SC_Nurse_feet_lobby_N_Slot",
+      "overlay": "Female_SC_Nurse_feet_lobby_overlay_N",
+      "meshPathID": 2275303,
+      "submesh": 0,
+      "textures": [
+        52801,
+        79144,
+        47196
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2275067,
+      "vertices": 1095,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275094,
+      "vertices": 3729,
+      "submeshes": 3
+    },
+    {
+      "meshPathID": 2275240,
+      "vertices": 2681,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275190,
+      "vertices": 1784,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275303,
+      "vertices": 622,
+      "submeshes": 1
+    }
+  ],
+  "bones": 53,
+  "file": "Olivia_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1925124,
+  "sha256": "2493293ff8183519eca58e6214e42e2b1581223f3fa2ba8cd8c48d348fcd5392",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

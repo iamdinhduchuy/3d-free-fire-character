@@ -1,0 +1,195 @@
+{
+  "character": "Jota",
+  "avatarId": 102000017,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000017,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_ParkourGuy",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2256332702,
+      3357567493,
+      4136285252,
+      465257516,
+      4251491894
+    ],
+    "RecipeValueInGame": [
+      1521660057,
+      1009861540,
+      4108393565,
+      1417837764,
+      33624510
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_20_Y_CHARACTER_PARKOURGUY_N",
+    "Introduction": "T_20_Y_SKILL_INTRODUCE_PARKOURGUY",
+    "Portrait": "FF_UI_Character_ParkourGuy",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800217001,
+    "InGameSpecialAnim": "INGAME_SC_PARKOURGUY_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_ParkourGuy",
+    "OrderSource": 28,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000574,
+    "LuxuryBundleID": 710000575,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_PARKOURGUY_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_PARKOURGUY_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2256332702,
+      3357567493
+    ],
+    "RecipeValueInGame_inAb": [
+      1521660057,
+      1009861540
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 1521660057,
+      "slot": "Male_Head_Sc_Parkourguy_Slot",
+      "overlay": "Male_Head_Sc_Parkourguy_Overlay",
+      "meshPathID": 2276769,
+      "submesh": 0,
+      "textures": [
+        67151
+      ]
+    },
+    {
+      "recipeHash": 1521660057,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 1009861540,
+      "slot": "Male_Hair_Sc_Parkourguy_Slot",
+      "overlay": "Male_Hair_Sc_Parkourguy_Overlay",
+      "meshPathID": 2276767,
+      "submesh": 0,
+      "textures": [
+        48901
+      ]
+    },
+    {
+      "recipeHash": 4108393565,
+      "slot": "Male_Top_Sc_Parkourguy_0_Slot",
+      "overlay": "Male_Top_Sc_Parkourguy_Overlay",
+      "meshPathID": 2276862,
+      "submesh": 0,
+      "textures": [
+        54263
+      ]
+    },
+    {
+      "recipeHash": 4108393565,
+      "slot": "Male_Top_Sc_Parkourguy_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2276862,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 1417837764,
+      "slot": "Male_Bottom_Sc_Parkourguy_0_Slot",
+      "overlay": "Male_Bottom_Sc_Parkourguy_Overlay",
+      "meshPathID": 2276838,
+      "submesh": 0,
+      "textures": [
+        82879
+      ]
+    },
+    {
+      "recipeHash": 1417837764,
+      "slot": "Male_Bottom_Sc_Parkourguy_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2276838,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 33624510,
+      "slot": "Male_Shoe_Sc_Parkourguy_Slot",
+      "overlay": "Male_Shoe_Sc_Parkourguy_Overlay",
+      "meshPathID": 2276886,
+      "submesh": 0,
+      "textures": [
+        49702
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2276769,
+      "vertices": 330,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2276767,
+      "vertices": 118,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2276862,
+      "vertices": 1245,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2276838,
+      "vertices": 613,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2276886,
+      "vertices": 180,
+      "submeshes": 1
+    }
+  ],
+  "bones": 48,
+  "file": "Jota_Default_InGame.glb",
+  "textures": 6,
+  "bytes": 1260320,
+  "sha256": "c4dfe5ef379a5d2cc2fe2be5c19e903fb957cbcec38c8f5449ad646726d67190",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

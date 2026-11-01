@@ -1,0 +1,223 @@
+{
+  "character": "Shani",
+  "avatarId": 101000014,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000014,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_JunkEngineer",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2412160691,
+      2390377635,
+      3385558201,
+      2840598904,
+      3233882846
+    ],
+    "RecipeValueInGame": [
+      3786376274,
+      2951940553,
+      376761163,
+      2973427441,
+      2596011514
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_18_Y_CHARACTER_JUNKENGINEER_N",
+    "Introduction": "T_18_Y_SKILL_INTRODUCE_JUNKENGINEER",
+    "Portrait": "FF_UI_Character_JunkEngineer",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [
+      118,
+      78,
+      63
+    ],
+    "HairType": 2,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800114001,
+    "InGameSpecialAnim": "INGAME_SC_JUNKENGINEER_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_JunkEngineer",
+    "OrderSource": 21,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000439,
+    "LuxuryBundleID": 710000440,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_JUNKENGINEER_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_JUNKENGINEER_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2412160691,
+      2390377635
+    ],
+    "RecipeValueInGame_inAb": [
+      3786376274,
+      2951940553
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 2412160691,
+      "slot": "Female_Head_Sc_JunkEngineer_N_Slot",
+      "overlay": "Female_Head_Sc_JunkEngineer_Overlay_N",
+      "meshPathID": 2269044,
+      "submesh": 0,
+      "textures": [
+        74024,
+        47888,
+        80768
+      ]
+    },
+    {
+      "recipeHash": 2412160691,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Richgirl_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        69401
+      ]
+    },
+    {
+      "recipeHash": 2390377635,
+      "slot": "Female_Hair_Sc_JunkEngineer_N_0_Slot",
+      "overlay": "Male_SC_Cop_hair_lobby_overlay_N",
+      "meshPathID": 2269068,
+      "submesh": 0,
+      "textures": [
+        66076
+      ]
+    },
+    {
+      "recipeHash": 2390377635,
+      "slot": "Female_Hair_Sc_JunkEngineer_N_1_Slot",
+      "overlay": "Female_Hair_Sc_JunkEngineer_Overlay_N",
+      "meshPathID": 2269068,
+      "submesh": 1,
+      "textures": [
+        68237,
+        74678,
+        83430
+      ]
+    },
+    {
+      "recipeHash": 3385558201,
+      "slot": "Female_Top_Sc_JunkEngineer_N_0_Slot",
+      "overlay": "Female_Top_Sc_JunkEngineer_Overlay_N",
+      "meshPathID": 2269158,
+      "submesh": 0,
+      "textures": [
+        86795,
+        70596,
+        78031
+      ]
+    },
+    {
+      "recipeHash": 3385558201,
+      "slot": "Female_Top_Sc_JunkEngineer_N_1_Slot",
+      "overlay": "Female_Body_Sc_JunkEngineer_Overlay_N",
+      "meshPathID": 2269158,
+      "submesh": 1,
+      "textures": [
+        86606,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 2840598904,
+      "slot": "Female_Bottom_Sc_JunkEngineer_N_0_Slot",
+      "overlay": "Female_Bottom_Sc_JunkEngineer_Overlay_N",
+      "meshPathID": 2269133,
+      "submesh": 0,
+      "textures": [
+        65505,
+        61039,
+        79025
+      ]
+    },
+    {
+      "recipeHash": 2840598904,
+      "slot": "Female_Bottom_Sc_JunkEngineer_N_1_Slot",
+      "overlay": "Female_Body_Sc_JunkEngineer_Overlay_N",
+      "meshPathID": 2269133,
+      "submesh": 1,
+      "textures": [
+        86606,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 3233882846,
+      "slot": "Female_Shoe_Sc_JunkEngineer_N_Slot",
+      "overlay": "Female_Shoe_Sc_JunkEngineer_Overlay_N",
+      "meshPathID": 2269183,
+      "submesh": 0,
+      "textures": [
+        57974,
+        49199,
+        78974
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2269044,
+      "vertices": 698,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2269068,
+      "vertices": 1602,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269158,
+      "vertices": 2292,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269133,
+      "vertices": 2161,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269183,
+      "vertices": 380,
+      "submeshes": 1
+    }
+  ],
+  "bones": 54,
+  "file": "Shani_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1942640,
+  "sha256": "d2b79ee40f4437713cdd64a6054a5ed3bae6497827aac0c2f81f2980af93558d",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

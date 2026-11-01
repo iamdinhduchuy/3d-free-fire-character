@@ -1,0 +1,189 @@
+{
+  "character": "Hayato",
+  "avatarId": 102000012,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000012,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Samurai",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      1588741322,
+      3682251536,
+      3698641442,
+      3052809154,
+      2237625079
+    ],
+    "RecipeValueInGame": [
+      3736254820,
+      2117643534,
+      3313463315,
+      1478507776,
+      2459807825
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_14_R_CHARACTER_SAMURAI_NAME",
+    "Introduction": "T_14_R_SKILL_INTRODUCE_SAMURAI",
+    "Portrait": "FF_UI_Character_Samurai",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800212001,
+    "InGameSpecialAnim": "INGAME_SC_SAMURAI_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Samurai",
+    "OrderSource": 18,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000264,
+    "LuxuryBundleID": 710000265,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_SAMURAI_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_SAMURAI_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [],
+    "RecipeValueInGame_inAb": [],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": "FF_UI_SA_Samurai"
+  },
+  "parts": [
+    {
+      "recipeHash": 3736254820,
+      "slot": "Male_Head_SC_Samurai_Slot",
+      "overlay": "Male_Head_SC_Samurai_Overlay",
+      "meshPathID": 2275881,
+      "submesh": 0,
+      "textures": [
+        54029
+      ]
+    },
+    {
+      "recipeHash": 3736254820,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 2117643534,
+      "slot": "Male_Hair_SC_Samurai_Slot",
+      "overlay": "Male_Hair_SC_Samurai_Overlay",
+      "meshPathID": 2275910,
+      "submesh": 0,
+      "textures": [
+        90436
+      ]
+    },
+    {
+      "recipeHash": 3313463315,
+      "slot": "Male_Top_SC_Samurai_0_Slot",
+      "overlay": "Male_Top_SC_Samurai_Overlay",
+      "meshPathID": 2275972,
+      "submesh": 0,
+      "textures": [
+        50206
+      ]
+    },
+    {
+      "recipeHash": 3313463315,
+      "slot": "Male_Top_SC_Samurai_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2275972,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 1478507776,
+      "slot": "Male_Bottom_SC_Samurai_0_Slot",
+      "overlay": "Male_Bottom_SC_Samurai_Overlay",
+      "meshPathID": 2275948,
+      "submesh": 0,
+      "textures": [
+        82653
+      ]
+    },
+    {
+      "recipeHash": 1478507776,
+      "slot": "Male_Bottom_SC_Samurai_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2275948,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 2459807825,
+      "slot": "Male_Shoe_SC_Samurai_Slot",
+      "overlay": "Male_Shoe_SC_Samurai_Overlay",
+      "meshPathID": 2275996,
+      "submesh": 0,
+      "textures": [
+        92127
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2275881,
+      "vertices": 332,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275910,
+      "vertices": 820,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275972,
+      "vertices": 1912,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275948,
+      "vertices": 562,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275996,
+      "vertices": 166,
+      "submeshes": 1
+    }
+  ],
+  "bones": 48,
+  "file": "Hayato_Default_InGame.glb",
+  "textures": 6,
+  "bytes": 1140504,
+  "sha256": "6c3d3f341aa457ae43c1f8a50407b58ba63b4f8aa79a450527d6eb30cebb1350",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

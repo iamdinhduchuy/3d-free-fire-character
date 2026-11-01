@@ -1,0 +1,206 @@
+{
+  "character": "Joseph",
+  "avatarId": 102000014,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000014,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Playboy",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      1457327047,
+      3541433373,
+      3558573359,
+      3180946639,
+      2368749050
+    ],
+    "RecipeValueInGame": [
+      3238133415,
+      1636559565,
+      3670816720,
+      1200847555,
+      2368665490
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_17_Y_CHARACTER_PLAYBOY_NAME",
+    "Introduction": "T_17_Y_SKILL_INTRODUCE_PLAYBOY",
+    "Portrait": "FF_UI_Character_Playboy",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800214001,
+    "InGameSpecialAnim": "INGAME_SC_PLAYBOY_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Playboy",
+    "OrderSource": 22,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000387,
+    "LuxuryBundleID": 710000388,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_PLAYBOY_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_PLAYBOY_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      1457327047,
+      3541433373
+    ],
+    "RecipeValueInGame_inAb": [
+      3238133415,
+      1636559565
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 1457327047,
+      "slot": "Male_Head_Sc_Playboy_N_0_Slot",
+      "overlay": "Male_Head_Sc_Playboy_Overlay_N",
+      "meshPathID": 2276288,
+      "submesh": 0,
+      "textures": [
+        58551,
+        55371,
+        75994
+      ]
+    },
+    {
+      "recipeHash": 1457327047,
+      "slot": "Male_Head_Sc_Playboy_N_1_Slot",
+      "overlay": "Male_Accessory_Sc_Playboy_Overlay_N",
+      "meshPathID": 2276288,
+      "submesh": 1,
+      "textures": [
+        64110
+      ]
+    },
+    {
+      "recipeHash": 1457327047,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_Playboy_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        63988
+      ]
+    },
+    {
+      "recipeHash": 3541433373,
+      "slot": "Male_Hair_Sc_Playboy_N_Slot",
+      "overlay": "Male_Hair_Sc_Playboy_Overlay_N",
+      "meshPathID": 2276307,
+      "submesh": 0,
+      "textures": [
+        73745,
+        0
+      ]
+    },
+    {
+      "recipeHash": 3558573359,
+      "slot": "Male_Top_Sc_Playboy_N_0_Slot",
+      "overlay": "Male_Skin_Sc_Playboy_Overlay_N",
+      "meshPathID": 2276393,
+      "submesh": 0,
+      "textures": [
+        82336,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 3558573359,
+      "slot": "Male_Top_Sc_Playboy_N_1_Slot",
+      "overlay": "Male_Top_Sc_Playboy_Overlay_N",
+      "meshPathID": 2276393,
+      "submesh": 1,
+      "textures": [
+        93130,
+        47187,
+        85986
+      ]
+    },
+    {
+      "recipeHash": 3180946639,
+      "slot": "Male_Bottom_Sc_Playboy_N_Slot",
+      "overlay": "Male_Bottom_Sc_Playboy_Overlay_N",
+      "meshPathID": 2276367,
+      "submesh": 0,
+      "textures": [
+        76358,
+        59852,
+        62613
+      ]
+    },
+    {
+      "recipeHash": 2368749050,
+      "slot": "Male_Shoe_Sc_Playboy_N_Slot",
+      "overlay": "Male_Shoe_Sc_Playboy_Overlay_N",
+      "meshPathID": 2276419,
+      "submesh": 0,
+      "textures": [
+        83800,
+        57293,
+        56381
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2276288,
+      "vertices": 1800,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2276307,
+      "vertices": 2405,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2276393,
+      "vertices": 2396,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2276367,
+      "vertices": 1002,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2276419,
+      "vertices": 482,
+      "submeshes": 1
+    }
+  ],
+  "bones": 56,
+  "file": "Joseph_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1767016,
+  "sha256": "435d3e16b207373c351efde0ba3046d51e2b2cfad41f0b7c5ae65bc0bd7d6207",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

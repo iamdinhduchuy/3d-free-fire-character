@@ -1,0 +1,219 @@
+{
+  "character": "Chrono",
+  "avatarId": 102000024,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000024,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Bounty",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3773024222,
+      1294255500,
+      781840008,
+      2864377883,
+      3055299828
+    ],
+    "RecipeValueInGame": [
+      1214894234,
+      3365913210,
+      2214976719,
+      155148362,
+      242269115
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_25_D_CHARACTER_BOUNTY_N",
+    "Introduction": "T_25_D_SKILL_INTRODUCE_BOUNTY",
+    "Portrait": "FF_UI_Character_Bounty",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800224001,
+    "InGameSpecialAnim": "INGAME_SC_BOUNTY_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Bounty",
+    "OrderSource": 68,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000810,
+    "LuxuryBundleID": 710000811,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_BOUNTY_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_BOUNTY_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3773024222,
+      1294255500
+    ],
+    "RecipeValueInGame_inAb": [
+      1214894234,
+      3365913210
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3773024222,
+      "slot": "Male_Head_Sc_Bounty_N_Slot",
+      "overlay": "Male_Head_Sc_Bounty_Overlay_N",
+      "meshPathID": 2285251,
+      "submesh": 0,
+      "textures": [
+        83078,
+        80636,
+        72490
+      ]
+    },
+    {
+      "recipeHash": 3773024222,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_Bounty_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        65027
+      ]
+    },
+    {
+      "recipeHash": 1294255500,
+      "slot": "Male_Hair_Sc_Bounty_N_Slot",
+      "overlay": "Male_Hair_Sc_Bounty_Overlay_N",
+      "meshPathID": 2285253,
+      "submesh": 0,
+      "textures": [
+        61534
+      ]
+    },
+    {
+      "recipeHash": 1294255500,
+      "slot": "Male_Hair_Sc_Bounty_N_1_Slot",
+      "overlay": "Male_Accessory_Sc_Bounty_Overlay_N",
+      "meshPathID": 2285253,
+      "submesh": 1,
+      "textures": [
+        58847,
+        51342,
+        50965
+      ]
+    },
+    {
+      "recipeHash": 781840008,
+      "slot": "Male_Top_Sc_Bounty_N_0_Slot",
+      "overlay": "Male_Top_Sc_Bounty_Overlay_N",
+      "meshPathID": 2285269,
+      "submesh": 0,
+      "textures": [
+        79751,
+        62013,
+        87070
+      ]
+    },
+    {
+      "recipeHash": 781840008,
+      "slot": "Male_Top_Sc_Bounty_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2285269,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 2864377883,
+      "slot": "Male_Bottom_Sc_Bounty_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_Bounty_Overlay_N",
+      "meshPathID": 2285267,
+      "submesh": 0,
+      "textures": [
+        62270,
+        69355,
+        91522
+      ]
+    },
+    {
+      "recipeHash": 2864377883,
+      "slot": "Male_Bottom_Sc_Bounty_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2285267,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 3055299828,
+      "slot": "Male_Shoe_Sc_Bounty_N_Slot",
+      "overlay": "Male_Shoe_Sc_Bounty_Overlay_N",
+      "meshPathID": 2285271,
+      "submesh": 0,
+      "textures": [
+        55411,
+        76126,
+        92907
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2285251,
+      "vertices": 1111,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2285253,
+      "vertices": 2714,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2285269,
+      "vertices": 5250,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2285267,
+      "vertices": 2446,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2285271,
+      "vertices": 528,
+      "submeshes": 1
+    }
+  ],
+  "bones": 82,
+  "file": "Chrono_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 2089592,
+  "sha256": "13b66b32d66f965cab94051cbc77063371f20742b9de8d5a6af8d6340cce2574",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

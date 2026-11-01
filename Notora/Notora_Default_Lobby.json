@@ -1,0 +1,207 @@
+{
+  "character": "Notora",
+  "avatarId": 101000016,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000016,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_Tomboy",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2993597314,
+      531212752,
+      3533014880,
+      3293993829,
+      857999391
+    ],
+    "RecipeValueInGame": [
+      331181655,
+      2471197879,
+      3042883186,
+      2886018523,
+      1918430017
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_19_Y_CHARACTER_TOMBOY_N",
+    "Introduction": "T_19_Y_SKILL_INTRODUCE_TOMBOY",
+    "Portrait": "FF_UI_Character_Tomboy",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 2,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800115001,
+    "InGameSpecialAnim": "INGAME_SC_TOMBOY_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Tomboy",
+    "OrderSource": 23,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000495,
+    "LuxuryBundleID": 710000496,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_TOMBOY_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_TOMBOY_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2993597314,
+      531212752
+    ],
+    "RecipeValueInGame_inAb": [
+      331181655,
+      2471197879
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 2993597314,
+      "slot": "Female_Head_Sc_Tomboy_N_Slot",
+      "overlay": "Female_Head_Sc_Tomboy_Overlay_N",
+      "meshPathID": 2269211,
+      "submesh": 0,
+      "textures": [
+        60844,
+        71308,
+        59024
+      ]
+    },
+    {
+      "recipeHash": 2993597314,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Tomboy_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        77591
+      ]
+    },
+    {
+      "recipeHash": 531212752,
+      "slot": "Female_Hair_Sc_Tomboy_N_Slot",
+      "overlay": "Female_Hair_Sc_Tomboy_Overlay_N",
+      "meshPathID": 2269238,
+      "submesh": 0,
+      "textures": [
+        88218
+      ]
+    },
+    {
+      "recipeHash": 3533014880,
+      "slot": "Female_Top_Sc_Tomboy_N_0_Slot",
+      "overlay": "Female_Skin_Sc_Tomboy_Overlay_N",
+      "meshPathID": 2269323,
+      "submesh": 0,
+      "textures": [
+        74140,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 3533014880,
+      "slot": "Female_Top_Sc_Tomboy_N_1_Slot",
+      "overlay": "Female_Top_Sc_Tomboy_Overlay_N",
+      "meshPathID": 2269323,
+      "submesh": 1,
+      "textures": [
+        75987,
+        48317,
+        77475
+      ]
+    },
+    {
+      "recipeHash": 3293993829,
+      "slot": "Female_Bottom_Sc_Tomboy_N_0_Slot",
+      "overlay": "Female_Skin_Sc_Tomboy_Overlay_N",
+      "meshPathID": 2269293,
+      "submesh": 0,
+      "textures": [
+        74140,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 3293993829,
+      "slot": "Female_Bottom_Sc_Tomboy_N_1_Slot",
+      "overlay": "Female_Bottom_Sc_Tomboy_Overlay_N",
+      "meshPathID": 2269293,
+      "submesh": 1,
+      "textures": [
+        64160,
+        76321,
+        48099
+      ]
+    },
+    {
+      "recipeHash": 857999391,
+      "slot": "Female_Shoes_Sc_Tomboy_N_Slot",
+      "overlay": "Female_Shoes_Sc_Tomboy_Overlay_N",
+      "meshPathID": 2269353,
+      "submesh": 0,
+      "textures": [
+        67592,
+        67675,
+        89003
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2269211,
+      "vertices": 698,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2269238,
+      "vertices": 1760,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2269323,
+      "vertices": 3063,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269293,
+      "vertices": 2001,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269353,
+      "vertices": 470,
+      "submeshes": 1
+    }
+  ],
+  "bones": 52,
+  "file": "Notora_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1719432,
+  "sha256": "c25abb1b23a11abb2abe4704cadca6d632c6e77e94eda626ef9f8b4ca27b2d6b",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

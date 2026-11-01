@@ -1,0 +1,229 @@
+{
+  "character": "Nikita",
+  "avatarId": 101000007,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000007,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_bodyguard",
+    "Type": [
+      1,
+      11,
+      8,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3497157347,
+      2289872129,
+      1319949295,
+      3104117473,
+      1601342896,
+      1965057065
+    ],
+    "RecipeValueInGame": [
+      1457457306,
+      811400103,
+      3628578495,
+      1633012005,
+      2202713835,
+      2083141227
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "TXT_CHARACTER_BODYGUARD_NAME",
+    "Introduction": "TXT_SKILL_INTRODUCE_BODYGUARD",
+    "Portrait": "FF_UI_Character_Nikita",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 1,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 801007001,
+    "InGameSpecialAnim": "INGAME_SC_BODYGUARD_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Nikita",
+    "OrderSource": 7,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 700000011,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_BODYGUARD_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_BODYGUARD_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3497157347,
+      2289872129,
+      1319949295
+    ],
+    "RecipeValueInGame_inAb": [
+      1457457306,
+      811400103,
+      3628578495
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3497157347,
+      "slot": "Female_SC_Suit_head_lobby_N_Slot",
+      "overlay": "Female_SC_Suit_head_lobby_overlay_N",
+      "meshPathID": 2275071,
+      "submesh": 0,
+      "textures": [
+        75350,
+        57324,
+        65838
+      ]
+    },
+    {
+      "recipeHash": 3497157347,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Suit_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        58584
+      ]
+    },
+    {
+      "recipeHash": 2289872129,
+      "slot": "Female_Hair_Sc_Suit_N_Slot",
+      "overlay": "Female_SC_Suit_hair_lobby_overlay_N",
+      "meshPathID": 2275093,
+      "submesh": 0,
+      "textures": [
+        72143
+      ]
+    },
+    {
+      "recipeHash": 1319949295,
+      "slot": "Female_SC_Suit_accessory_lobby_N_Slot",
+      "overlay": "Female_Accessory_SC_Suit_Overlay_N",
+      "meshPathID": 2275070,
+      "submesh": 0,
+      "textures": [
+        89192,
+        78288,
+        87527
+      ]
+    },
+    {
+      "recipeHash": 3104117473,
+      "slot": "Female_SC_Suit_top_N_0_Slot",
+      "overlay": "Female_SC_Suit_top_lobby_overlay_N",
+      "meshPathID": 2275243,
+      "submesh": 0,
+      "textures": [
+        83422,
+        80173,
+        92230
+      ]
+    },
+    {
+      "recipeHash": 3104117473,
+      "slot": "Female_SC_Suit_top_N_1_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2275243,
+      "submesh": 1,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 1601342896,
+      "slot": "Female_SC_Suit_bottom_N_0_Slot",
+      "overlay": "Female_SC_Suit_bottom_lobby_overlay_N",
+      "meshPathID": 2275193,
+      "submesh": 0,
+      "textures": [
+        52559,
+        65932,
+        59772
+      ]
+    },
+    {
+      "recipeHash": 1601342896,
+      "slot": "Female_SC_Suit_bottom_N_1_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2275193,
+      "submesh": 1,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 1965057065,
+      "slot": "Female_Shoe_Sc_Suit_N_Slot",
+      "overlay": "Female_SC_Suit_shoe_lobby_overlay_N",
+      "meshPathID": 2275314,
+      "submesh": 0,
+      "textures": [
+        49649,
+        81698,
+        91354
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2275071,
+      "vertices": 1175,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275093,
+      "vertices": 2799,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275070,
+      "vertices": 326,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2275243,
+      "vertices": 2747,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275193,
+      "vertices": 735,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2275314,
+      "vertices": 464,
+      "submeshes": 1
+    }
+  ],
+  "bones": 56,
+  "file": "Nikita_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1805748,
+  "sha256": "b4c24191a321ea7c32532fdb75ab17707331fcb88ee26862c8e66d6b2f3a1123",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

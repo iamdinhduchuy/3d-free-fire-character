@@ -1,0 +1,195 @@
+{
+  "character": "Nairi",
+  "avatarId": 102000034,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000034,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_WinterGuy",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      4279001227,
+      2801971049,
+      1672164750,
+      3940056334,
+      1516136001
+    ],
+    "RecipeValueInGame": [
+      3657103794,
+      1546784360,
+      1530689370,
+      851351226,
+      35114895
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_31_MF_CHARACTER_WINTERGUY_N",
+    "Introduction": "T_31_MF_SKILL_INTRODUCE_WINTERGUY",
+    "Portrait": "FF_UI_Character_WinterGuy",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800235001,
+    "InGameSpecialAnim": "INGAME_SC_WINTERGUY_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_WinterGuy",
+    "OrderSource": 40,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710031001,
+    "LuxuryBundleID": 710031002,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_WINTERGUY_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_WINTERGUY_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      4279001227,
+      2801971049
+    ],
+    "RecipeValueInGame_inAb": [
+      3657103794,
+      1546784360
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3657103794,
+      "slot": "Male_Head_Sc_WinterGuy_Slot",
+      "overlay": "Male_Head_Sc_WinterGuy_Overlay",
+      "meshPathID": 2278714,
+      "submesh": 0,
+      "textures": [
+        51743
+      ]
+    },
+    {
+      "recipeHash": 3657103794,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 1546784360,
+      "slot": "Male_Hair_Sc_WinterGuy_Slot",
+      "overlay": "Male_Hair_Sc_WinterGuy_Overlay",
+      "meshPathID": 2278738,
+      "submesh": 0,
+      "textures": [
+        63622
+      ]
+    },
+    {
+      "recipeHash": 1530689370,
+      "slot": "Male_Top_Sc_WinterGuy_0_Slot",
+      "overlay": "Male_Top_Sc_WinterGuy_Overlay",
+      "meshPathID": 2278849,
+      "submesh": 0,
+      "textures": [
+        57597
+      ]
+    },
+    {
+      "recipeHash": 1530689370,
+      "slot": "Male_Top_Sc_WinterGuy_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2278849,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 851351226,
+      "slot": "Male_Bottom_Sc_WinterGuy_0_Slot",
+      "overlay": "Male_Bottom_Sc_WinterGuy_Overlay",
+      "meshPathID": 2278821,
+      "submesh": 0,
+      "textures": [
+        69228
+      ]
+    },
+    {
+      "recipeHash": 851351226,
+      "slot": "Male_Bottom_Sc_WinterGuy_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2278821,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 35114895,
+      "slot": "Male_Shoe_Sc_WinterGuy_Slot",
+      "overlay": "Male_Shoe_Sc_WinterGuy_Overlay",
+      "meshPathID": 2278877,
+      "submesh": 0,
+      "textures": [
+        54478
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2278714,
+      "vertices": 348,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2278738,
+      "vertices": 1245,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2278849,
+      "vertices": 1956,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2278821,
+      "vertices": 875,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2278877,
+      "vertices": 214,
+      "submeshes": 1
+    }
+  ],
+  "bones": 53,
+  "file": "Nairi_Default_InGame.glb",
+  "textures": 6,
+  "bytes": 1421328,
+  "sha256": "26b27c86cdf73717426dae2169c1b9132ecaeb3aa36ba1b173255dfd332fbf11",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

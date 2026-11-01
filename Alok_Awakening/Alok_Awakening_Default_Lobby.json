@@ -1,0 +1,267 @@
+{
+  "character": "Alok_Awakening",
+  "avatarId": 102000043,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000043,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Djmale_Awakening",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5,
+      8
+    ],
+    "RecipeValueInLobby": [
+      884152646,
+      4055604021,
+      257536575,
+      1248310114,
+      3001110274,
+      1310672904
+    ],
+    "RecipeValueInGame": [
+      2821033055,
+      2900565222,
+      2648011340,
+      3462743815,
+      2460193163,
+      2937763173
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_40_SY_CHARACTER_DJMALE_AWAKENING_N",
+    "Introduction": "T_40_SY_SKILL_INTRODUCE_DJMALE_AWAKENING",
+    "Portrait": "FF_UI_Character_Djmale_Awakening",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800244002,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_Djmale_Awakening",
+    "OrderSource": 68,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB41/CSH/character/Alok.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_DJMALE_AWAKENING_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_DJMALE_AWAKENING_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      884152646,
+      4055604021
+    ],
+    "RecipeValueInGame_inAb": [
+      2821033055,
+      2900565222
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": "FF_UI_SA_Djmale_Awakening"
+  },
+  "parts": [
+    {
+      "recipeHash": 884152646,
+      "slot": "Male_Head_Sc_Djmale_Awakening_N_Slot",
+      "overlay": "Male_Head_Sc_Djmale_Awakening_Overlay_N",
+      "meshPathID": 2285553,
+      "submesh": 0,
+      "textures": [
+        59324,
+        48415,
+        49417
+      ]
+    },
+    {
+      "recipeHash": 4055604021,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_HairRoot_Sc_Djmale_Awakening_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        50208
+      ]
+    },
+    {
+      "recipeHash": 4055604021,
+      "slot": "Male_Hair_Sc_Djmale_Awakening_N_Slot",
+      "overlay": "Male_Hair_Sc_Djmale_Awakening_Overlay_N",
+      "meshPathID": 2285555,
+      "submesh": 0,
+      "textures": [
+        88437
+      ]
+    },
+    {
+      "recipeHash": 257536575,
+      "slot": "Male_Top_Sc_Djmale_Awakening_N_0_Slot",
+      "overlay": "Male_Top_Sc_Djmale_Awakening_Overlay_N",
+      "meshPathID": 2285559,
+      "submesh": 0,
+      "textures": [
+        68464,
+        59848,
+        75604
+      ]
+    },
+    {
+      "recipeHash": 257536575,
+      "slot": "Male_Top_Sc_Djmale_Awakening_N_1_Slot",
+      "overlay": "Male_Top_Sc_MatCap_Djmale_Awakening_Overlay_N",
+      "meshPathID": 2285559,
+      "submesh": 1,
+      "textures": [
+        68464,
+        59848,
+        75604,
+        60501
+      ]
+    },
+    {
+      "recipeHash": 257536575,
+      "slot": "Male_Top_Sc_Djmale_Awakening_N_2_Slot",
+      "overlay": "Male_Top_Sc_Djmale_Awakening_VFX_Overlay_N",
+      "meshPathID": 2285559,
+      "submesh": 2,
+      "textures": [
+        68464,
+        59848,
+        75604,
+        64359
+      ]
+    },
+    {
+      "recipeHash": 257536575,
+      "slot": "Male_Top_Sc_Djmale_Awakening_N_3_Slot",
+      "overlay": "Male_Top_Cos_Skin_Desert_Overlay_N",
+      "meshPathID": 2285559,
+      "submesh": 3,
+      "textures": [
+        63891,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 1248310114,
+      "slot": "Male_Bottom_Sc_Djmale_Awakening_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_Djmale_Awakening_Overlay_N",
+      "meshPathID": 2285557,
+      "submesh": 0,
+      "textures": [
+        89623,
+        57909,
+        77941
+      ]
+    },
+    {
+      "recipeHash": 1248310114,
+      "slot": "Male_Bottom_Sc_Djmale_Awakening_N_1_Slot",
+      "overlay": "Male_Top_Sc_Djmale_Awakening_VFX_Overlay_N",
+      "meshPathID": 2285557,
+      "submesh": 1,
+      "textures": [
+        68464,
+        59848,
+        75604,
+        64359
+      ]
+    },
+    {
+      "recipeHash": 1248310114,
+      "slot": "Male_Bottom_Sc_Djmale_Awakening_N_2_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2285557,
+      "submesh": 2,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 3001110274,
+      "slot": "Male_Shoe_Sc_Djmale_Awakening_N_Slot",
+      "overlay": "Male_Shoe_Sc_Djmale_Awakening_Overlay_N",
+      "meshPathID": 2285561,
+      "submesh": 0,
+      "textures": [
+        58904,
+        93205,
+        56161
+      ]
+    },
+    {
+      "recipeHash": 1310672904,
+      "slot": "Male_Accessory_Sc_Djmale_Awakening_N_Slot",
+      "overlay": "Male_Accessory_Sc_Djmale_Awakening_Overlay_N",
+      "meshPathID": 2285552,
+      "submesh": 0,
+      "textures": [
+        66791,
+        56102,
+        93213,
+        80552
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2285553,
+      "vertices": 1178,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2285555,
+      "vertices": 2588,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2285559,
+      "vertices": 4407,
+      "submeshes": 4
+    },
+    {
+      "meshPathID": 2285557,
+      "vertices": 2351,
+      "submeshes": 3
+    },
+    {
+      "meshPathID": 2285561,
+      "vertices": 1016,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2285552,
+      "vertices": 308,
+      "submeshes": 1
+    }
+  ],
+  "bones": 56,
+  "file": "Alok_Awakening_Default_Lobby.glb",
+  "textures": 8,
+  "bytes": 2152440,
+  "sha256": "5e50d8bb5f76261c2350b4063286b600314fc252bbccdde91acf8877726a3da4",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

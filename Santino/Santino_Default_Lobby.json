@@ -1,0 +1,239 @@
+{
+  "character": "Santino",
+  "avatarId": 102000040,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000040,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Designer",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5,
+      8
+    ],
+    "RecipeValueInLobby": [
+      2310574804,
+      4013646313,
+      669728272,
+      2273861257,
+      3507172339,
+      3628695935
+    ],
+    "RecipeValueInGame": [
+      3079029088,
+      440484658,
+      2046584886,
+      4259280549,
+      3782847050,
+      3412850524
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_38_SY_CHARACTER_DESIGNER_N",
+    "Introduction": "T_38_SY_SKILL_INTRODUCE_DESIGNER",
+    "Portrait": "FF_UI_Character_Designer",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 2,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800241001,
+    "InGameSpecialAnim": "INGAME_SC_DESIGNER_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Designer",
+    "OrderSource": 9,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710038004,
+    "LuxuryBundleID": 710038005,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB40/CSH/character/Designer.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_DESIGNER_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_DESIGNER_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2310574804,
+      4013646313
+    ],
+    "RecipeValueInGame_inAb": [
+      3079029088,
+      440484658
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": "FF_UI_SA_Designer"
+  },
+  "parts": [
+    {
+      "recipeHash": 2310574804,
+      "slot": "Male_Head_Sc_Designer_N_Slot",
+      "overlay": "Male_Head_Sc_Designer_Overlay_N",
+      "meshPathID": 2280321,
+      "submesh": 0,
+      "textures": [
+        89346,
+        58238,
+        83887
+      ]
+    },
+    {
+      "recipeHash": 2310574804,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_HairRoot_Sc_Designer_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        80831
+      ]
+    },
+    {
+      "recipeHash": 4013646313,
+      "slot": "Male_Hair_Sc_Designer_N_0_Slot",
+      "overlay": "Male_Hat_Sc_Designer_Overlay_N",
+      "meshPathID": 2280365,
+      "submesh": 0,
+      "textures": [
+        48885,
+        61673,
+        65714
+      ]
+    },
+    {
+      "recipeHash": 4013646313,
+      "slot": "Male_Hair_Sc_Designer_N_1_Slot",
+      "overlay": "Male_Hair_Sc_Designer_Overlay_N",
+      "meshPathID": 2280365,
+      "submesh": 1,
+      "textures": [
+        83426
+      ]
+    },
+    {
+      "recipeHash": 669728272,
+      "slot": "Male_Top_Sc_Designer_N_0_Slot",
+      "overlay": "Male_Top_Sc_Designer_Overlay_N",
+      "meshPathID": 2280493,
+      "submesh": 0,
+      "textures": [
+        48058,
+        50598,
+        89284
+      ]
+    },
+    {
+      "recipeHash": 669728272,
+      "slot": "Male_Top_Sc_Designer_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2280493,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 2273861257,
+      "slot": "Male_Bottom_Sc_Designer_N_0_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2280453,
+      "submesh": 0,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 2273861257,
+      "slot": "Male_Bottom_Sc_Designer_N_1_Slot",
+      "overlay": "Male_Bottom_Sc_Designer_Overlay_N",
+      "meshPathID": 2280453,
+      "submesh": 1,
+      "textures": [
+        72823,
+        82587,
+        85998
+      ]
+    },
+    {
+      "recipeHash": 3507172339,
+      "slot": "Male_Shoe_Sc_Designer_N_Slot",
+      "overlay": "Male_Shoe_Sc_Designer_Overlay_N",
+      "meshPathID": 2280529,
+      "submesh": 0,
+      "textures": [
+        66432,
+        88693,
+        78148
+      ]
+    },
+    {
+      "recipeHash": 3628695935,
+      "slot": "Male_Accessory_Sc_Designer_N_Slot",
+      "overlay": "Male_Accessory_Sc_Designer_Overlay_N",
+      "meshPathID": 2280320,
+      "submesh": 0,
+      "textures": [
+        47879,
+        93249,
+        79784
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2280321,
+      "vertices": 997,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2280365,
+      "vertices": 3205,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2280493,
+      "vertices": 3286,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2280453,
+      "vertices": 2090,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2280529,
+      "vertices": 462,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2280320,
+      "vertices": 432,
+      "submeshes": 1
+    }
+  ],
+  "bones": 70,
+  "file": "Santino_Default_Lobby.glb",
+  "textures": 8,
+  "bytes": 1753908,
+  "sha256": "f60b4891a982fe21660a6491d548624edd637a7862ee53b846e0066b2994a41a",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

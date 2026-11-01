@@ -1,0 +1,208 @@
+{
+  "character": "Wolfrahh",
+  "avatarId": 102000019,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000019,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_StreamerGuy",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      188680791,
+      1823218710,
+      1833551822,
+      785194836,
+      3544790516
+    ],
+    "RecipeValueInGame": [
+      3193628860,
+      3864274782,
+      587054521,
+      2878272825,
+      453570166
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_22_Y_CHARACTER_STREAMERGUY_N",
+    "Introduction": "T_22_Y_SKILL_INTRODUCE_STREAMERGUY",
+    "Portrait": "FF_UI_Character_StreamerGuy",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800219001,
+    "InGameSpecialAnim": "INGAME_SC_STREAMERGUY_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_StreamerGuy",
+    "OrderSource": 32,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000666,
+    "LuxuryBundleID": 710000667,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_STREAMERGUY_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_STREAMERGUY_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      188680791,
+      1823218710
+    ],
+    "RecipeValueInGame_inAb": [
+      3193628860,
+      3864274782
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": "FF_UI_SA_StreamerGuy"
+  },
+  "parts": [
+    {
+      "recipeHash": 188680791,
+      "slot": "Male_Head_Sc_StreamerGuy_N_Slot",
+      "overlay": "Male_Head_Sc_StreamerGuy_Overlay_N",
+      "meshPathID": 2277079,
+      "submesh": 0,
+      "textures": [
+        91300,
+        83343,
+        78190
+      ]
+    },
+    {
+      "recipeHash": 188680791,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 1823218710,
+      "slot": "Male_Hair_Sc_StreamerGuy_N_0_Slot",
+      "overlay": "Male_Hair_Sc_StreamerGuy_Overlay_N",
+      "meshPathID": 2277106,
+      "submesh": 0,
+      "textures": [
+        85036,
+        0
+      ]
+    },
+    {
+      "recipeHash": 1823218710,
+      "slot": "Male_Hair_Sc_StreamerGuy_N_1_Slot",
+      "overlay": "Male_Shoe_Sc_StreamerGuy_Overlay_N",
+      "meshPathID": 2277106,
+      "submesh": 1,
+      "textures": [
+        67488,
+        47685,
+        82518
+      ]
+    },
+    {
+      "recipeHash": 1833551822,
+      "slot": "Male_Top_Sc_StreamerGuy_N_0_Slot",
+      "overlay": "Male_Top_Sc_StreamerGuy_Overlay_N",
+      "meshPathID": 2277191,
+      "submesh": 0,
+      "textures": [
+        92540,
+        61093,
+        86770
+      ]
+    },
+    {
+      "recipeHash": 1833551822,
+      "slot": "Male_Top_Sc_StreamerGuy_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2277191,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 785194836,
+      "slot": "Male_Bottom_Sc_StreamerGuy_N_Slot",
+      "overlay": "Male_Bottom_Sc_StreamerGuy_Overlay_N",
+      "meshPathID": 2277167,
+      "submesh": 0,
+      "textures": [
+        91889,
+        90870,
+        58936
+      ]
+    },
+    {
+      "recipeHash": 3544790516,
+      "slot": "Male_Shoe_Sc_StreamerGuy_N_Slot",
+      "overlay": "Male_Shoe_Sc_StreamerGuy_Overlay_N",
+      "meshPathID": 2277214,
+      "submesh": 0,
+      "textures": [
+        67488,
+        47685,
+        82518
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2277079,
+      "vertices": 636,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2277106,
+      "vertices": 2398,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2277191,
+      "vertices": 2818,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2277167,
+      "vertices": 1446,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2277214,
+      "vertices": 280,
+      "submeshes": 1
+    }
+  ],
+  "bones": 55,
+  "file": "Wolfrahh_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1629776,
+  "sha256": "2ed715f4b7ea8b244509522752eed9ae0c4fd161ee50406b82431326e1b9bfe2",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

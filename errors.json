@@ -1,0 +1,26 @@
+[
+  {
+    "character": "Researcher",
+    "avatarId": 101000021,
+    "variant": "Lobby",
+    "error": "ValueError: Missing recipe: 3770837995"
+  },
+  {
+    "character": "Researcher",
+    "avatarId": 101000021,
+    "variant": "InGame",
+    "error": "ValueError: Missing recipe: 1353213358"
+  },
+  {
+    "character": "MMAFighter",
+    "avatarId": 102000023,
+    "variant": "Lobby",
+    "error": "ValueError: Missing recipe: 2270739170"
+  },
+  {
+    "character": "MMAFighter",
+    "avatarId": 102000023,
+    "variant": "InGame",
+    "error": "ValueError: Missing recipe: 2040693056"
+  }
+]

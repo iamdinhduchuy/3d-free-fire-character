@@ -1,0 +1,135 @@
+{
+  "avatarId": 102000035,
+  "defaultSuitId": 69,
+  "method": "Reconstruct absent recipes using matching Sc_CricketGuy slots and overlays; skin slots use the original base male skin overlay. Inferred material slot mapping, reviewed in preview.",
+  "parts": [
+    {
+      "recipeHash": 1832938831,
+      "variant": "Lobby",
+      "slotOverlayNames": [
+        [
+          "Male_Head_Sc_CricketGuy_N_0",
+          "Male_Head_Sc_CricketGuy_Overlay_N"
+        ],
+        [
+          "Male_Head_Sc_CricketGuy_N_1",
+          "Male_Accessory_Sc_CricketGuy_Overlay"
+        ],
+        [
+          "Head_Hair_Base_Additive_Slot",
+          "Male_HairRoot_Sc_CricketGuy_Overlay"
+        ]
+      ]
+    },
+    {
+      "recipeHash": 1770454518,
+      "variant": "Lobby",
+      "slotOverlayNames": [
+        [
+          "Male_Hair_Sc_CricketGuy_N",
+          "Male_Hair_Sc_CricketGuy_Overlay_N"
+        ]
+      ]
+    },
+    {
+      "recipeHash": 1487967068,
+      "variant": "Lobby",
+      "slotOverlayNames": [
+        [
+          "Male_Top_Sc_CricketGuy_N_0",
+          "Male_Top_Sc_CricketGuy_Overlay_N"
+        ],
+        [
+          "Male_Top_Sc_CricketGuy_N_1",
+          "Base_male_body_Overlay_N"
+        ]
+      ]
+    },
+    {
+      "recipeHash": 184591895,
+      "variant": "Lobby",
+      "slotOverlayNames": [
+        [
+          "Male_Bottom_Sc_CricketGuy_N_0",
+          "Male_Bottom_Sc_CricketGuy_Overlay_N"
+        ],
+        [
+          "Male_Bottom_Sc_CricketGuy_N_1",
+          "Base_male_body_Overlay_N"
+        ]
+      ]
+    },
+    {
+      "recipeHash": 1472622747,
+      "variant": "Lobby",
+      "slotOverlayNames": [
+        [
+          "Male_Shoe_Sc_CricketGuy_N",
+          "Male_Shoe_Sc_CricketGuy_Overlay_N"
+        ]
+      ]
+    },
+    {
+      "recipeHash": 1043371701,
+      "variant": "InGame",
+      "slotOverlayNames": [
+        [
+          "Male_Head_Sc_CricketGuy",
+          "Male_Head_Sc_CricketGuy_Overlay"
+        ],
+        [
+          "Head_Hair_Base_Additive_Slot",
+          "Male_HairRoot_Sc_CricketGuy_Overlay"
+        ]
+      ]
+    },
+    {
+      "recipeHash": 1066169509,
+      "variant": "InGame",
+      "slotOverlayNames": [
+        [
+          "Male_Hair_Sc_CricketGuy",
+          "Male_Hair_Sc_CricketGuy_Overlay"
+        ]
+      ]
+    },
+    {
+      "recipeHash": 3078998936,
+      "variant": "InGame",
+      "slotOverlayNames": [
+        [
+          "Male_Top_Sc_CricketGuy_0",
+          "Male_Top_Sc_CricketGuy_Overlay"
+        ],
+        [
+          "Male_Top_Sc_CricketGuy_1",
+          "Base_male_body_Overlay"
+        ]
+      ]
+    },
+    {
+      "recipeHash": 2803643674,
+      "variant": "InGame",
+      "slotOverlayNames": [
+        [
+          "Male_Bottom_Sc_CricketGuy_0",
+          "Male_Bottom_Sc_CricketGuy_Overlay"
+        ],
+        [
+          "Male_Bottom_Sc_CricketGuy_1",
+          "Base_male_body_Overlay"
+        ]
+      ]
+    },
+    {
+      "recipeHash": 1899434712,
+      "variant": "InGame",
+      "slotOverlayNames": [
+        [
+          "Male_Shoe_Sc_CricketGuy",
+          "Male_Shoe_Sc_CricketGuy_Overlay"
+        ]
+      ]
+    }
+  ]
+}

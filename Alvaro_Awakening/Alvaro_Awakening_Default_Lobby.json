@@ -1,0 +1,239 @@
+{
+  "character": "Alvaro_Awakening",
+  "avatarId": 102000042,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000042,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Demolitionist_Awakening",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5,
+      8
+    ],
+    "RecipeValueInLobby": [
+      2541723958,
+      1751419814,
+      3625612605,
+      3818881031,
+      1997369082,
+      4123805231
+    ],
+    "RecipeValueInGame": [
+      2060804442,
+      996800326,
+      2361051054,
+      1467930731,
+      992021182,
+      3944078029
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_39_SY_CHARACTER_ALVARO_AWAKENING_N",
+    "Introduction": "T_39_SY_SKILL_INTRODUCE_ALVARO_AWAKENING",
+    "Portrait": "FF_UI_Character_Demolitionist_Awakening",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800244001,
+    "InGameSpecialAnim": "INGAME_SC_DEMOLITIONIST_AWAKENING_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Demolitionist_Awakening",
+    "OrderSource": 49,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710039003,
+    "LuxuryBundleID": 710039004,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_DEMOLITIONIST_AWAKENING_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_DEMOLITIONIST_AWAKENING_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2541723958,
+      1751419814
+    ],
+    "RecipeValueInGame_inAb": [
+      2060804442,
+      996800326
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 2541723958,
+      "slot": "Male_Head_Sc_Demolitionist_Awakening_N_Slot",
+      "overlay": "Male_Head_Sc_Demolitionist_Awakening_Overlay_N",
+      "meshPathID": 2280570,
+      "submesh": 0,
+      "textures": [
+        84772,
+        50126,
+        71928
+      ]
+    },
+    {
+      "recipeHash": 2541723958,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 1751419814,
+      "slot": "Male_Hair_Sc_Demolitionist_Awakening_N_0_Slot",
+      "overlay": "Male_Accessory_Sc_Demolitionist_Awakening_Overlay_N",
+      "meshPathID": 2280624,
+      "submesh": 0,
+      "textures": [
+        83554,
+        83027,
+        63819
+      ]
+    },
+    {
+      "recipeHash": 1751419814,
+      "slot": "Male_Hair_Sc_Demolitionist_Awakening_N_1_Slot",
+      "overlay": "Male_Hair_Sc_Demolitionist_Awakening_Overlay_N",
+      "meshPathID": 2280624,
+      "submesh": 1,
+      "textures": [
+        53141
+      ]
+    },
+    {
+      "recipeHash": 3625612605,
+      "slot": "Male_Top_Sc_Demolitionist_Awakening_N_0_Slot",
+      "overlay": "Male_Top_Sc_Demolitionist_Awakening_Overlay_N",
+      "meshPathID": 2280792,
+      "submesh": 0,
+      "textures": [
+        68863,
+        82443,
+        63266
+      ]
+    },
+    {
+      "recipeHash": 3625612605,
+      "slot": "Male_Top_Sc_Demolitionist_Awakening_N_1_Slot",
+      "overlay": "Male_Upperbody_Sc_Demolitionist_Awakening_Overlay_N",
+      "meshPathID": 2280792,
+      "submesh": 1,
+      "textures": [
+        53187,
+        87778,
+        56929
+      ]
+    },
+    {
+      "recipeHash": 3818881031,
+      "slot": "Male_Bottom_Sc_Demolitionist_Awakening_N_Slot",
+      "overlay": "Male_Bottom_Sc_Demolitionist_Awakening_Overlay_N",
+      "meshPathID": 2280738,
+      "submesh": 0,
+      "textures": [
+        88047,
+        83019,
+        77176
+      ]
+    },
+    {
+      "recipeHash": 1997369082,
+      "slot": "Male_Shoe_Sc_Demolitionist_Awakening_N_Slot",
+      "overlay": "Male_Shoe_Sc_Demolitionist_Awakening_Overlay_N",
+      "meshPathID": 2280847,
+      "submesh": 0,
+      "textures": [
+        62554,
+        92288,
+        89959
+      ]
+    },
+    {
+      "recipeHash": 4123805231,
+      "slot": "Male_Accessory_Sc_Demolitionist_Awakening_N_0_Slot",
+      "overlay": "Male_Accessory_Sc_Glass_Demolitionist_Awakening_Overlay_N",
+      "meshPathID": 2280569,
+      "submesh": 0,
+      "textures": [
+        83554,
+        83027,
+        63819
+      ]
+    },
+    {
+      "recipeHash": 4123805231,
+      "slot": "Male_Accessory_Sc_Demolitionist_Awakening_N_1_Slot",
+      "overlay": "Male_Accessory_Sc_Demolitionist_Awakening_Overlay_N",
+      "meshPathID": 2280569,
+      "submesh": 1,
+      "textures": [
+        83554,
+        83027,
+        63819
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2280570,
+      "vertices": 861,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2280624,
+      "vertices": 2622,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2280792,
+      "vertices": 4100,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2280738,
+      "vertices": 2208,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2280847,
+      "vertices": 618,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2280569,
+      "vertices": 254,
+      "submeshes": 2
+    }
+  ],
+  "bones": 56,
+  "file": "Alvaro_Awakening_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1961140,
+  "sha256": "6005397ac0b5aa85cd9e5a422a91796c7f92ec49cba5694971778ee4b87d40c9",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

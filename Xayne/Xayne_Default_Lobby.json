@@ -1,0 +1,239 @@
+{
+  "character": "Xayne",
+  "avatarId": 101000022,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000022,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_Xtreme",
+    "Type": [
+      1,
+      11,
+      8,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2139981880,
+      3528100458,
+      2673437250,
+      527869146,
+      162887903,
+      695362322
+    ],
+    "RecipeValueInGame": [
+      1481467710,
+      3636164062,
+      2287496063,
+      4272865051,
+      3891604658,
+      508824607
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_27_D_CHARACTER_XTREME_N",
+    "Introduction": "T_27_D_SKILL_INTRODUCE_XTREME",
+    "Portrait": "FF_UI_Character_Xtreme",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800121002,
+    "InGameSpecialAnim": "INGAME_SC_XTREME_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Xtreme",
+    "OrderSource": 46,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710027003,
+    "LuxuryBundleID": 710027004,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_XTREME_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_XTREME_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2139981880,
+      3528100458
+    ],
+    "RecipeValueInGame_inAb": [
+      1481467710,
+      3636164062
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 2139981880,
+      "slot": "Female_Head_Sc_Xtreme_N_Slot",
+      "overlay": "Female_Head_Sc_Xtreme_Overlay_N",
+      "meshPathID": 2270409,
+      "submesh": 0,
+      "textures": [
+        66148,
+        53788,
+        65977
+      ]
+    },
+    {
+      "recipeHash": 2139981880,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Xtreme_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        93368
+      ]
+    },
+    {
+      "recipeHash": 3528100458,
+      "slot": "Female_Hair_Sc_Xtreme_N_Slot",
+      "overlay": "Female_Hair_Sc_Xtreme_Overlay_N",
+      "meshPathID": 2270440,
+      "submesh": 0,
+      "textures": [
+        78461
+      ]
+    },
+    {
+      "recipeHash": 2673437250,
+      "slot": "Female_Accessory_Sc_Xtreme_N_0_Slot",
+      "overlay": "Female_Accessory_Sc_Glass_Xtreme_Overlay_N",
+      "meshPathID": 2270408,
+      "submesh": 0,
+      "textures": [
+        58464,
+        69907,
+        67864
+      ]
+    },
+    {
+      "recipeHash": 2673437250,
+      "slot": "Female_Accessory_Sc_Xtreme_N_1_Slot",
+      "overlay": "Female_Accessory_Sc_Xtreme_Overlay_N",
+      "meshPathID": 2270408,
+      "submesh": 1,
+      "textures": [
+        58464,
+        69907,
+        67864
+      ]
+    },
+    {
+      "recipeHash": 527869146,
+      "slot": "Female_Top_Sc_Xtreme_N_0_Slot",
+      "overlay": "Female_Top_Sc_Xtreme_Overlay_N",
+      "meshPathID": 2270542,
+      "submesh": 0,
+      "textures": [
+        86250,
+        63735,
+        51223
+      ]
+    },
+    {
+      "recipeHash": 527869146,
+      "slot": "Female_Top_Sc_Xtreme_N_1_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2270542,
+      "submesh": 1,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 162887903,
+      "slot": "Female_Bottom_Sc_Xtreme_N_0_Slot",
+      "overlay": "Female_Bottom_Sc_Xtreme_Overlay_N",
+      "meshPathID": 2270508,
+      "submesh": 0,
+      "textures": [
+        69138,
+        54802,
+        62136
+      ]
+    },
+    {
+      "recipeHash": 162887903,
+      "slot": "Female_Bottom_Sc_Xtreme_N_1_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2270508,
+      "submesh": 1,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 695362322,
+      "slot": "Female_Shoe_Sc_Xtreme_N_Slot",
+      "overlay": "Female_Shoe_Sc_Xtreme_Overlay_N",
+      "meshPathID": 2270578,
+      "submesh": 0,
+      "textures": [
+        60834,
+        83506,
+        77695
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2270409,
+      "vertices": 964,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2270440,
+      "vertices": 2697,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2270408,
+      "vertices": 544,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2270542,
+      "vertices": 3326,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2270508,
+      "vertices": 1579,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2270578,
+      "vertices": 432,
+      "submeshes": 1
+    }
+  ],
+  "bones": 57,
+  "file": "Xayne_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1876960,
+  "sha256": "755bce7c09d626ae934745f1af1a6c5be684deea2f7dec3ad59fc1de504afdda",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

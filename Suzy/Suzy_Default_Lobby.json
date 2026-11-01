@@ -1,0 +1,220 @@
+{
+  "character": "Suzy",
+  "avatarId": 101000028,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000028,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_Assassingirl",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3250966629,
+      3229168245,
+      2278093423,
+      3881004974,
+      2395100168
+    ],
+    "RecipeValueInGame": [
+      2045345622,
+      934671053,
+      2385645647,
+      695999989,
+      50136830
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_41_H_CHARACTER_ASSASSINGIRL_N",
+    "Introduction": "T_41_H_SKILL_INTRODUCE_ASSASSINGIRL",
+    "Portrait": "FF_UI_Character_Assassingirl",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800122005,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_Assassingirl",
+    "OrderSource": 56,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB41/CSH/character/Suzy.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_ASSASSINGIRL_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_ASSASSINGIRL_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3250966629,
+      3229168245
+    ],
+    "RecipeValueInGame_inAb": [
+      2045345622,
+      934671053
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3250966629,
+      "slot": "Female_Head_Sc_Assassingirl_N_Slot",
+      "overlay": "Female_Head_Sc_Assassingirl_Overlay_N",
+      "meshPathID": 2272842,
+      "submesh": 0,
+      "textures": [
+        80516,
+        82367,
+        70182
+      ]
+    },
+    {
+      "recipeHash": 3250966629,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_HairRoot_Sc_Assassingirl_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        72531
+      ]
+    },
+    {
+      "recipeHash": 3229168245,
+      "slot": "Female_Hair_Sc_Assassingirl_N_0_Slot",
+      "overlay": "Female_Hair_Sc_Assassingirl_Overlay_N",
+      "meshPathID": 2272876,
+      "submesh": 0,
+      "textures": [
+        72749
+      ]
+    },
+    {
+      "recipeHash": 3229168245,
+      "slot": "Female_Hair_Sc_Assassingirl_N_1_Slot",
+      "overlay": "Female_Head_Sc_Assassingirl_Overlay_N",
+      "meshPathID": 2272876,
+      "submesh": 1,
+      "textures": [
+        80516,
+        82367,
+        70182
+      ]
+    },
+    {
+      "recipeHash": 2278093423,
+      "slot": "Female_Top_Sc_Assassingirl_N_0_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2272958,
+      "submesh": 0,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 2278093423,
+      "slot": "Female_Top_Sc_Assassingirl_N_1_Slot",
+      "overlay": "Female_Top_Sc_Assassingirl_Overlay_N",
+      "meshPathID": 2272958,
+      "submesh": 1,
+      "textures": [
+        62103,
+        58842,
+        81877,
+        58394
+      ]
+    },
+    {
+      "recipeHash": 3881004974,
+      "slot": "Female_Bottom_Sc_Assassingirl_N_0_Slot",
+      "overlay": "Female_Lowerbody_Sc_Assassingirl_Overlay_N",
+      "meshPathID": 2272937,
+      "submesh": 0,
+      "textures": [
+        82489,
+        93211,
+        78470
+      ]
+    },
+    {
+      "recipeHash": 3881004974,
+      "slot": "Female_Bottom_Sc_Assassingirl_N_1_Slot",
+      "overlay": "Female_Bottom_Sc_Assassingirl_Overlay_N",
+      "meshPathID": 2272937,
+      "submesh": 1,
+      "textures": [
+        85808,
+        92284,
+        61360
+      ]
+    },
+    {
+      "recipeHash": 2395100168,
+      "slot": "Female_Shoe_Sc_Assassingirl_N_Slot",
+      "overlay": "Female_Shoe_Sc_Assassingirl_Overlay_N",
+      "meshPathID": 2272986,
+      "submesh": 0,
+      "textures": [
+        93565,
+        54715,
+        86841
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2272842,
+      "vertices": 947,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2272876,
+      "vertices": 3242,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2272958,
+      "vertices": 5366,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2272937,
+      "vertices": 2610,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2272986,
+      "vertices": 454,
+      "submeshes": 1
+    }
+  ],
+  "bones": 84,
+  "file": "Suzy_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 2171600,
+  "sha256": "7d92d6c5ab57c55dbb8069a44e71377a27bad0325e6161de05d016859ece527d",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

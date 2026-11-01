@@ -1,0 +1,207 @@
+{
+  "character": "K",
+  "avatarId": 102000022,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000022,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Professor",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      1072624398,
+      3567154969,
+      272100862,
+      2571412862,
+      700628529
+    ],
+    "RecipeValueInGame": [
+      1319016335,
+      1305145218,
+      1254397616,
+      591820624,
+      334442085
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_24_D_CHARACTER_PROFESSOR_N",
+    "Introduction": "T_24_D_SKILL_INTRODUCE_PROFESSOR",
+    "Portrait": "FF_UI_Character_Professor",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800222001,
+    "InGameSpecialAnim": "INGAME_SC_PROFESSOR_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Professor",
+    "OrderSource": 34,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000758,
+    "LuxuryBundleID": 710000759,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB41/CSH/character/K.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_PROFESSOR_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_PROFESSOR_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      1072624398,
+      3567154969
+    ],
+    "RecipeValueInGame_inAb": [
+      1319016335,
+      1305145218
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 1072624398,
+      "slot": "Male_Head_SC_Professor_N_Slot",
+      "overlay": "Male_Head_SC_Professor_Overlay_N",
+      "meshPathID": 2286231,
+      "submesh": 0,
+      "textures": [
+        83192,
+        52873,
+        83956
+      ]
+    },
+    {
+      "recipeHash": 1072624398,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_Professor_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        80597
+      ]
+    },
+    {
+      "recipeHash": 3567154969,
+      "slot": "Male_Hair_Sc_Professor_N_Slot",
+      "overlay": "Male_Hair_Sc_Professor_Overlay_N",
+      "meshPathID": 2286233,
+      "submesh": 0,
+      "textures": [
+        65393
+      ]
+    },
+    {
+      "recipeHash": 272100862,
+      "slot": "Male_Top_Sc_Professor_N_0_Slot",
+      "overlay": "Male_Top_Sc_Professor_Overlay_N",
+      "meshPathID": 2286237,
+      "submesh": 0,
+      "textures": [
+        51463,
+        54937,
+        73179
+      ]
+    },
+    {
+      "recipeHash": 272100862,
+      "slot": "Male_Top_Sc_Professor_N_1_Slot",
+      "overlay": "Male_Skin_Sc_Professor_Overlay_N",
+      "meshPathID": 2286237,
+      "submesh": 1,
+      "textures": [
+        75054,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 2571412862,
+      "slot": "Male_Bottom_Sc_Professor_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_Professor_Overlay_N",
+      "meshPathID": 2286235,
+      "submesh": 0,
+      "textures": [
+        66230,
+        91658,
+        85798
+      ]
+    },
+    {
+      "recipeHash": 2571412862,
+      "slot": "Male_Bottom_Sc_Professor_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2286235,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 700628529,
+      "slot": "Male_Shoe_Sc_Professor_N_Slot",
+      "overlay": "Male_Shoe_Sc_Professor_Overlay_N",
+      "meshPathID": 2286239,
+      "submesh": 0,
+      "textures": [
+        72054,
+        55715,
+        58668
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2286231,
+      "vertices": 650,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2286233,
+      "vertices": 1690,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2286237,
+      "vertices": 3641,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2286235,
+      "vertices": 1395,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2286239,
+      "vertices": 502,
+      "submeshes": 1
+    }
+  ],
+  "bones": 71,
+  "file": "K_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1874420,
+  "sha256": "52a783f198c10a115d8f1b6df2869c244a34d82161cffc12438cee4a357a7c00",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

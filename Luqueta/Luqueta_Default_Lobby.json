@@ -1,0 +1,208 @@
+{
+  "character": "Luqueta",
+  "avatarId": 102000018,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000018,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_SoccerStar",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3168362504,
+      4068863379,
+      3425645522,
+      555664314,
+      3352107424
+    ],
+    "RecipeValueInGame": [
+      1452313347,
+      806582334,
+      4173539271,
+      1486899038,
+      237185572
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_21_Y_CHARACTER_SOCCERSTAR_N",
+    "Introduction": "T_21_Y_SKILL_INTRODUCE_SOCCERSTAR",
+    "Portrait": "FF_UI_Character_SoccerStar",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800218001,
+    "InGameSpecialAnim": "INGAME_SC_SOCCERSTAR_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_SoccerStar",
+    "OrderSource": 30,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000615,
+    "LuxuryBundleID": 710000616,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_SOCCERSTAR_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_SOCCERSTAR_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3168362504,
+      4068863379
+    ],
+    "RecipeValueInGame_inAb": [
+      1452313347,
+      806582334
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": "FF_UI_SA_SoccerStar"
+  },
+  "parts": [
+    {
+      "recipeHash": 3168362504,
+      "slot": "Male_Head_Sc_SoccerStar_N_Slot",
+      "overlay": "Male_Head_Sc_SoccerStar_Overlay_N",
+      "meshPathID": 2276918,
+      "submesh": 0,
+      "textures": [
+        67110,
+        85625,
+        67618
+      ]
+    },
+    {
+      "recipeHash": 3168362504,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_SoccerStar_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        52827
+      ]
+    },
+    {
+      "recipeHash": 4068863379,
+      "slot": "Male_Hair_Sc_SoccerStar_N_Slot",
+      "overlay": "Male_Hair_Sc_SoccerStar_Overlay_N",
+      "meshPathID": 2276941,
+      "submesh": 0,
+      "textures": [
+        68579,
+        0
+      ]
+    },
+    {
+      "recipeHash": 3425645522,
+      "slot": "Male_Top_Sc_SoccerStar_N_0_Slot",
+      "overlay": "Male_Top_Sc_SoccerStar_Overlay_N",
+      "meshPathID": 2277025,
+      "submesh": 0,
+      "textures": [
+        47130,
+        48773,
+        62875
+      ]
+    },
+    {
+      "recipeHash": 3425645522,
+      "slot": "Male_Top_Sc_SoccerStar_N_1_Slot",
+      "overlay": "Male_Skin_Sc_SoccerStar_Overlay_N",
+      "meshPathID": 2277025,
+      "submesh": 1,
+      "textures": [
+        80388,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 555664314,
+      "slot": "Male_Bottom_Sc_SoccerStar_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_SoccerStar_Overlay_N",
+      "meshPathID": 2276999,
+      "submesh": 0,
+      "textures": [
+        66019,
+        52580,
+        70305
+      ]
+    },
+    {
+      "recipeHash": 555664314,
+      "slot": "Male_Bottom_Sc_SoccerStar_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2276999,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 3352107424,
+      "slot": "Male_Shoe_Sc_SoccerStar_N_Slot",
+      "overlay": "Male_Shoe_Sc_SoccerStar_Overlay_N",
+      "meshPathID": 2277050,
+      "submesh": 0,
+      "textures": [
+        64686,
+        55265,
+        67926
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2276918,
+      "vertices": 636,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2276941,
+      "vertices": 1559,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2277025,
+      "vertices": 2734,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2276999,
+      "vertices": 946,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2277050,
+      "vertices": 496,
+      "submeshes": 1
+    }
+  ],
+  "bones": 57,
+  "file": "Luqueta_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1899636,
+  "sha256": "514f59dbbf9d344f0bb35b7bdbc4ea0a118e245f24d5c2958389e6a67b49b96f",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

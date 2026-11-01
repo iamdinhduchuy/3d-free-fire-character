@@ -1,0 +1,218 @@
+{
+  "character": "Dasha",
+  "avatarId": 101000020,
+  "variant": "InGame",
+  "config": {
+    "Id": 101000020,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_PartyGirl",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5,
+      14
+    ],
+    "RecipeValueInLobby": [
+      3738964816,
+      2261966002,
+      1743017924,
+      1322224672,
+      2072909210,
+      627896872
+    ],
+    "RecipeValueInGame": [
+      893128107,
+      2968844913,
+      2069394899,
+      186925696,
+      4006689686,
+      627896872
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_24_D_CHARACTER_PARTYGIRL_N",
+    "Introduction": "T_24_D_SKILL_INTRODUCE_PARTYGIRL",
+    "Portrait": "FF_UI_Character_PartyGirl",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 2,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800120001,
+    "InGameSpecialAnim": "INGAME_SC_PARTYGIRL_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_PartyGirl",
+    "OrderSource": 31,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000756,
+    "LuxuryBundleID": 710000757,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_PARTYGIRL_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_PARTYGIRL_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3738964816,
+      2261966002
+    ],
+    "RecipeValueInGame_inAb": [
+      893128107,
+      2968844913
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 893128107,
+      "slot": "Female_Head_Sc_PartyGirl_Slot",
+      "overlay": "Female_Head_Sc_PartyGirl_Overlay",
+      "meshPathID": 2269896,
+      "submesh": 0,
+      "textures": [
+        50932
+      ]
+    },
+    {
+      "recipeHash": 893128107,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Tomboy_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        77591
+      ]
+    },
+    {
+      "recipeHash": 2968844913,
+      "slot": "Female_Hair_Sc_PartyGirl_1_Slot",
+      "overlay": "Female_Hat_Sc_PartyGirl_Overlay",
+      "meshPathID": 2269925,
+      "submesh": 1,
+      "textures": [
+        80293
+      ]
+    },
+    {
+      "recipeHash": 2968844913,
+      "slot": "Female_Hair_Sc_PartyGirl_0_Slot",
+      "overlay": "Female_Hair_Sc_Tomboy_Overlay",
+      "meshPathID": 2269925,
+      "submesh": 0,
+      "textures": [
+        88218
+      ]
+    },
+    {
+      "recipeHash": 2069394899,
+      "slot": "Female_Top_Sc_PartyGirl_0_Slot",
+      "overlay": "Female_Top_Sc_PartyGirl_Overlay",
+      "meshPathID": 2270031,
+      "submesh": 0,
+      "textures": [
+        87856
+      ]
+    },
+    {
+      "recipeHash": 2069394899,
+      "slot": "Female_Top_Sc_PartyGirl_1_Slot",
+      "overlay": "female_body_Overlay",
+      "meshPathID": 2270031,
+      "submesh": 1,
+      "textures": [
+        48582
+      ]
+    },
+    {
+      "recipeHash": 186925696,
+      "slot": "Female_Bottom_Sc_PartyGirl_0_Slot",
+      "overlay": "female_body_Overlay",
+      "meshPathID": 2270002,
+      "submesh": 0,
+      "textures": [
+        48582
+      ]
+    },
+    {
+      "recipeHash": 186925696,
+      "slot": "Female_Bottom_Sc_PartyGirl_1_Slot",
+      "overlay": "Female_Bottom_Sc_PartyGirl_Overlay",
+      "meshPathID": 2270002,
+      "submesh": 1,
+      "textures": [
+        62814
+      ]
+    },
+    {
+      "recipeHash": 4006689686,
+      "slot": "Female_Shoe_Sc_PartyGirl_Slot",
+      "overlay": "Female_Shoe_Sc_PartyGirl_Overlay",
+      "meshPathID": 2270063,
+      "submesh": 0,
+      "textures": [
+        87680
+      ]
+    },
+    {
+      "recipeHash": 627896872,
+      "slot": "Head_Additive_Common_Slot",
+      "overlay": "Female_Headadditive_Sc_PartyGirl_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        63148
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2269896,
+      "vertices": 397,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2269925,
+      "vertices": 1264,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2270031,
+      "vertices": 1786,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2270002,
+      "vertices": 1508,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2270063,
+      "vertices": 479,
+      "submeshes": 1
+    }
+  ],
+  "bones": 45,
+  "file": "Dasha_Default_InGame.glb",
+  "textures": 7,
+  "bytes": 1689440,
+  "sha256": "ce8c7f350b2fa8d0aadc889f76dc20168b0f4632d3087a3ece419a5da65bf6e1",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

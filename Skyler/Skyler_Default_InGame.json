@@ -1,0 +1,233 @@
+{
+  "character": "Skyler",
+  "avatarId": 102000025,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000025,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Superstar",
+    "Type": [
+      1,
+      11,
+      8,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      4208871075,
+      2731575617,
+      3146501584,
+      1719210918,
+      4010433318,
+      1603027049
+    ],
+    "RecipeValueInGame": [
+      2772747156,
+      546059342,
+      2320978597,
+      662850940,
+      1308667036,
+      2125067689
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_26_D_CHARACTER_SUPERSTAR_N",
+    "Introduction": "T_26_D_SKILL_INTRODUCE_SUPERSTAR",
+    "Portrait": "FF_UI_Character_Superstar",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800225001,
+    "InGameSpecialAnim": "INGAME_SC_SUPERSTAR_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Superstar",
+    "OrderSource": 68,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710026003,
+    "LuxuryBundleID": 710026004,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB41/CSH/character/Skyler.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_SUPERSTAR_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_SUPERSTAR_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      4208871075,
+      2731575617
+    ],
+    "RecipeValueInGame_inAb": [
+      2772747156,
+      546059342
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 2772747156,
+      "slot": "Male_Head_Sc_Superstar_Slot",
+      "overlay": "Male_Head_Sc_Superstar_Overlay",
+      "meshPathID": 2286591,
+      "submesh": 0,
+      "textures": [
+        68712
+      ]
+    },
+    {
+      "recipeHash": 2772747156,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_Superstar_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        69283
+      ]
+    },
+    {
+      "recipeHash": 546059342,
+      "slot": "Male_Hair_Sc_Superstar_Slot",
+      "overlay": "Male_Hair_Sc_Superstar_Overlay",
+      "meshPathID": 2286596,
+      "submesh": 0,
+      "textures": [
+        92271
+      ]
+    },
+    {
+      "recipeHash": 546059342,
+      "slot": "Male_Hair_Sc_Superstar_1_Slot",
+      "overlay": "Male_Accessory_Sc_Superstar_Overlay",
+      "meshPathID": 2286596,
+      "submesh": 1,
+      "textures": [
+        74002
+      ]
+    },
+    {
+      "recipeHash": 2320978597,
+      "slot": "Male_Accessory_Sc_Superstar_0_Slot",
+      "overlay": "Male_Accessory_Sc_Glass_Superstar_Overlay",
+      "meshPathID": 2286590,
+      "submesh": 0,
+      "textures": [
+        74002
+      ]
+    },
+    {
+      "recipeHash": 2320978597,
+      "slot": "Male_Accessory_Sc_Superstar_1_Slot",
+      "overlay": "Male_Accessory_Sc_Superstar_Overlay",
+      "meshPathID": 2286590,
+      "submesh": 1,
+      "textures": [
+        74002
+      ]
+    },
+    {
+      "recipeHash": 662850940,
+      "slot": "Male_Top_Sc_Superstar_0_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2286604,
+      "submesh": 0,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 662850940,
+      "slot": "Male_Top_Sc_Superstar_1_Slot",
+      "overlay": "Male_Top_Sc_Superstar_Overlay",
+      "meshPathID": 2286604,
+      "submesh": 1,
+      "textures": [
+        88555
+      ]
+    },
+    {
+      "recipeHash": 1308667036,
+      "slot": "Male_Bottom_Sc_Superstar_0_Slot",
+      "overlay": "Male_Bottom_Sc_Superstar_Overlay",
+      "meshPathID": 2286600,
+      "submesh": 0,
+      "textures": [
+        61567
+      ]
+    },
+    {
+      "recipeHash": 1308667036,
+      "slot": "Male_Bottom_Sc_Superstar_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2286600,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 2125067689,
+      "slot": "Male_Shoe_Sc_Superstar_Slot",
+      "overlay": "Male_Shoe_Sc_Superstar_Overlay",
+      "meshPathID": 2286608,
+      "submesh": 0,
+      "textures": [
+        48016
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2286591,
+      "vertices": 373,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2286596,
+      "vertices": 1542,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2286590,
+      "vertices": 276,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2286604,
+      "vertices": 1952,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2286600,
+      "vertices": 460,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2286608,
+      "vertices": 152,
+      "submeshes": 1
+    }
+  ],
+  "bones": 48,
+  "file": "Skyler_Default_InGame.glb",
+  "textures": 7,
+  "bytes": 1466544,
+  "sha256": "b87d7d968344f349cc1a97bcee64142c97629e66a22cf606dbb8e29fe91a8849",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

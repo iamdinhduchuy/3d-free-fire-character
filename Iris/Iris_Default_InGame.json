@@ -1,0 +1,195 @@
+{
+  "character": "Iris",
+  "avatarId": 101000025,
+  "variant": "InGame",
+  "config": {
+    "Id": 101000025,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_Crazygirl",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2721768129,
+      4197723427,
+      453158485,
+      841579953,
+      124314635
+    ],
+    "RecipeValueInGame": [
+      2655718858,
+      461634064,
+      3492771250,
+      2689811169,
+      1168522231
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_35_YZY_CHARACTER_CRAZYGIRL_N",
+    "Introduction": "T_35_YZY_SKILL_INTRODUCE_CRAZYGIRL",
+    "Portrait": "FF_UI_Character_Crazygirl",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 2,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800122002,
+    "InGameSpecialAnim": "INGAME_SC_CRAZYGIRL_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Crazygirl",
+    "OrderSource": 48,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710035004,
+    "LuxuryBundleID": 710035005,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_CRAZYGIRL_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_CRAZYGIRL_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2721768129,
+      4197723427
+    ],
+    "RecipeValueInGame_inAb": [
+      2655718858,
+      461634064
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": "FF_UI_SA_Crazygirl"
+  },
+  "parts": [
+    {
+      "recipeHash": 2655718858,
+      "slot": "Female_Head_Sc_Crazygirl_Slot",
+      "overlay": "Female_Head_Sc_Crazygirl_Overlay",
+      "meshPathID": 2271701,
+      "submesh": 0,
+      "textures": [
+        68607
+      ]
+    },
+    {
+      "recipeHash": 2655718858,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_HairRoot_Sc_Crazygirl_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        82371
+      ]
+    },
+    {
+      "recipeHash": 461634064,
+      "slot": "Female_Hair_Sc_Crazygirl_Slot",
+      "overlay": "Female_Hair_Sc_Crazygirl_Overlay",
+      "meshPathID": 2271734,
+      "submesh": 0,
+      "textures": [
+        74136
+      ]
+    },
+    {
+      "recipeHash": 3492771250,
+      "slot": "Female_Top_Sc_Crazygirl_0_Slot",
+      "overlay": "Female_Skin_Cos_Ghostfashion_Overlay",
+      "meshPathID": 2271868,
+      "submesh": 0,
+      "textures": [
+        83716
+      ]
+    },
+    {
+      "recipeHash": 3492771250,
+      "slot": "Female_Top_Sc_Crazygirl_1_Slot",
+      "overlay": "Female_Top_Sc_Crazygirl_Overlay",
+      "meshPathID": 2271868,
+      "submesh": 1,
+      "textures": [
+        90448
+      ]
+    },
+    {
+      "recipeHash": 2689811169,
+      "slot": "Female_Bottom_Sc_Crazygirl_0_Slot",
+      "overlay": "Female_Skin_Cos_Ghostfashion_Overlay",
+      "meshPathID": 2271831,
+      "submesh": 0,
+      "textures": [
+        83716
+      ]
+    },
+    {
+      "recipeHash": 2689811169,
+      "slot": "Female_Bottom_Sc_Crazygirl_1_Slot",
+      "overlay": "Female_Bottom_Sc_Crazygirl_Overlay",
+      "meshPathID": 2271831,
+      "submesh": 1,
+      "textures": [
+        92245
+      ]
+    },
+    {
+      "recipeHash": 1168522231,
+      "slot": "Female_Shoe_Sc_Crazygirl_Slot",
+      "overlay": "Female_Shoe_Sc_Crazygirl_Overlay",
+      "meshPathID": 2271906,
+      "submesh": 0,
+      "textures": [
+        84690
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2271701,
+      "vertices": 505,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2271734,
+      "vertices": 1693,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2271868,
+      "vertices": 1968,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2271831,
+      "vertices": 1274,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2271906,
+      "vertices": 406,
+      "submeshes": 1
+    }
+  ],
+  "bones": 45,
+  "file": "Iris_Default_InGame.glb",
+  "textures": 6,
+  "bytes": 1572720,
+  "sha256": "9107ac6c4d98c6e4c75423709286630b27e645c27ce957e4aa7133c22cab365c",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

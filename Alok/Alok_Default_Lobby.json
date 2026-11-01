@@ -1,0 +1,234 @@
+{
+  "character": "Alok",
+  "avatarId": 102000015,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000015,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Djmale",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5,
+      8
+    ],
+    "RecipeValueInLobby": [
+      721271501,
+      2939505943,
+      2822452261,
+      3250181573,
+      4044393712,
+      99494908
+    ],
+    "RecipeValueInGame": [
+      640961788,
+      2260621462,
+      1039762827,
+      2695284888,
+      1780172233,
+      393070386
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_18_Y_CHARACTER_DJMALE_N",
+    "Introduction": "T_18_Y_SKILL_INTRODUCE_DJMALE",
+    "Portrait": "FF_UI_Character_Djmale",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800215001,
+    "InGameSpecialAnim": "INGAME_SC_DJMALE_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Djmale",
+    "OrderSource": 68,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000441,
+    "LuxuryBundleID": 710000442,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB41/CSH/character/Alok.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_DJMALE_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_DJMALE_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [],
+    "RecipeValueInGame_inAb": [],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 721271501,
+      "slot": "Male_Head_Cos_Djmale_N_Slot",
+      "overlay": "Male_Head_Cos_Djmale_Overlay_N",
+      "meshPathID": 2276454,
+      "submesh": 0,
+      "textures": [
+        91129,
+        71250,
+        62187
+      ]
+    },
+    {
+      "recipeHash": 721271501,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_Mafiaman_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        61103
+      ]
+    },
+    {
+      "recipeHash": 2939505943,
+      "slot": "Male_Hair_Cos_Djmale_N_Slot",
+      "overlay": "Male_Hair_Cos_Djmale_Overlay_N",
+      "meshPathID": 2276469,
+      "submesh": 0,
+      "textures": [
+        87078,
+        0
+      ]
+    },
+    {
+      "recipeHash": 2822452261,
+      "slot": "Male_Top_Cos_Djmale_N_0_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2276562,
+      "submesh": 0,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 2822452261,
+      "slot": "Male_Top_Cos_Djmale_N_1_Slot",
+      "overlay": "Male_Top_Cos_Djmale_Overlay_N",
+      "meshPathID": 2276562,
+      "submesh": 1,
+      "textures": [
+        81111,
+        76037,
+        56602
+      ]
+    },
+    {
+      "recipeHash": 3250181573,
+      "slot": "Male_Bottom_Cos_Djmale_N_0_Slot",
+      "overlay": "Male_Bottom_Cos_Djmale_Overlay_N",
+      "meshPathID": 2276531,
+      "submesh": 0,
+      "textures": [
+        67643,
+        64565,
+        74515
+      ]
+    },
+    {
+      "recipeHash": 3250181573,
+      "slot": "Male_Bottom_Cos_Djmale_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2276531,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 4044393712,
+      "slot": "Male_Shoe_Cos_Djmale_N_Slot",
+      "overlay": "Male_Shoe_Cos_Djmale_Overlay_N",
+      "meshPathID": 2276592,
+      "submesh": 0,
+      "textures": [
+        90424,
+        62817,
+        59151
+      ]
+    },
+    {
+      "recipeHash": 99494908,
+      "slot": "Male_Accessory_Cos_Djmale_N_0_Slot",
+      "overlay": "Male_Accessory_Cos_Djmale_Overlay_N",
+      "meshPathID": 2276439,
+      "submesh": 0,
+      "textures": [
+        74623,
+        48471,
+        75500
+      ]
+    },
+    {
+      "recipeHash": 99494908,
+      "slot": "Male_Accessory_Cos_Djmale_N_1_Slot",
+      "overlay": "Male_Accessory_Cos_Glass_Djmale_Overlay_N",
+      "meshPathID": 2276439,
+      "submesh": 1,
+      "textures": [
+        74623,
+        48471,
+        75500
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2276454,
+      "vertices": 636,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2276469,
+      "vertices": 2649,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2276562,
+      "vertices": 2875,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2276531,
+      "vertices": 1150,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2276592,
+      "vertices": 583,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2276439,
+      "vertices": 800,
+      "submeshes": 2
+    }
+  ],
+  "bones": 62,
+  "file": "Alok_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1798008,
+  "sha256": "9772614ac30a1e3f5768c82e884b38a55fbda7073b6882c9a7e3974513960fce",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

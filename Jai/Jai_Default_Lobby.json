@@ -1,0 +1,207 @@
+{
+  "character": "Jai",
+  "avatarId": 102000021,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000021,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_SwatGuy",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3298434606,
+      1095952884,
+      1180471494,
+      803107110,
+      527902739
+    ],
+    "RecipeValueInGame": [
+      3845763183,
+      1169400837,
+      4277434648,
+      1672164363,
+      2836838746
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_23_D_CHARACTER_SWATGUY_N",
+    "Introduction": "T_23_D_SKILL_INTRODUCE_SWATGUY",
+    "Portrait": "FF_UI_Character_SwatGuy",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800221001,
+    "InGameSpecialAnim": "INGAME_SC_SWATGUY_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_SwatGuy",
+    "OrderSource": 33,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000709,
+    "LuxuryBundleID": 710000710,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": true,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_SWATGUY_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_SWATGUY_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3298434606,
+      1095952884
+    ],
+    "RecipeValueInGame_inAb": [
+      3845763183,
+      1169400837
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3298434606,
+      "slot": "Male_Head_Sc_SwatGuy_N_Slot",
+      "overlay": "Male_Head_Sc_SwatGuy_Overlay_N",
+      "meshPathID": 2286640,
+      "submesh": 0,
+      "textures": [
+        75432,
+        60781,
+        82381
+      ]
+    },
+    {
+      "recipeHash": 3298434606,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_SwatGuy_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        66932
+      ]
+    },
+    {
+      "recipeHash": 1095952884,
+      "slot": "Male_Hair_Sc_SwatGuy_N_Slot",
+      "overlay": "Male_Hair_Sc_SwatGuy_Overlay_N",
+      "meshPathID": 2286642,
+      "submesh": 0,
+      "textures": [
+        52314
+      ]
+    },
+    {
+      "recipeHash": 1180471494,
+      "slot": "Male_Top_Sc_SwatGuy_N_0_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2286646,
+      "submesh": 0,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 1180471494,
+      "slot": "Male_Top_Sc_SwatGuy_N_1_Slot",
+      "overlay": "Male_Top_Sc_SwatGuy_Overlay_N",
+      "meshPathID": 2286646,
+      "submesh": 1,
+      "textures": [
+        80891,
+        48413,
+        52362
+      ]
+    },
+    {
+      "recipeHash": 803107110,
+      "slot": "Male_Bottom_Sc_SwatGuy_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_SwatGuy_Overlay_N",
+      "meshPathID": 2286644,
+      "submesh": 0,
+      "textures": [
+        62183,
+        50521,
+        84151
+      ]
+    },
+    {
+      "recipeHash": 803107110,
+      "slot": "Male_Bottom_Sc_SwatGuy_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2286644,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 527902739,
+      "slot": "Male_Shoe_Sc_SwatGuy_N_Slot",
+      "overlay": "Male_Shoe_Sc_SwatGuy_Overlay_N",
+      "meshPathID": 2286648,
+      "submesh": 0,
+      "textures": [
+        48125,
+        87503,
+        83954
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2286640,
+      "vertices": 639,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2286642,
+      "vertices": 1887,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2286646,
+      "vertices": 3673,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2286644,
+      "vertices": 1978,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2286648,
+      "vertices": 318,
+      "submeshes": 1
+    }
+  ],
+  "bones": 55,
+  "file": "Jai_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1822644,
+  "sha256": "12ec6afeb8e5b6d8e7d0d670307b0d51d4a4aa03f6ab372da2ec9877993e3a41",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

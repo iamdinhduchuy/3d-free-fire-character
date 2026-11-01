@@ -1,0 +1,234 @@
+{
+  "character": "Alvaro",
+  "avatarId": 102000016,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000016,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Demolitionist",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5,
+      8
+    ],
+    "RecipeValueInLobby": [
+      3414242387,
+      3593967829,
+      2396511611,
+      2373035657,
+      4174196274,
+      2575046487
+    ],
+    "RecipeValueInGame": [
+      936739386,
+      1346802811,
+      1369657251,
+      304584505,
+      4020485529,
+      1236120562
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_19_Y_CHARACTER_DEMOLITIONIST_N",
+    "Introduction": "T_19_Y_SKILL_INTRODUCE_DEMOLITIONIST",
+    "Portrait": "FF_UI_Character_Demolitionist",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800216001,
+    "InGameSpecialAnim": "INGAME_SC_DEMOLITIONIST_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Demolitionist",
+    "OrderSource": 26,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000493,
+    "LuxuryBundleID": 710000494,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB40/CSH/character/Alvaro.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_DEMOLITIONIST_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_DEMOLITIONIST_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3414242387,
+      3593967829
+    ],
+    "RecipeValueInGame_inAb": [
+      936739386,
+      1346802811
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 936739386,
+      "slot": "Male_Head_Sc_Demolitionist_Slot",
+      "overlay": "Male_Head_Sc_Demolitionist_Overlay",
+      "meshPathID": 2276619,
+      "submesh": 0,
+      "textures": [
+        66969
+      ]
+    },
+    {
+      "recipeHash": 936739386,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 1346802811,
+      "slot": "Male_Hair_Sc_Demolitionist_0_Slot",
+      "overlay": "Male_Hair_Sc_Demolitionist_Overlay",
+      "meshPathID": 2276643,
+      "submesh": 0,
+      "textures": [
+        79647,
+        84660
+      ]
+    },
+    {
+      "recipeHash": 1346802811,
+      "slot": "Male_Hair_Sc_Demolitionist_1_Slot",
+      "overlay": "Male_Accessory_Sc_Demolitionist_Overlay",
+      "meshPathID": 2276643,
+      "submesh": 1,
+      "textures": [
+        84660
+      ]
+    },
+    {
+      "recipeHash": 1369657251,
+      "slot": "Male_Top_Sc_Demolitionist_0_Slot",
+      "overlay": "Male_Skin_Sc_Demolitionist_Overlay",
+      "meshPathID": 2276717,
+      "submesh": 0,
+      "textures": [
+        80874
+      ]
+    },
+    {
+      "recipeHash": 1369657251,
+      "slot": "Male_Top_Sc_Demolitionist_1_Slot",
+      "overlay": "Male_Top_Sc_Demolitionist_Overlay",
+      "meshPathID": 2276717,
+      "submesh": 1,
+      "textures": [
+        82179
+      ]
+    },
+    {
+      "recipeHash": 304584505,
+      "slot": "Male_Bottom_Sc_Demolitionist_0_Slot",
+      "overlay": "Male_Bottom_Sc_Demolitionist_Overlay",
+      "meshPathID": 2276691,
+      "submesh": 0,
+      "textures": [
+        76696
+      ]
+    },
+    {
+      "recipeHash": 304584505,
+      "slot": "Male_Bottom_Sc_Demolitionist_1_Slot",
+      "overlay": "Male_Skin_Sc_Demolitionist_Overlay",
+      "meshPathID": 2276691,
+      "submesh": 1,
+      "textures": [
+        80874
+      ]
+    },
+    {
+      "recipeHash": 4020485529,
+      "slot": "Male_Shoe_Sc_Demolitionist_Slot",
+      "overlay": "Male_Shoe_Sc_Demolitionist_Overlay",
+      "meshPathID": 2276743,
+      "submesh": 0,
+      "textures": [
+        82542
+      ]
+    },
+    {
+      "recipeHash": 1236120562,
+      "slot": "Male_Accessory_Sc_Demolitionist_0_Slot",
+      "overlay": "Male_Accessory_Sc_Glass_Demolitionist_Overlay",
+      "meshPathID": 2276618,
+      "submesh": 0,
+      "textures": [
+        84660
+      ]
+    },
+    {
+      "recipeHash": 1236120562,
+      "slot": "Male_Accessory_Sc_Demolitionist_1_Slot",
+      "overlay": "Male_Accessory_Sc_Demolitionist_Overlay",
+      "meshPathID": 2276618,
+      "submesh": 1,
+      "textures": [
+        84660
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2276619,
+      "vertices": 332,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2276643,
+      "vertices": 922,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2276717,
+      "vertices": 1451,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2276691,
+      "vertices": 1572,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2276743,
+      "vertices": 220,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2276618,
+      "vertices": 153,
+      "submeshes": 2
+    }
+  ],
+  "bones": 48,
+  "file": "Alvaro_Default_InGame.glb",
+  "textures": 7,
+  "bytes": 1551556,
+  "sha256": "c9f050ec61630cd9585008f4d7ee37aeaf169d6392256f1d7f571f567cedf404",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

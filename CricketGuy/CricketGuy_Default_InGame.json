@@ -1,0 +1,202 @@
+{
+  "character": "CricketGuy",
+  "avatarId": 102000035,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000035,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_CricketGuy",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      1832938831,
+      1770454518,
+      1487967068,
+      184591895,
+      1472622747
+    ],
+    "RecipeValueInGame": [
+      1043371701,
+      1066169509,
+      3078998936,
+      2803643674,
+      1899434712
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_41_H_CHARACTER_CRICKETGUY_N",
+    "Introduction": "T_41_H_SKILL_INTRODUCE_CRICKETGUY",
+    "Portrait": "",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800236001,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_CricketGuy",
+    "OrderSource": 40,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 3,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_CRICKETGUY_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_CRICKETGUY_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      1832938831,
+      1770454518
+    ],
+    "RecipeValueInGame_inAb": [
+      1043371701,
+      1066169509
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 1043371701,
+      "slot": "Male_Head_Sc_CricketGuy_Slot",
+      "overlay": "Male_Head_Sc_CricketGuy_Overlay",
+      "meshPathID": 2285432,
+      "submesh": 0,
+      "textures": [
+        65767
+      ]
+    },
+    {
+      "recipeHash": 1043371701,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_HairRoot_Sc_CricketGuy_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48671
+      ]
+    },
+    {
+      "recipeHash": 1066169509,
+      "slot": "Male_Hair_Sc_CricketGuy_Slot",
+      "overlay": "Male_Hair_Sc_CricketGuy_Overlay",
+      "meshPathID": 2285434,
+      "submesh": 0,
+      "textures": [
+        78621
+      ]
+    },
+    {
+      "recipeHash": 3078998936,
+      "slot": "Male_Top_Sc_CricketGuy_0_Slot",
+      "overlay": "Male_Top_Sc_CricketGuy_Overlay",
+      "meshPathID": 2285440,
+      "submesh": 0,
+      "textures": [
+        58696
+      ]
+    },
+    {
+      "recipeHash": 3078998936,
+      "slot": "Male_Top_Sc_CricketGuy_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2285440,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 2803643674,
+      "slot": "Male_Bottom_Sc_CricketGuy_0_Slot",
+      "overlay": "Male_Bottom_Sc_CricketGuy_Overlay",
+      "meshPathID": 2285437,
+      "submesh": 0,
+      "textures": [
+        54311
+      ]
+    },
+    {
+      "recipeHash": 2803643674,
+      "slot": "Male_Bottom_Sc_CricketGuy_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2285437,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 1899434712,
+      "slot": "Male_Shoe_Sc_CricketGuy_Slot",
+      "overlay": "Male_Shoe_Sc_CricketGuy_Overlay",
+      "meshPathID": 2285443,
+      "submesh": 0,
+      "textures": [
+        50841
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2285432,
+      "vertices": 370,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2285434,
+      "vertices": 1448,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2285440,
+      "vertices": 2075,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2285437,
+      "vertices": 1145,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2285443,
+      "vertices": 458,
+      "submeshes": 1
+    }
+  ],
+  "bones": 48,
+  "file": "CricketGuy_Default_InGame.glb",
+  "textures": 6,
+  "bytes": 1622540,
+  "recoveredRecipeHashes": [
+    1043371701,
+    1066169509,
+    3078998936,
+    2803643674,
+    1899434712
+  ],
+  "sha256": "a25367aed4a21adac66068dc374bbb63b587cfb49110b6c0656824a92d75bb83",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "reconstructed"
+}

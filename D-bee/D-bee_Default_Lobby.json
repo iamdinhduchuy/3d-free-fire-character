@@ -1,0 +1,225 @@
+{
+  "character": "D-bee",
+  "avatarId": 102000029,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000029,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_StreetBeat",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2016384607,
+      913513412,
+      148489605,
+      3857200621,
+      54259703
+    ],
+    "RecipeValueInGame": [
+      950467080,
+      1579485493,
+      2532660940,
+      915813973,
+      1612012335
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_28_D_CHARACTER_STREETBEAT_N",
+    "Introduction": "T_28_D_SKILL_INTRODUCE_STREETBEAT",
+    "Portrait": "FF_UI_Character_StreetBeat",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [
+      59,
+      36,
+      26
+    ],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800229001,
+    "InGameSpecialAnim": "INGAME_SC_STREETBEAT_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_StreetBeat",
+    "OrderSource": 40,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710028001,
+    "LuxuryBundleID": 710028002,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_STREETBEAT_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_STREETBEAT_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2016384607,
+      913513412
+    ],
+    "RecipeValueInGame_inAb": [
+      950467080,
+      1579485493
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 2016384607,
+      "slot": "Male_Head_Sc_StreetBeat_N_Slot",
+      "overlay": "Male_Head_Sc_StreetBeat_Overlay_N",
+      "meshPathID": 2278106,
+      "submesh": 0,
+      "textures": [
+        71095,
+        71033,
+        66601
+      ]
+    },
+    {
+      "recipeHash": 2016384607,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_StreetBeat_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        86505
+      ]
+    },
+    {
+      "recipeHash": 913513412,
+      "slot": "Male_Hair_Sc_StreetBeat_N_0_Slot",
+      "overlay": "Male_Hair_Sc_StreetBeat_Overlay_N",
+      "meshPathID": 2278138,
+      "submesh": 0,
+      "textures": [
+        59079,
+        77746,
+        91181
+      ]
+    },
+    {
+      "recipeHash": 913513412,
+      "slot": "Male_Hair_Sc_StreetBeat_N_1_Slot",
+      "overlay": "Male_Hat_Sc_StreetBeat_Overlay_N",
+      "meshPathID": 2278138,
+      "submesh": 1,
+      "textures": [
+        91109,
+        79387,
+        91737
+      ]
+    },
+    {
+      "recipeHash": 148489605,
+      "slot": "Male_Top_Sc_StreetBeat_N_0_Slot",
+      "overlay": "Male_Top_Sc_StreetBeat_Overlay_N",
+      "meshPathID": 2278219,
+      "submesh": 0,
+      "textures": [
+        68979,
+        67899,
+        55599
+      ]
+    },
+    {
+      "recipeHash": 148489605,
+      "slot": "Male_Top_Sc_StreetBeat_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2278219,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 3857200621,
+      "slot": "Male_Bottom_Sc_StreetBeat_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_StreetBeat_Overlay_N",
+      "meshPathID": 2278193,
+      "submesh": 0,
+      "textures": [
+        92606,
+        71976,
+        90372
+      ]
+    },
+    {
+      "recipeHash": 3857200621,
+      "slot": "Male_Bottom_Sc_StreetBeat_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2278193,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 54259703,
+      "slot": "Male_Shoe_Sc_StreetBeat_N_Slot",
+      "overlay": "Male_Shoe_Sc_StreetBeat_Overlay_N",
+      "meshPathID": 2278245,
+      "submesh": 0,
+      "textures": [
+        79292,
+        76775,
+        61249
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2278106,
+      "vertices": 1123,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2278138,
+      "vertices": 2356,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2278219,
+      "vertices": 2750,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2278193,
+      "vertices": 1417,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2278245,
+      "vertices": 670,
+      "submeshes": 1
+    }
+  ],
+  "bones": 76,
+  "file": "D-bee_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1943256,
+  "sha256": "01d7a101d71511bb658e17b26046d29cac6e43f91bf884cae00e77f06f757ec9",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

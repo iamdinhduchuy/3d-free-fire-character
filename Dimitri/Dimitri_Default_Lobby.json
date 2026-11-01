@@ -1,0 +1,239 @@
+{
+  "character": "Dimitri",
+  "avatarId": 102000031,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000031,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_MusicBro1",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5,
+      8
+    ],
+    "RecipeValueInLobby": [
+      2938640323,
+      2884536186,
+      2597906896,
+      3379092635,
+      2511211031,
+      2820091641
+    ],
+    "RecipeValueInGame": [
+      1803172998,
+      1791418006,
+      3805241771,
+      4065763113,
+      612219115,
+      4273671733
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_29_D_CHARACTER_MUSICBRO1_N",
+    "Introduction": "T_29_D_SKILL_INTRODUCE_MUSICBRO1",
+    "Portrait": "FF_UI_Character_MusicBro1",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800231001,
+    "InGameSpecialAnim": "INGAME_SC_MUSICBRO_WHITE_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_MusicBro1",
+    "OrderSource": 40,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 720029001,
+    "LuxuryBundleID": 720029002,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB40/CSH/character/ThivaDimitri.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_MUSICBRO_WHITE_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_MUSICBRO_WHITE_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2938640323,
+      2884536186
+    ],
+    "RecipeValueInGame_inAb": [
+      1803172998,
+      1791418006
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 2938640323,
+      "slot": "Male_Head_Sc_MusicBro_White_N_Slot",
+      "overlay": "Male_Head_Sc_MusicBro_White_Overlay_N",
+      "meshPathID": 2286034,
+      "submesh": 0,
+      "textures": [
+        72496,
+        48907,
+        51695
+      ]
+    },
+    {
+      "recipeHash": 2938640323,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_MusicBro_White_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        72420
+      ]
+    },
+    {
+      "recipeHash": 2884536186,
+      "slot": "Male_Hair_Sc_MusicBro_White_N_Slot",
+      "overlay": "Male_Hair_Sc_MusicBro_White_Overlay_N",
+      "meshPathID": 2286036,
+      "submesh": 0,
+      "textures": [
+        78262
+      ]
+    },
+    {
+      "recipeHash": 2597906896,
+      "slot": "Male_Top_Sc_MusicBro_White_N_0_Slot",
+      "overlay": "Male_Top_Sc_MusicBro_White_Overlay_N",
+      "meshPathID": 2286040,
+      "submesh": 0,
+      "textures": [
+        53513,
+        76497,
+        48061
+      ]
+    },
+    {
+      "recipeHash": 2597906896,
+      "slot": "Male_Top_Sc_MusicBro_White_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2286040,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 3379092635,
+      "slot": "Male_Bottom_Sc_MusicBro_White_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_MusicBro_White_Overlay_N",
+      "meshPathID": 2286038,
+      "submesh": 0,
+      "textures": [
+        78407,
+        48612,
+        73610
+      ]
+    },
+    {
+      "recipeHash": 3379092635,
+      "slot": "Male_Bottom_Sc_MusicBro_White_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2286038,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 2511211031,
+      "slot": "Male_Shoe_Sc_MusicBro_White_N_Slot",
+      "overlay": "Male_Shoe_Sc_MusicBro_White_Overlay_N",
+      "meshPathID": 2286042,
+      "submesh": 0,
+      "textures": [
+        77809,
+        66424,
+        85592
+      ]
+    },
+    {
+      "recipeHash": 2820091641,
+      "slot": "Male_Accessory_Sc_MusicBro_White_N_0_Slot",
+      "overlay": "Male_Accessory_Sc_MusicBro_White_Overlay_N",
+      "meshPathID": 2286033,
+      "submesh": 0,
+      "textures": [
+        55938,
+        91937,
+        85705
+      ]
+    },
+    {
+      "recipeHash": 2820091641,
+      "slot": "Male_Accessory_Sc_MusicBro_White_N_1_Slot",
+      "overlay": "Male_Accessory_Sc_Glass_MusicBro_White_Overlay_N",
+      "meshPathID": 2286033,
+      "submesh": 1,
+      "textures": [
+        55938,
+        91937,
+        85705
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2286034,
+      "vertices": 1187,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2286036,
+      "vertices": 2214,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2286040,
+      "vertices": 2160,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2286038,
+      "vertices": 882,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2286042,
+      "vertices": 560,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2286033,
+      "vertices": 670,
+      "submeshes": 2
+    }
+  ],
+  "bones": 55,
+  "file": "Dimitri_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1644948,
+  "sha256": "6d3670870ae57f5f641188463e873340174456745b2acad98aed2afe56b00c30",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

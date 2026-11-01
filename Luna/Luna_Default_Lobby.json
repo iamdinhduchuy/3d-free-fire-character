@@ -1,0 +1,219 @@
+{
+  "character": "Luna",
+  "avatarId": 101000026,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000026,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_GangGirl",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2672636349,
+      4191076992,
+      3252530379,
+      869257394,
+      3355349146
+    ],
+    "RecipeValueInGame": [
+      3539674211,
+      2134648369,
+      2986346625,
+      2764297348,
+      2214907721
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_36_YZY_CHARACTER_GANGGIRL_N",
+    "Introduction": "T_36_YZY_SKILL_INTRODUCE_GANGGIRL",
+    "Portrait": "FF_UI_Character_GangGirl",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 2,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800122003,
+    "InGameSpecialAnim": "INGAME_SC_GANGGIRL_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_GangGirl",
+    "OrderSource": 50,
+    "Tag": 4,
+    "TagPower": 0,
+    "TagDescKey": "T_55_PD_ADJUST_LUNA",
+    "BundleID": 710036001,
+    "LuxuryBundleID": 710036002,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB41/CSH/character/GangGirl.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_GANGGIRL_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_GANGGIRL_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2672636349,
+      4191076992
+    ],
+    "RecipeValueInGame_inAb": [
+      3539674211,
+      2134648369
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 2672636349,
+      "slot": "Female_Head_Sc_GangGirl_N_Slot",
+      "overlay": "Female_Head_Sc_GangGirl_Overlay_N",
+      "meshPathID": 2285635,
+      "submesh": 0,
+      "textures": [
+        77582,
+        49624,
+        50927
+      ]
+    },
+    {
+      "recipeHash": 2672636349,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_GangGirl_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        77295
+      ]
+    },
+    {
+      "recipeHash": 4191076992,
+      "slot": "Female_Hair_Sc_GangGirl_N_0_Slot",
+      "overlay": "Female_Head_Sc_GangGirl_Overlay_N",
+      "meshPathID": 2285637,
+      "submesh": 0,
+      "textures": [
+        77582,
+        49624,
+        50927
+      ]
+    },
+    {
+      "recipeHash": 4191076992,
+      "slot": "Female_Hair_Sc_GangGirl_N_1_Slot",
+      "overlay": "Female_Hair_Sc_GangGirl_Overlay_N",
+      "meshPathID": 2285637,
+      "submesh": 1,
+      "textures": [
+        55353
+      ]
+    },
+    {
+      "recipeHash": 3252530379,
+      "slot": "Female_Top_Sc_GangGirl_N_0_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2285641,
+      "submesh": 0,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 3252530379,
+      "slot": "Female_Top_Sc_GangGirl_N_1_Slot",
+      "overlay": "Female_Top_Sc_GangGirl_Overlay_N",
+      "meshPathID": 2285641,
+      "submesh": 1,
+      "textures": [
+        71345,
+        50282,
+        87040
+      ]
+    },
+    {
+      "recipeHash": 869257394,
+      "slot": "Female_Bottom_Sc_GangGirl_N_0_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2285639,
+      "submesh": 0,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 869257394,
+      "slot": "Female_Bottom_Sc_GangGirl_N_1_Slot",
+      "overlay": "Female_Bottom_Sc_GangGirl_Overlay_N",
+      "meshPathID": 2285639,
+      "submesh": 1,
+      "textures": [
+        64290,
+        56523,
+        47321
+      ]
+    },
+    {
+      "recipeHash": 3355349146,
+      "slot": "Female_Shoe_Sc_GangGirl_N_Slot",
+      "overlay": "Female_Shoe_Sc_GangGirl_Overlay_N",
+      "meshPathID": 2285643,
+      "submesh": 0,
+      "textures": [
+        52553,
+        73536,
+        53106
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2285635,
+      "vertices": 928,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2285637,
+      "vertices": 2963,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2285641,
+      "vertices": 4329,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2285639,
+      "vertices": 1605,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2285643,
+      "vertices": 380,
+      "submeshes": 1
+    }
+  ],
+  "bones": 97,
+  "file": "Luna_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1816616,
+  "sha256": "ae2468bb1c499d3ec80a74794c77dbeaab1771322bfd44257e43ec0664cb48fb",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

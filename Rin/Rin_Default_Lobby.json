@@ -1,0 +1,220 @@
+{
+  "character": "Rin",
+  "avatarId": 101000053,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000053,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_ShadowGirl",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5,
+      14
+    ],
+    "RecipeValueInLobby": [
+      3108674892,
+      4145418455,
+      1318187605,
+      3923771375,
+      3260998884,
+      3208528664
+    ],
+    "RecipeValueInGame": [
+      4114141582,
+      2478514867,
+      2879933688,
+      1505374337,
+      2911596713,
+      3208528664
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_50_SH_CHARACTER_SHADOWGIRL_N",
+    "Introduction": "T_50_SH_SKILL_INTRODUCE_SHADOWGIRL",
+    "Portrait": "FF_UI_Character_ShadowGirl",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800150001,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_ShadowGirl",
+    "OrderSource": 64,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB50/CSH/character/ShadowGirl.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_SHADOWGIRL_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_SHADOWGIRL_SHOWPOSE",
+    "VFXShowPose": "FF_VFX_ShopShow_Female_SC_ShadowGirl",
+    "RecipeValueInLobby_inAb": [
+      3108674892,
+      4145418455
+    ],
+    "RecipeValueInGame_inAb": [
+      4114141582,
+      2478514867
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3108674892,
+      "slot": "Female_Head_Sc_ShadowGirl_N_Slot",
+      "overlay": "Female_Head_Sc_ShadowGirl_Overlay_N",
+      "meshPathID": 2274180,
+      "submesh": 0,
+      "textures": [
+        51889,
+        60587,
+        88981
+      ]
+    },
+    {
+      "recipeHash": 3108674892,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Tomboy_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        77591
+      ]
+    },
+    {
+      "recipeHash": 4145418455,
+      "slot": "Female_Hair_Sc_ShadowGirl_N_0_Slot",
+      "overlay": "Female_Hat_Sc_ShadowGirl_Overlay_N",
+      "meshPathID": 2274206,
+      "submesh": 0,
+      "textures": [
+        68905,
+        55396,
+        48065
+      ]
+    },
+    {
+      "recipeHash": 4145418455,
+      "slot": "Female_Hair_Sc_ShadowGirl_N_1_Slot",
+      "overlay": "Female_Hair_Sc_ShadowGirl_Overlay_N",
+      "meshPathID": 2274206,
+      "submesh": 1,
+      "textures": [
+        77863
+      ]
+    },
+    {
+      "recipeHash": 1318187605,
+      "slot": "Female_Top_Sc_ShadowGirl_N_1_Slot",
+      "overlay": "Female_Top_Sc_ShadowGirl_Overlay_N",
+      "meshPathID": 2274268,
+      "submesh": 1,
+      "textures": [
+        53976,
+        67994,
+        48873
+      ]
+    },
+    {
+      "recipeHash": 1318187605,
+      "slot": "Female_Top_Sc_ShadowGirl_N_0_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2274268,
+      "submesh": 0,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 3923771375,
+      "slot": "Female_Bottom_Sc_ShadowGirl_N_Slot",
+      "overlay": "Female_Bottom_Sc_ShadowGirl_Overlay_N",
+      "meshPathID": 2274238,
+      "submesh": 0,
+      "textures": [
+        60116,
+        54009,
+        86106
+      ]
+    },
+    {
+      "recipeHash": 3260998884,
+      "slot": "Female_Shoe_Sc_ShadowGirl_N_Slot",
+      "overlay": "Female_Shoe_Sc_ShadowGirl_Overlay_N",
+      "meshPathID": 2274301,
+      "submesh": 0,
+      "textures": [
+        80391,
+        57446,
+        53955
+      ]
+    },
+    {
+      "recipeHash": 3208528664,
+      "slot": "Head_Additive_Common_Slot",
+      "overlay": "Female_Headadditive_Sc_ShadowGirl_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        81575
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2274180,
+      "vertices": 869,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2274206,
+      "vertices": 3181,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2274268,
+      "vertices": 3056,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2274238,
+      "vertices": 1618,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2274301,
+      "vertices": 456,
+      "submeshes": 1
+    }
+  ],
+  "bones": 59,
+  "file": "Rin_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1682840,
+  "sha256": "bd28ff954523ae6a8ffcae02d9e36e17b22bab4548ed92252125cee5a73b48f0",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

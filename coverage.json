@@ -1,0 +1,15 @@
+{
+  "rosterEntries": 76,
+  "exportedEntries": 74,
+  "originalRecipeEntries": 73,
+  "reconstructedEntries": 1,
+  "awakenedEntries": 6,
+  "glbFiles": 148,
+  "glbBytes": 243885124,
+  "validationErrors": 0,
+  "validationWarnings": 0,
+  "unavailableEntries": [
+    "MMAFighter",
+    "Researcher"
+  ]
+}

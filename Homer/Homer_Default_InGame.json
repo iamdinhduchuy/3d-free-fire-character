@@ -1,0 +1,189 @@
+{
+  "character": "Homer",
+  "avatarId": 102000037,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000037,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Tracker",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2931111387,
+      729661953,
+      745782067,
+      1173445331,
+      1968702438
+    ],
+    "RecipeValueInGame": [
+      1373242409,
+      4048556099,
+      1243073886,
+      3611852877,
+      502598940
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_34_MF_CHARACTER_TRACKER_N",
+    "Introduction": "T_34_MF_SKILL_INTRODUCE_TRACKER",
+    "Portrait": "FF_UI_Character_Tracker",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800238001,
+    "InGameSpecialAnim": "INGAME_SC_TRACKER_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Tracker",
+    "OrderSource": 68,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710034003,
+    "LuxuryBundleID": 710034004,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB40/CSH/character/Homer.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_TRACKER_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_TRACKER_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [],
+    "RecipeValueInGame_inAb": [],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": "FF_UI_SA_Tracker"
+  },
+  "parts": [
+    {
+      "recipeHash": 1373242409,
+      "slot": "Male_Head_Sc_Tracker_Slot",
+      "overlay": "Male_Head_Sc_Tracker_Overlay",
+      "meshPathID": 2279299,
+      "submesh": 0,
+      "textures": [
+        54497
+      ]
+    },
+    {
+      "recipeHash": 1373242409,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_HairRoot_Sc_Tracker",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        70149
+      ]
+    },
+    {
+      "recipeHash": 4048556099,
+      "slot": "Male_Hair_Sc_Tracker_Slot",
+      "overlay": "Male_Hair_Sc_Tracker_Overlay",
+      "meshPathID": 2279340,
+      "submesh": 0,
+      "textures": [
+        83385
+      ]
+    },
+    {
+      "recipeHash": 1243073886,
+      "slot": "Male_Top_Sc_Tracker_0_Slot",
+      "overlay": "Male_Top_Sc_Tracker_Overlay",
+      "meshPathID": 2279468,
+      "submesh": 0,
+      "textures": [
+        90806
+      ]
+    },
+    {
+      "recipeHash": 1243073886,
+      "slot": "Male_Top_Sc_Tracker_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2279468,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 3611852877,
+      "slot": "Male_Bottom_Sc_Tracker_0_Slot",
+      "overlay": "Male_Bottom_Sc_Tracker_Overlay",
+      "meshPathID": 2279430,
+      "submesh": 0,
+      "textures": [
+        76439
+      ]
+    },
+    {
+      "recipeHash": 3611852877,
+      "slot": "Male_Bottom_Sc_Tracker_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2279430,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 502598940,
+      "slot": "Male_Shoe_Sc_Tracker_Slot",
+      "overlay": "Male_Shoe_Sc_Tracker_Overlay",
+      "meshPathID": 2279509,
+      "submesh": 0,
+      "textures": [
+        70842
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2279299,
+      "vertices": 449,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2279340,
+      "vertices": 1891,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2279468,
+      "vertices": 2100,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2279430,
+      "vertices": 858,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2279509,
+      "vertices": 420,
+      "submeshes": 1
+    }
+  ],
+  "bones": 48,
+  "file": "Homer_Default_InGame.glb",
+  "textures": 6,
+  "bytes": 1551216,
+  "sha256": "fc90721f7f88a8f55425da4b7999adec43d80cb3055ff5b824e6e2d9d0ffb0db",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

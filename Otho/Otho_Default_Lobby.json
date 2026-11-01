@@ -1,0 +1,207 @@
+{
+  "character": "Otho",
+  "avatarId": 102000033,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000033,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_MuertoGuy",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3021769927,
+      3960619813,
+      683399618,
+      2714276162,
+      290359821
+    ],
+    "RecipeValueInGame": [
+      3769471918,
+      1701143668,
+      1651187014,
+      199883942,
+      994092435
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_30_D_CHARACTER_MUERTOGUY_N",
+    "Introduction": "T_30_D_SKILL_INTRODUCE_MUERTOGUY",
+    "Portrait": "FF_UI_Character_MuertoGuy",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800233001,
+    "InGameSpecialAnim": "INGAME_SC_MUERTOGUY_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_MuertoGuy",
+    "OrderSource": 40,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710030003,
+    "LuxuryBundleID": 710030004,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_MUERTOGUY_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_MUERTOGUY_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3021769927,
+      3960619813
+    ],
+    "RecipeValueInGame_inAb": [
+      3769471918,
+      1701143668
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3021769927,
+      "slot": "Male_Head_Sc_MuertoGuy_N_Slot",
+      "overlay": "Male_Head_Sc_MuertoGuy_Overlay_N",
+      "meshPathID": 2278493,
+      "submesh": 0,
+      "textures": [
+        76741,
+        79484,
+        77486
+      ]
+    },
+    {
+      "recipeHash": 3021769927,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_MuertoGuy_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        82841
+      ]
+    },
+    {
+      "recipeHash": 3960619813,
+      "slot": "Male_Hair_Sc_MuertoGuy_N_0_Slot",
+      "overlay": "Male_Hair_Sc_MuertoGuy_Overlay_N",
+      "meshPathID": 2278541,
+      "submesh": 0,
+      "textures": [
+        55478
+      ]
+    },
+    {
+      "recipeHash": 3960619813,
+      "slot": "Male_Hair_Sc_MuertoGuy_N_1_Slot",
+      "overlay": "Male_Hat_Sc_MuertoGuy_Overlay_N",
+      "meshPathID": 2278541,
+      "submesh": 1,
+      "textures": [
+        76741,
+        79484,
+        77486
+      ]
+    },
+    {
+      "recipeHash": 683399618,
+      "slot": "Male_Top_Sc_MuertoGuy_N_0_Slot",
+      "overlay": "Male_Body_Sc_MuertoGuy_Overlay_N",
+      "meshPathID": 2278667,
+      "submesh": 0,
+      "textures": [
+        71593,
+        53140,
+        91007
+      ]
+    },
+    {
+      "recipeHash": 683399618,
+      "slot": "Male_Top_Sc_MuertoGuy_N_1_Slot",
+      "overlay": "Male_Top_Sc_MuertoGuy_Overlay_N",
+      "meshPathID": 2278667,
+      "submesh": 1,
+      "textures": [
+        85515,
+        52865,
+        64055
+      ]
+    },
+    {
+      "recipeHash": 2714276162,
+      "slot": "Male_Bottom_Sc_MuertoGuy_N_Slot",
+      "overlay": "Male_Bottom_Sc_MuertoGuy_Overlay_N",
+      "meshPathID": 2278629,
+      "submesh": 0,
+      "textures": [
+        59428,
+        66067,
+        61263
+      ]
+    },
+    {
+      "recipeHash": 290359821,
+      "slot": "Male_Shoe_Sc_MuertoGuy_N_Slot",
+      "overlay": "Male_Shoe_Sc_MuertoGuy_Overlay_N",
+      "meshPathID": 2278705,
+      "submesh": 0,
+      "textures": [
+        77606,
+        85884,
+        86158
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2278493,
+      "vertices": 1036,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2278541,
+      "vertices": 2896,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2278667,
+      "vertices": 3003,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2278629,
+      "vertices": 1068,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2278705,
+      "vertices": 476,
+      "submeshes": 1
+    }
+  ],
+  "bones": 58,
+  "file": "Otho_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1751608,
+  "sha256": "4e35fa823e1fb51ecedf87e9a956ef3d911e463857144e4815f9c6e82bb55641",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

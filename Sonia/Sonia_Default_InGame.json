@@ -1,0 +1,195 @@
+{
+  "character": "Sonia",
+  "avatarId": 101000027,
+  "variant": "InGame",
+  "config": {
+    "Id": 101000027,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_Nanoscientist",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2679005080,
+      2182673182,
+      2134752164,
+      2470367775,
+      2900510201
+    ],
+    "RecipeValueInGame": [
+      3755292395,
+      3091603626,
+      3142141252,
+      2421838299,
+      128125256
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_40_SY_CHARACTER_NANOSCIENTIST_N",
+    "Introduction": "T_40_SY_SKILL_INTRODUCE_NANOSCIENTIST",
+    "Portrait": "FF_UI_Character_Nanoscientist",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800122004,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_Nanoscientist",
+    "OrderSource": 54,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB40/CSH/character/Sonia.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_NANOSCIENTIST_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_NANOSCIENTIST_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2679005080,
+      2182673182
+    ],
+    "RecipeValueInGame_inAb": [
+      3755292395,
+      3091603626
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3755292395,
+      "slot": "Female_Head_Sc_Nanoscientist_Slot",
+      "overlay": "Female_Head_Sc_Nanoscientist_Overlay",
+      "meshPathID": 2272650,
+      "submesh": 0,
+      "textures": [
+        54162
+      ]
+    },
+    {
+      "recipeHash": 3755292395,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_HairRoot_Sc_Nanoscientist_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        83179
+      ]
+    },
+    {
+      "recipeHash": 3091603626,
+      "slot": "Female_Hair_Sc_Nanoscientist_Slot",
+      "overlay": "Female_Hair_Sc_Nanoscientist_Overlay",
+      "meshPathID": 2272680,
+      "submesh": 0,
+      "textures": [
+        79808
+      ]
+    },
+    {
+      "recipeHash": 3142141252,
+      "slot": "Female_Top_Sc_Nanoscientist_0_Slot",
+      "overlay": "Female_Top_Sc_Nanoscientist_Overlay",
+      "meshPathID": 2272776,
+      "submesh": 0,
+      "textures": [
+        51903
+      ]
+    },
+    {
+      "recipeHash": 3142141252,
+      "slot": "Female_Top_Sc_Nanoscientist_1_Slot",
+      "overlay": "female_body_Overlay",
+      "meshPathID": 2272776,
+      "submesh": 1,
+      "textures": [
+        48582
+      ]
+    },
+    {
+      "recipeHash": 2421838299,
+      "slot": "Female_Bottom_Sc_Nanoscientist_0_Slot",
+      "overlay": "female_body_Overlay",
+      "meshPathID": 2272742,
+      "submesh": 0,
+      "textures": [
+        48582
+      ]
+    },
+    {
+      "recipeHash": 2421838299,
+      "slot": "Female_Bottom_Sc_Nanoscientist_1_Slot",
+      "overlay": "Female_Bottom_Sc_Nanoscientist_Overlay",
+      "meshPathID": 2272742,
+      "submesh": 1,
+      "textures": [
+        53322
+      ]
+    },
+    {
+      "recipeHash": 128125256,
+      "slot": "Female_Shoe_Sc_Nanoscientist_Slot",
+      "overlay": "Female_Shoe_Sc_Nanoscientist_Overlay",
+      "meshPathID": 2272813,
+      "submesh": 0,
+      "textures": [
+        50249
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2272650,
+      "vertices": 330,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2272680,
+      "vertices": 1728,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2272776,
+      "vertices": 1602,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2272742,
+      "vertices": 638,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2272813,
+      "vertices": 327,
+      "submeshes": 1
+    }
+  ],
+  "bones": 43,
+  "file": "Sonia_Default_InGame.glb",
+  "textures": 6,
+  "bytes": 1246488,
+  "sha256": "3854e01609ca0365921d1f05f815ca40a0538e2372332f3b58edac9f7bad5721",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

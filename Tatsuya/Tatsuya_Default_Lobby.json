@@ -1,0 +1,201 @@
+{
+  "character": "Tatsuya",
+  "avatarId": 102000039,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000039,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Yakuza",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      1292620157,
+      3771519791,
+      2205284395,
+      122873528,
+      468990551
+    ],
+    "RecipeValueInGame": [
+      3004319046,
+      870602662,
+      2138982675,
+      4064605590,
+      4111150695
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_36_YZY_CHARACTER_YAKUZA_N",
+    "Introduction": "T_36_YZY_SKILL_INTRODUCE_YAKUZA",
+    "Portrait": "FF_UI_Character_Yakuza",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800240001,
+    "InGameSpecialAnim": "INGAME_SC_YAKUZA_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Yakuza",
+    "OrderSource": 50,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710036003,
+    "LuxuryBundleID": 710036004,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB40/CSH/character/Tatsuya.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_YAKUZA_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_YAKUZA_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [],
+    "RecipeValueInGame_inAb": [],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": "FF_UI_SA_Yakuza"
+  },
+  "parts": [
+    {
+      "recipeHash": 1292620157,
+      "slot": "Male_Head_Sc_Yakuza_N_Slot",
+      "overlay": "Male_Head_Sc_Yakuza_Overlay_N",
+      "meshPathID": 2279807,
+      "submesh": 0,
+      "textures": [
+        48425,
+        66362,
+        75449
+      ]
+    },
+    {
+      "recipeHash": 1292620157,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_HairRoot_Sc_Yakuza_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        82979
+      ]
+    },
+    {
+      "recipeHash": 3771519791,
+      "slot": "Male_Hair_Sc_Yakuza_N_Slot",
+      "overlay": "Male_Hair_Sc_Yakuza_Overlay_N",
+      "meshPathID": 2279873,
+      "submesh": 0,
+      "textures": [
+        80267
+      ]
+    },
+    {
+      "recipeHash": 2205284395,
+      "slot": "Male_Top_Sc_Yakuza_N_0_Slot",
+      "overlay": "Male_Top_Sc_Yakuza_Overlay_N",
+      "meshPathID": 2280018,
+      "submesh": 0,
+      "textures": [
+        55020,
+        90030,
+        66183
+      ]
+    },
+    {
+      "recipeHash": 2205284395,
+      "slot": "Male_Top_Sc_Yakuza_N_1_Slot",
+      "overlay": "Male_Upperbody_Sc_Yakuza_Overlay_N",
+      "meshPathID": 2280018,
+      "submesh": 1,
+      "textures": [
+        48754,
+        87778,
+        56929
+      ]
+    },
+    {
+      "recipeHash": 122873528,
+      "slot": "Male_Bottom_Sc_Yakuza_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_Yakuza_Overlay_N",
+      "meshPathID": 2279971,
+      "submesh": 0,
+      "textures": [
+        55592,
+        49207,
+        63318
+      ]
+    },
+    {
+      "recipeHash": 122873528,
+      "slot": "Male_Bottom_Sc_Yakuza_N_1_Slot",
+      "overlay": "Male_Lowerbody_Sc_Yakuza_Overlay_N",
+      "meshPathID": 2279971,
+      "submesh": 1,
+      "textures": [
+        88249,
+        56643,
+        56807
+      ]
+    },
+    {
+      "recipeHash": 468990551,
+      "slot": "Male_Shoe_Sc_Yakuza_N_Slot",
+      "overlay": "Male_Shoe_Sc_Yakuza_Overlay_N",
+      "meshPathID": 2280070,
+      "submesh": 0,
+      "textures": [
+        77066,
+        56924,
+        81500
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2279807,
+      "vertices": 1010,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2279873,
+      "vertices": 2887,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2280018,
+      "vertices": 3798,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2279971,
+      "vertices": 2503,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2280070,
+      "vertices": 609,
+      "submeshes": 1
+    }
+  ],
+  "bones": 65,
+  "file": "Tatsuya_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 2114512,
+  "sha256": "859a604fa988dcb64bfe5646af1632797e34a12cc4dd2c7b50f2efa5da52b7a2",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

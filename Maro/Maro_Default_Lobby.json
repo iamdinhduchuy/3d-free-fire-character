@@ -1,0 +1,239 @@
+{
+  "character": "Maro",
+  "avatarId": 102000028,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000028,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Falconer",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5,
+      8
+    ],
+    "RecipeValueInLobby": [
+      1025109313,
+      1536827004,
+      2471117189,
+      858333468,
+      1705659494,
+      1827208938
+    ],
+    "RecipeValueInGame": [
+      2087248398,
+      3517964380,
+      2987576152,
+      909235659,
+      714541348,
+      8737842
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_27_D_CHARACTER_FALCONER_N",
+    "Introduction": "T_27_D_SKILL_INTRODUCE_FALCONER",
+    "Portrait": "FF_UI_Character_Falconer",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800228001,
+    "InGameSpecialAnim": "INGAME_SC_FALCONER_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Falconer",
+    "OrderSource": 40,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710027001,
+    "LuxuryBundleID": 710027002,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_FALCONER_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_FALCONER_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      1025109313,
+      1536827004
+    ],
+    "RecipeValueInGame_inAb": [
+      2087248398,
+      3517964380
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 1025109313,
+      "slot": "Male_Head_Sc_Falconer_N_Slot",
+      "overlay": "Male_Head_Sc_Falconer_Overlay_N",
+      "meshPathID": 2285594,
+      "submesh": 0,
+      "textures": [
+        87392,
+        79210,
+        69081
+      ]
+    },
+    {
+      "recipeHash": 1025109313,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_Falconer_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        47251
+      ]
+    },
+    {
+      "recipeHash": 1536827004,
+      "slot": "Male_Hair_Sc_Falconer_N_Slot",
+      "overlay": "Male_Hair_Sc_Falconer_Overlay_N",
+      "meshPathID": 2285596,
+      "submesh": 0,
+      "textures": [
+        64933
+      ]
+    },
+    {
+      "recipeHash": 2471117189,
+      "slot": "Male_Top_Sc_Falconer_N_0_Slot",
+      "overlay": "Male_Top_Sc_Falconer_Overlay_N",
+      "meshPathID": 2285600,
+      "submesh": 0,
+      "textures": [
+        86589,
+        60932,
+        80060
+      ]
+    },
+    {
+      "recipeHash": 2471117189,
+      "slot": "Male_Top_Sc_Falconer_N_1_Slot",
+      "overlay": "Male_Body_Sc_Falconer_Overlay_N",
+      "meshPathID": 2285600,
+      "submesh": 1,
+      "textures": [
+        64593,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 858333468,
+      "slot": "Male_Bottom_Sc_Falconer_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_Falconer_Overlay_N",
+      "meshPathID": 2285598,
+      "submesh": 0,
+      "textures": [
+        86264,
+        74647,
+        66640
+      ]
+    },
+    {
+      "recipeHash": 858333468,
+      "slot": "Male_Bottom_Sc_Falconer_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2285598,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 1705659494,
+      "slot": "Male_Shoe_Sc_Falconer_N_Slot",
+      "overlay": "Male_Shoe_Sc_Falconer_Overlay_N",
+      "meshPathID": 2285602,
+      "submesh": 0,
+      "textures": [
+        80887,
+        82860,
+        81523
+      ]
+    },
+    {
+      "recipeHash": 1827208938,
+      "slot": "Male_Accessory_Sc_Falconer_N_0_Slot",
+      "overlay": "Male_Accessory_Sc_Falconer_Overlay_N",
+      "meshPathID": 2285593,
+      "submesh": 0,
+      "textures": [
+        58410,
+        86525,
+        81651
+      ]
+    },
+    {
+      "recipeHash": 1827208938,
+      "slot": "Male_Accessory_Sc_Falconer_N_1_Slot",
+      "overlay": "Male_Accessory_Sc_Glass_Falconer_Overlay_N",
+      "meshPathID": 2285593,
+      "submesh": 1,
+      "textures": [
+        58410,
+        86525,
+        81651
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2285594,
+      "vertices": 1180,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2285596,
+      "vertices": 1853,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2285600,
+      "vertices": 3073,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2285598,
+      "vertices": 2472,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2285602,
+      "vertices": 338,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2285593,
+      "vertices": 234,
+      "submeshes": 2
+    }
+  ],
+  "bones": 56,
+  "file": "Maro_Default_Lobby.glb",
+  "textures": 8,
+  "bytes": 2112280,
+  "sha256": "9ee77dd7552fccfbe076596b9ef0d81a86d83f5619a7a1f6c618824ec98f8033",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

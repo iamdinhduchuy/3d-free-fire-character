@@ -1,0 +1,219 @@
+{
+  "character": "Kenta",
+  "avatarId": 102000036,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000036,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Blacksmith",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3589855940,
+      2611238751,
+      2769193246,
+      1212119414,
+      2934743916
+    ],
+    "RecipeValueInGame": [
+      753119858,
+      1247822159,
+      2192580278,
+      584285743,
+      1951404885
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_33_MF_CHARACTER_BLACKSMITH_N",
+    "Introduction": "T_33_MF_SKILL_INTRODUCE_BLACKSMITH",
+    "Portrait": "FF_UI_Character_Blacksmith",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800237001,
+    "InGameSpecialAnim": "INGAME_SC_BLACKSMITH_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Blacksmith",
+    "OrderSource": 70,
+    "Tag": 2,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710033005,
+    "LuxuryBundleID": 710033006,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB55/CSH/character/Blacksmith.ff_extend",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_BLACKSMITH_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_BLACKSMITH_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [],
+    "RecipeValueInGame_inAb": [],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 753119858,
+      "slot": "Male_Head_Sc_Blacksmith_Slot",
+      "overlay": "Male_Head_Sc_Blacksmith_Overlay",
+      "meshPathID": 2279079,
+      "submesh": 0,
+      "textures": [
+        87982
+      ]
+    },
+    {
+      "recipeHash": 753119858,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 1247822159,
+      "slot": "Male_Hair_Sc_Blacksmith_0_Slot",
+      "overlay": "Male_Hair_Sc_Blacksmith_Overlay",
+      "meshPathID": 2279114,
+      "submesh": 0,
+      "textures": [
+        85259
+      ]
+    },
+    {
+      "recipeHash": 1247822159,
+      "slot": "Male_Hair_Sc_Blacksmith_1_Slot",
+      "overlay": "Male_Shoe_Sc_Blacksmith_Overlay",
+      "meshPathID": 2279114,
+      "submesh": 1,
+      "textures": [
+        57103
+      ]
+    },
+    {
+      "recipeHash": 1247822159,
+      "slot": "Head_Hair_Base_Replace_Slot",
+      "overlay": "Male_HairRoot_Sc_Blacksmith_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        80283
+      ]
+    },
+    {
+      "recipeHash": 2192580278,
+      "slot": "Male_Top_Sc_Blacksmith_0_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2279231,
+      "submesh": 0,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 2192580278,
+      "slot": "Male_Top_Sc_Blacksmith_1_Slot",
+      "overlay": "Male_Top_Sc_Blacksmith_Overlay",
+      "meshPathID": 2279231,
+      "submesh": 1,
+      "textures": [
+        77144
+      ]
+    },
+    {
+      "recipeHash": 2192580278,
+      "slot": "Male_Top_Sc_Blacksmith_2_Slot",
+      "overlay": "Male_Top2_Sc_Blacksmith_Overlay",
+      "meshPathID": 2279231,
+      "submesh": 2,
+      "textures": [
+        82493
+      ]
+    },
+    {
+      "recipeHash": 584285743,
+      "slot": "Male_Bottom_Sc_Blacksmith_0_Slot",
+      "overlay": "Male_Bottom_Sc_Blacksmith_Overlay",
+      "meshPathID": 2279198,
+      "submesh": 0,
+      "textures": [
+        66553
+      ]
+    },
+    {
+      "recipeHash": 584285743,
+      "slot": "Male_Bottom_Sc_Blacksmith_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2279198,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 1951404885,
+      "slot": "Male_Shoe_Sc_Blacksmith_Slot",
+      "overlay": "Male_Shoe_Sc_Blacksmith_Overlay",
+      "meshPathID": 2279268,
+      "submesh": 0,
+      "textures": [
+        57103
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2279079,
+      "vertices": 332,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2279114,
+      "vertices": 1977,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2279231,
+      "vertices": 1969,
+      "submeshes": 3
+    },
+    {
+      "meshPathID": 2279198,
+      "vertices": 1606,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2279268,
+      "vertices": 384,
+      "submeshes": 1
+    }
+  ],
+  "bones": 48,
+  "file": "Kenta_Default_InGame.glb",
+  "textures": 7,
+  "bytes": 2180608,
+  "sha256": "aa00e41b786ef2f9b8dad9bef4efb3c98cd1768a2b63a29a408e2dbed4f7942f",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

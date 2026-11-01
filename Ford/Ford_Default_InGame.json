@@ -1,0 +1,209 @@
+{
+  "character": "Ford",
+  "avatarId": 102000006,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000006,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_seaman",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      1627035845,
+      955537191,
+      3695115544,
+      2784327657,
+      4160901603
+    ],
+    "RecipeValueInGame": [
+      247270624,
+      3678450728,
+      1661204226,
+      4155794350,
+      2277756321
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "TXT_CHARACTER_SEAMAN_NAME",
+    "Introduction": "TXT_SKILL_INTRODUCE_SEAMAN",
+    "Portrait": "FF_UI_Character_Seaman",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [
+      59,
+      36,
+      26
+    ],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 802006001,
+    "InGameSpecialAnim": "INGAME_SC_SEAMAN_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Seaman",
+    "OrderSource": 6,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 700000006,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_SEAMAN_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_SEAMAN_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      1627035845,
+      955537191
+    ],
+    "RecipeValueInGame_inAb": [
+      247270624,
+      3678450728
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 247270624,
+      "slot": "Male_SC_Seaman_head_ingame_0_Slot",
+      "overlay": "Male_SC_Seaman_head_overlay",
+      "meshPathID": 2283765,
+      "submesh": 0,
+      "textures": [
+        91902
+      ]
+    },
+    {
+      "recipeHash": 247270624,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_Seaman_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        86091
+      ]
+    },
+    {
+      "recipeHash": 247270624,
+      "slot": "Male_SC_Seaman_head_ingame_1_Slot",
+      "overlay": "Male_Accessory_CutOff_Cos_Seaman_Overlay",
+      "meshPathID": 2283765,
+      "submesh": 1,
+      "textures": [
+        91257
+      ]
+    },
+    {
+      "recipeHash": 3678450728,
+      "slot": "Male_SC_Seaman_hair_Ingame_Slot",
+      "overlay": "Male_SC_Seaman_hair_overlay",
+      "meshPathID": 2283780,
+      "submesh": 0,
+      "textures": [
+        50913
+      ]
+    },
+    {
+      "recipeHash": 1661204226,
+      "slot": "Male_SC_Seaman_clothes_ingame_0_Slot",
+      "overlay": "Male_SC_Seaman_clothes_overlay",
+      "meshPathID": 2283915,
+      "submesh": 0,
+      "textures": [
+        47728
+      ]
+    },
+    {
+      "recipeHash": 1661204226,
+      "slot": "Male_SC_Seaman_clothes_ingame_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2283915,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 4155794350,
+      "slot": "Male_SC_Seaman_leg_ingame_0_Slot",
+      "overlay": "Male_SC_Seaman_leg_overlay",
+      "meshPathID": 2283863,
+      "submesh": 0,
+      "textures": [
+        61545
+      ]
+    },
+    {
+      "recipeHash": 4155794350,
+      "slot": "Male_SC_Seaman_leg_ingame_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2283863,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 2277756321,
+      "slot": "Male_SC_Seaman_feet_ingame_Slot",
+      "overlay": "Male_SC_Seaman_feet_overlay",
+      "meshPathID": 2283981,
+      "submesh": 0,
+      "textures": [
+        60625
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2283765,
+      "vertices": 489,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283780,
+      "vertices": 1614,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2283915,
+      "vertices": 2173,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283863,
+      "vertices": 1485,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283981,
+      "vertices": 253,
+      "submeshes": 1
+    }
+  ],
+  "bones": 48,
+  "file": "Ford_Default_InGame.glb",
+  "textures": 7,
+  "bytes": 1458668,
+  "sha256": "fa9cf82c559cf2e8afb381a5bb9098456b5282482ca82b2d7cbc4059cf1a9297",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

@@ -1,0 +1,208 @@
+{
+  "character": "Shirou",
+  "avatarId": 102000026,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000026,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Delivery",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      1390596539,
+      878781062,
+      4239490431,
+      1557274086,
+      173109404
+    ],
+    "RecipeValueInGame": [
+      866612011,
+      2657120633,
+      4259142269,
+      2046706926,
+      1700304897
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_26_D_CHARACTER_DELIVERY_N",
+    "Introduction": "T_26_D_SKILL_INTRODUCE_DELIVERY",
+    "Portrait": "FF_UI_Character_Delivery",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800226001,
+    "InGameSpecialAnim": "INGAME_SC_DELIVERY_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Delivery",
+    "OrderSource": 39,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710026001,
+    "LuxuryBundleID": 710026002,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_DELIVERY_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_DELIVERY_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      1390596539,
+      878781062
+    ],
+    "RecipeValueInGame_inAb": [
+      866612011,
+      2657120633
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 1390596539,
+      "slot": "Male_Head_Sc_Delivery_N_Slot",
+      "overlay": "Male_Head_Sc_Delivery_Overlay_N",
+      "meshPathID": 2277688,
+      "submesh": 0,
+      "textures": [
+        48763,
+        63936,
+        74212
+      ]
+    },
+    {
+      "recipeHash": 1390596539,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_Delivery_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        56971
+      ]
+    },
+    {
+      "recipeHash": 878781062,
+      "slot": "Male_Hair_Sc_Delivery_N_Slot",
+      "overlay": "Male_Hair_Sc_Delivery_Overlay_N",
+      "meshPathID": 2277726,
+      "submesh": 0,
+      "textures": [
+        56826,
+        0
+      ]
+    },
+    {
+      "recipeHash": 4239490431,
+      "slot": "Male_Top_Sc_Delivery_N_0_Slot",
+      "overlay": "Male_Top_Sc_Delivery_Overlay_N",
+      "meshPathID": 2277836,
+      "submesh": 0,
+      "textures": [
+        78007,
+        60933,
+        63484
+      ]
+    },
+    {
+      "recipeHash": 4239490431,
+      "slot": "Male_Top_Sc_Delivery_N_1_Slot",
+      "overlay": "Male_Skin_Sc_Delivery_Overlay_N",
+      "meshPathID": 2277836,
+      "submesh": 1,
+      "textures": [
+        62117,
+        78395,
+        75228
+      ]
+    },
+    {
+      "recipeHash": 1557274086,
+      "slot": "Male_Bottom_Sc_Delivery_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_Delivery_Overlay_N",
+      "meshPathID": 2277799,
+      "submesh": 0,
+      "textures": [
+        80653,
+        77510,
+        65115
+      ]
+    },
+    {
+      "recipeHash": 1557274086,
+      "slot": "Male_Bottom_Sc_Delivery_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2277799,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 173109404,
+      "slot": "Male_Shoe_Sc_Delivery_N_Slot",
+      "overlay": "Male_Shoe_Sc_Delivery_Overlay_N",
+      "meshPathID": 2277870,
+      "submesh": 0,
+      "textures": [
+        56946,
+        73795,
+        47403
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2277688,
+      "vertices": 1282,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2277726,
+      "vertices": 2283,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2277836,
+      "vertices": 3349,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2277799,
+      "vertices": 1520,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2277870,
+      "vertices": 344,
+      "submeshes": 1
+    }
+  ],
+  "bones": 59,
+  "file": "Shirou_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1898636,
+  "sha256": "605017fe3c38fb1835754dc5d86d19dafc72482f21dfd0cfc77786314cf6f43c",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

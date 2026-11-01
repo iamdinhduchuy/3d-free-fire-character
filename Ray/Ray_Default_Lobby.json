@@ -1,0 +1,217 @@
+{
+  "character": "Ray",
+  "avatarId": 102000056,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000056,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_EclipseMan",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3368106856,
+      2258482931,
+      3090639026,
+      1426495706,
+      3017097920
+    ],
+    "RecipeValueInGame": [
+      1673812975,
+      88582354,
+      3449288491,
+      1844746162,
+      997718728
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_53_SH_CHARACTER_ECLIPSEMAN_N",
+    "Introduction": "T_53_SH_SKILL_INTRODUCE_ECLIPSEMAN",
+    "Portrait": "FF_UI_Character_EclipseMan",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800253001,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_EclipseMan",
+    "OrderSource": 67,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB53/CSH/character/EclipseMan.ff_extend",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_ECLIPSEMAN_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_ECLIPSEMAN_SHOWPOSE",
+    "VFXShowPose": "FF_VFX_ShopShow_Male_SC_EclipseMan",
+    "RecipeValueInLobby_inAb": [
+      3368106856,
+      2258482931
+    ],
+    "RecipeValueInGame_inAb": [
+      1673812975,
+      88582354
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3368106856,
+      "slot": "Male_Head_Sc_EclipseMan_N_Slot",
+      "overlay": "Male_Head_Sc_EclipseMan_Overlay_N",
+      "meshPathID": 2283232,
+      "submesh": 0,
+      "textures": [
+        88470,
+        64112,
+        67478
+      ]
+    },
+    {
+      "recipeHash": 3368106856,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 2258482931,
+      "slot": "Male_Hair_Sc_EclipseMan_N_0_Slot",
+      "overlay": "Male_Hat_Sc_EclipseMan_Overlay_N",
+      "meshPathID": 2283274,
+      "submesh": 0,
+      "textures": [
+        72963,
+        69850,
+        47455
+      ]
+    },
+    {
+      "recipeHash": 2258482931,
+      "slot": "Male_Hair_Sc_EclipseMan_N_1_Slot",
+      "overlay": "Male_Hair_Sc_EclipseMan_Overlay_N",
+      "meshPathID": 2283274,
+      "submesh": 1,
+      "textures": [
+        62569
+      ]
+    },
+    {
+      "recipeHash": 2258482931,
+      "slot": "Head_Hair_Base_Replace_Slot",
+      "overlay": "Male_Hairroot_Sc_EclipseMan_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        68433
+      ]
+    },
+    {
+      "recipeHash": 3090639026,
+      "slot": "Male_Top_Sc_EclipseMan_N_0_Slot",
+      "overlay": "Male_Upperbody_Sc_EclipseMan_Overlay_N",
+      "meshPathID": 2283336,
+      "submesh": 0,
+      "textures": [
+        68082,
+        87778,
+        56929
+      ]
+    },
+    {
+      "recipeHash": 3090639026,
+      "slot": "Male_Top_Sc_EclipseMan_N_1_Slot",
+      "overlay": "Male_Top_Sc_EclipseMan_Overlay_N",
+      "meshPathID": 2283336,
+      "submesh": 1,
+      "textures": [
+        87905,
+        74263,
+        63551
+      ]
+    },
+    {
+      "recipeHash": 1426495706,
+      "slot": "Male_Bottom_Sc_EclipseMan_N_Slot",
+      "overlay": "Male_Bottom_Sc_EclipseMan_Overlay_N",
+      "meshPathID": 2283304,
+      "submesh": 0,
+      "textures": [
+        62368,
+        80800,
+        83047
+      ]
+    },
+    {
+      "recipeHash": 3017097920,
+      "slot": "Male_Shoe_Sc_EclipseMan_N_Slot",
+      "overlay": "Male_Shoe_Sc_EclipseMan_Overlay_N",
+      "meshPathID": 2283366,
+      "submesh": 0,
+      "textures": [
+        53369,
+        67296,
+        73104
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2283232,
+      "vertices": 1048,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2283274,
+      "vertices": 2675,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283336,
+      "vertices": 2629,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283304,
+      "vertices": 1631,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2283366,
+      "vertices": 564,
+      "submeshes": 1
+    }
+  ],
+  "bones": 68,
+  "file": "Ray_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1508000,
+  "sha256": "721c7657c05e0a8e717c38426302652288a9b3cd19d0884ca3bf76cf65f34d88",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

@@ -1,0 +1,233 @@
+{
+  "character": "Clu",
+  "avatarId": 101000019,
+  "variant": "InGame",
+  "config": {
+    "Id": 101000019,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_Detective",
+    "Type": [
+      1,
+      11,
+      8,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3420476935,
+      3583476624,
+      2138062018,
+      1926763155,
+      1542703479,
+      1857179853
+    ],
+    "RecipeValueInGame": [
+      1048465892,
+      3317715876,
+      2387483940,
+      1880762780,
+      6692559,
+      3851642841
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_22_Y_CHARACTER_DETECTIVE_N",
+    "Introduction": "T_22_Y_SKILL_INTRODUCE_DETECTIVE",
+    "Portrait": "FF_UI_Character_Detective",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 2,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800119001,
+    "InGameSpecialAnim": "INGAME_SC_DETECTIVE_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Detective",
+    "OrderSource": 29,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000668,
+    "LuxuryBundleID": 710000669,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_DETECTIVE_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_DETECTIVE_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3420476935,
+      3583476624
+    ],
+    "RecipeValueInGame_inAb": [
+      1048465892,
+      3317715876
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 1048465892,
+      "slot": "Female_Head_Sc_Detective_Slot",
+      "overlay": "Female_Head_Sc_Detective_Overlay",
+      "meshPathID": 2269668,
+      "submesh": 0,
+      "textures": [
+        57846
+      ]
+    },
+    {
+      "recipeHash": 1048465892,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Agent_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        83586
+      ]
+    },
+    {
+      "recipeHash": 3317715876,
+      "slot": "Female_Hat_Sc_Detective_1_Slot",
+      "overlay": "Female_Hair_Cos_BJD_Overlay",
+      "meshPathID": 2269687,
+      "submesh": 1,
+      "textures": [
+        71198
+      ]
+    },
+    {
+      "recipeHash": 3317715876,
+      "slot": "Female_Hat_Sc_Detective_0_Slot",
+      "overlay": "Female_Hat_Sc_Detective_Overlay",
+      "meshPathID": 2269687,
+      "submesh": 0,
+      "textures": [
+        62807
+      ]
+    },
+    {
+      "recipeHash": 2387483940,
+      "slot": "Female_Accessory_Sc_Detective_0_Slot",
+      "overlay": "Female_Accessory_Sc_Detective_Overlay",
+      "meshPathID": 2269666,
+      "submesh": 0,
+      "textures": [
+        82954
+      ]
+    },
+    {
+      "recipeHash": 2387483940,
+      "slot": "Female_Accessory_Sc_Detective_1_Slot",
+      "overlay": "Female_Accessory_Glass_Sc_Detective_Overlay",
+      "meshPathID": 2269666,
+      "submesh": 1,
+      "textures": [
+        82954
+      ]
+    },
+    {
+      "recipeHash": 1880762780,
+      "slot": "Female_Top_Sc_Detective_0_Slot",
+      "overlay": "Female_Top_Sc_Detective_Overlay",
+      "meshPathID": 2269754,
+      "submesh": 0,
+      "textures": [
+        61960
+      ]
+    },
+    {
+      "recipeHash": 1880762780,
+      "slot": "Female_Top_Sc_Detective_1_Slot",
+      "overlay": "female_body_Overlay",
+      "meshPathID": 2269754,
+      "submesh": 1,
+      "textures": [
+        48582
+      ]
+    },
+    {
+      "recipeHash": 6692559,
+      "slot": "Female_Bottom_Sc_Detective_0_Slot",
+      "overlay": "female_body_Overlay",
+      "meshPathID": 2269738,
+      "submesh": 0,
+      "textures": [
+        48582
+      ]
+    },
+    {
+      "recipeHash": 6692559,
+      "slot": "Female_Bottom_Sc_Detective_1_Slot",
+      "overlay": "Female_Bottom_Sc_Detective_Overlay",
+      "meshPathID": 2269738,
+      "submesh": 1,
+      "textures": [
+        47440
+      ]
+    },
+    {
+      "recipeHash": 3851642841,
+      "slot": "Female_Shoe_Sc_Detective_Slot",
+      "overlay": "Female_Shoe_Sc_Detective_Overlay",
+      "meshPathID": 2269770,
+      "submesh": 0,
+      "textures": [
+        91212
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2269668,
+      "vertices": 375,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2269687,
+      "vertices": 946,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269666,
+      "vertices": 170,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269754,
+      "vertices": 1773,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269738,
+      "vertices": 646,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269770,
+      "vertices": 232,
+      "submeshes": 1
+    }
+  ],
+  "bones": 46,
+  "file": "Clu_Default_InGame.glb",
+  "textures": 8,
+  "bytes": 1486924,
+  "sha256": "9b2f248fa4c2b912795d2f285a1cb55e210ee30c60df4762a01b2d99ef8110c0",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

@@ -1,0 +1,207 @@
+{
+  "character": "Hayato_Awakening",
+  "avatarId": 102000020,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000020,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Hayato_Awakening",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3227664947,
+      90882112,
+      4220053834,
+      3199658007,
+      1177556087
+    ],
+    "RecipeValueInGame": [
+      1180076440,
+      1116739873,
+      1940289419,
+      538329792,
+      2094044236
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_23_D_CHARACTER_HAYATO_AWAKENING_N",
+    "Introduction": "T_23_D_SKILL_INTRODUCE_HAYATO_AWAKENING",
+    "Portrait": "FF_UI_Character_Hayato_Awakening",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800220001,
+    "InGameSpecialAnim": "INGAME_SC_HAYATO_AWAKENING_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Hayato_Awakening",
+    "OrderSource": 43,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000712,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB40/CSH/character/HayatoA.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_HAYATO_AWAKENING_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_HAYATO_AWAKENING_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3227664947,
+      90882112
+    ],
+    "RecipeValueInGame_inAb": [
+      1180076440,
+      1116739873
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3227664947,
+      "slot": "Male_Head_Sc_Hayato_Awakening_N_Slot",
+      "overlay": "Male_Head_Sc_Hayato_Awakening_Overlay_N",
+      "meshPathID": 2277238,
+      "submesh": 0,
+      "textures": [
+        58697,
+        79985,
+        71070
+      ]
+    },
+    {
+      "recipeHash": 3227664947,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 90882112,
+      "slot": "Male_Hair_Sc_Hayato_Awakening_N_Slot",
+      "overlay": "Male_Hair_Sc_Hayato_Awakening_Overlay_N",
+      "meshPathID": 2277259,
+      "submesh": 0,
+      "textures": [
+        64140
+      ]
+    },
+    {
+      "recipeHash": 4220053834,
+      "slot": "Male_Top_Sc_Hayato_Awakening_N_0_Slot",
+      "overlay": "Male_Skin_Sc_Hayato_Awakening_Overlay_N",
+      "meshPathID": 2277331,
+      "submesh": 0,
+      "textures": [
+        54969,
+        83845,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 4220053834,
+      "slot": "Male_Top_Sc_Hayato_Awakening_N_1_Slot",
+      "overlay": "Male_Top_Sc_Hayato_Awakening_Overlay_N",
+      "meshPathID": 2277331,
+      "submesh": 1,
+      "textures": [
+        72282,
+        91141,
+        60239
+      ]
+    },
+    {
+      "recipeHash": 3199658007,
+      "slot": "Male_Bottom_Sc_Hayato_Awakening_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_Hayato_Awakening_Overlay_N",
+      "meshPathID": 2277307,
+      "submesh": 0,
+      "textures": [
+        67892,
+        76868,
+        76187
+      ]
+    },
+    {
+      "recipeHash": 3199658007,
+      "slot": "Male_Bottom_Sc_Hayato_Awakening_N_1_Slot",
+      "overlay": "Male_Skin_Sc_Hayato_Awakening_Overlay_N",
+      "meshPathID": 2277307,
+      "submesh": 1,
+      "textures": [
+        54969,
+        83845,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 1177556087,
+      "slot": "Male_Shoe_Sc_Hayato_Awakening_N_Slot",
+      "overlay": "Male_Shoe_Sc_Hayato_Awakening_Overlay_N",
+      "meshPathID": 2277355,
+      "submesh": 0,
+      "textures": [
+        72903,
+        66971,
+        70654
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2277238,
+      "vertices": 717,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2277259,
+      "vertices": 1785,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2277331,
+      "vertices": 3178,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2277307,
+      "vertices": 1137,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2277355,
+      "vertices": 268,
+      "submeshes": 1
+    }
+  ],
+  "bones": 55,
+  "file": "Hayato_Awakening_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1769276,
+  "sha256": "88158f876307abc5950bfdfde6d92d15a80602594d753e639a7916251b2bdcf0",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

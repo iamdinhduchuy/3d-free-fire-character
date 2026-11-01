@@ -1,0 +1,219 @@
+{
+  "character": "Kairos",
+  "avatarId": 102000046,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000046,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Dualman",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3975738501,
+      1764754271,
+      1849588333,
+      129801101,
+      924172984
+    ],
+    "RecipeValueInGame": [
+      125984240,
+      2802338202,
+      474977415,
+      2165365140,
+      1269650629
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_44_H_CHARACTER_DUALMAN_N",
+    "Introduction": "T_44_H_SKILL_INTRODUCE_DUALMAN",
+    "Portrait": "FF_UI_Character_Dualman",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800244005,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_Dualman",
+    "OrderSource": 59,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB44/CSH/character/Dualman.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_DUALMAN_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_DUALMAN_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3975738501,
+      1764754271
+    ],
+    "RecipeValueInGame_inAb": [
+      125984240,
+      2802338202
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3975738501,
+      "slot": "Male_Head_Sc_Dualman_N_0_Slot",
+      "overlay": "Male_Head_Sc_Dualman_Overlay_N",
+      "meshPathID": 2281706,
+      "submesh": 0,
+      "textures": [
+        52850,
+        69464,
+        88082
+      ]
+    },
+    {
+      "recipeHash": 3975738501,
+      "slot": "Male_Head_Sc_Dualman_N_1_Slot",
+      "overlay": "Male_Accessory_Sc_Dualman_Overlay_N",
+      "meshPathID": 2281706,
+      "submesh": 1,
+      "textures": [
+        52850,
+        69464,
+        88082
+      ]
+    },
+    {
+      "recipeHash": 3975738501,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_HairRoot_Sc_Dualman_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        68830
+      ]
+    },
+    {
+      "recipeHash": 1764754271,
+      "slot": "Male_Hair_Sc_Dualman_N_Slot",
+      "overlay": "Male_Hair_Sc_Dualman_Overlay_N",
+      "meshPathID": 2281750,
+      "submesh": 0,
+      "textures": [
+        55030
+      ]
+    },
+    {
+      "recipeHash": 1849588333,
+      "slot": "Male_Top_Sc_Dualman_N_0_Slot",
+      "overlay": "Male_Body_Sc_Dualman_Overlay_N",
+      "meshPathID": 2281858,
+      "submesh": 0,
+      "textures": [
+        59920,
+        87778,
+        56929
+      ]
+    },
+    {
+      "recipeHash": 1849588333,
+      "slot": "Male_Top_Sc_Dualman_N_1_Slot",
+      "overlay": "Male_Top_Sc_Dualman_Overlay_N",
+      "meshPathID": 2281858,
+      "submesh": 1,
+      "textures": [
+        55472,
+        56320,
+        49091
+      ]
+    },
+    {
+      "recipeHash": 129801101,
+      "slot": "Male_Bottom_Sc_Dualman_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_Dualman_Overlay_N",
+      "meshPathID": 2281824,
+      "submesh": 0,
+      "textures": [
+        62280,
+        48390,
+        89908
+      ]
+    },
+    {
+      "recipeHash": 129801101,
+      "slot": "Male_Bottom_Sc_Dualman_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2281824,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 924172984,
+      "slot": "Male_Shoe_Sc_Dualman_N_Slot",
+      "overlay": "Male_Shoe_Sc_Dualman_Overlay_N",
+      "meshPathID": 2281890,
+      "submesh": 0,
+      "textures": [
+        81187,
+        70667,
+        63950
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2281706,
+      "vertices": 1530,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2281750,
+      "vertices": 3201,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2281858,
+      "vertices": 4434,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2281824,
+      "vertices": 2475,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2281890,
+      "vertices": 842,
+      "submeshes": 1
+    }
+  ],
+  "bones": 50,
+  "file": "Kairos_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 2279712,
+  "sha256": "ee435f80611c873579792cba13ce97aa29b2c9914c37e5e24162587aa59c724b",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

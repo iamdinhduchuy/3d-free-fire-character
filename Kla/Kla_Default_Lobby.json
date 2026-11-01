@@ -1,0 +1,219 @@
+{
+  "character": "Kla",
+  "avatarId": 102000008,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000008,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_thaiboxer",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3036233341,
+      3975672223,
+      677276536,
+      2704090104,
+      296433847
+    ],
+    "RecipeValueInGame": [
+      2276040291,
+      39938489,
+      91164811,
+      1827533163,
+      1548003422
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "TXT_OB8_SQ_CHARACTER_THAIBOXER_NAME",
+    "Introduction": "TXT_OB8_SQ_SKILL_INTRODUCE_THAIBOXER",
+    "Portrait": "FF_UI_Character_Kla",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 802008001,
+    "InGameSpecialAnim": "INGAME_SC_THAIBOXER_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Kla",
+    "OrderSource": 10,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 700000039,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": true,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_THAIBOXER_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_THAIBOXER_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3036233341,
+      3975672223
+    ],
+    "RecipeValueInGame_inAb": [
+      2276040291,
+      39938489
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3036233341,
+      "slot": "Male_Head_Sc_Thaiboxer_N_Slot",
+      "overlay": "Male_Head_Sc_Thaiboxer_Overlay_N",
+      "meshPathID": 2283768,
+      "submesh": 0,
+      "textures": [
+        53120,
+        74652,
+        61781
+      ]
+    },
+    {
+      "recipeHash": 3036233341,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 3975672223,
+      "slot": "Male_Hair_Sc_Thaiboxer_N_0_Slot",
+      "overlay": "Male_Hair_Sc_Thaiboxer_Overlay_N",
+      "meshPathID": 2283797,
+      "submesh": 0,
+      "textures": [
+        92563
+      ]
+    },
+    {
+      "recipeHash": 3975672223,
+      "slot": "Male_Hair_Sc_Thaiboxer_N_1_Slot",
+      "overlay": "Male_Hat_Sc_Thaiboxer_Overlay_N",
+      "meshPathID": 2283797,
+      "submesh": 1,
+      "textures": [
+        93534,
+        66127,
+        64210
+      ]
+    },
+    {
+      "recipeHash": 677276536,
+      "slot": "Male_Top_Sc_Thaiboxer_N_0_Slot",
+      "overlay": "Male_Body_Sc_Thaiboxer_Overlay_N",
+      "meshPathID": 2283961,
+      "submesh": 0,
+      "textures": [
+        51976,
+        88278,
+        49384
+      ]
+    },
+    {
+      "recipeHash": 677276536,
+      "slot": "Male_Top_Sc_Thaiboxer_N_1_Slot",
+      "overlay": "Male_Top_Sc_Thaiboxer_Overlay_N",
+      "meshPathID": 2283961,
+      "submesh": 1,
+      "textures": [
+        53637,
+        62527,
+        77572
+      ]
+    },
+    {
+      "recipeHash": 2704090104,
+      "slot": "Male_Bottom_Sc_Thaiboxer_N_0_Slot",
+      "overlay": "Male_Top_Sc_Thaiboxer_Overlay_N",
+      "meshPathID": 2283891,
+      "submesh": 0,
+      "textures": [
+        53637,
+        62527,
+        77572
+      ]
+    },
+    {
+      "recipeHash": 2704090104,
+      "slot": "Male_Bottom_Sc_Thaiboxer_N_1_Slot",
+      "overlay": "Male_Body_Sc_Thaiboxer_Overlay_N",
+      "meshPathID": 2283891,
+      "submesh": 1,
+      "textures": [
+        51976,
+        88278,
+        49384
+      ]
+    },
+    {
+      "recipeHash": 296433847,
+      "slot": "Male_Shoe_Sc_Thaiboxer_N_Slot",
+      "overlay": "Male_Top_Sc_Thaiboxer_Overlay_N",
+      "meshPathID": 2284025,
+      "submesh": 0,
+      "textures": [
+        53637,
+        62527,
+        77572
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2283768,
+      "vertices": 636,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2283797,
+      "vertices": 1442,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283961,
+      "vertices": 2449,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283891,
+      "vertices": 815,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2284025,
+      "vertices": 557,
+      "submeshes": 1
+    }
+  ],
+  "bones": 56,
+  "file": "Kla_Default_Lobby.glb",
+  "textures": 5,
+  "bytes": 1222784,
+  "sha256": "264b3195f91bcbffea20dbbffc18cfa3be7755d95a37e9532ea6ff5d11908af5",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

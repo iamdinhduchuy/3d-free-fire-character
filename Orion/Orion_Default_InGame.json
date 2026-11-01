@@ -1,0 +1,195 @@
+{
+  "character": "Orion",
+  "avatarId": 102000041,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000041,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Villain",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      608771640,
+      2709645794,
+      2794426576,
+      3473764656,
+      4288948229
+    ],
+    "RecipeValueInGame": [
+      3129255210,
+      437170496,
+      2705943645,
+      1008083278,
+      4138445855
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_39_SY_CHARACTER_VILLAIN_N",
+    "Introduction": "T_39_SY_SKILL_INTRODUCE_VILLAIN",
+    "Portrait": "FF_UI_Character_Villain",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800243001,
+    "InGameSpecialAnim": "INGAME_SC_VILLAIN_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Villain",
+    "OrderSource": 52,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710039001,
+    "LuxuryBundleID": 710039002,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB41/CSH/character/Villain.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_VILLAIN_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_VILLAIN_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      608771640,
+      2709645794
+    ],
+    "RecipeValueInGame_inAb": [
+      3129255210,
+      437170496
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": "FF_UI_SA_Villain"
+  },
+  "parts": [
+    {
+      "recipeHash": 3129255210,
+      "slot": "Male_Head_Sc_Villain_Slot",
+      "overlay": "Male_Head_Sc_Villain_Overlay",
+      "meshPathID": 2280550,
+      "submesh": 0,
+      "textures": [
+        86666
+      ]
+    },
+    {
+      "recipeHash": 3129255210,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_HairRoot_Sc_Villain_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        75182
+      ]
+    },
+    {
+      "recipeHash": 437170496,
+      "slot": "Male_Hair_Sc_Villain_Slot",
+      "overlay": "Male_Hair_Sc_Villain_Overlay",
+      "meshPathID": 2280598,
+      "submesh": 0,
+      "textures": [
+        79163
+      ]
+    },
+    {
+      "recipeHash": 2705943645,
+      "slot": "Male_Top_Sc_Villain_0_Slot",
+      "overlay": "Male_Top_Sc_Villain_Overlay",
+      "meshPathID": 2280766,
+      "submesh": 0,
+      "textures": [
+        70091
+      ]
+    },
+    {
+      "recipeHash": 2705943645,
+      "slot": "Male_Top_Sc_Villain_1_Slot",
+      "overlay": "Male_Upperbody_Sc_Villain_Overlay",
+      "meshPathID": 2280766,
+      "submesh": 1,
+      "textures": [
+        87964
+      ]
+    },
+    {
+      "recipeHash": 1008083278,
+      "slot": "Male_Bottom_Sc_Villain_0_Slot",
+      "overlay": "Male_Bottom_Sc_Villain_Overlay",
+      "meshPathID": 2280711,
+      "submesh": 0,
+      "textures": [
+        54730
+      ]
+    },
+    {
+      "recipeHash": 1008083278,
+      "slot": "Male_Bottom_Sc_Villain_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2280711,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 4138445855,
+      "slot": "Male_Shoe_Sc_Villain_Slot",
+      "overlay": "Male_Shoe_Sc_Villain_Overlay",
+      "meshPathID": 2280821,
+      "submesh": 0,
+      "textures": [
+        54141
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2280550,
+      "vertices": 368,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2280598,
+      "vertices": 2560,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2280766,
+      "vertices": 1598,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2280711,
+      "vertices": 1276,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2280821,
+      "vertices": 564,
+      "submeshes": 1
+    }
+  ],
+  "bones": 48,
+  "file": "Orion_Default_InGame.glb",
+  "textures": 7,
+  "bytes": 1755496,
+  "sha256": "91587ded420121ae5d326040203a77ab7a584266195c6a819133495a2beeb938",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

@@ -1,0 +1,207 @@
+{
+  "character": "Moco",
+  "avatarId": 101000011,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000011,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": false,
+    "Icon": "Icon_face_female_head_sc_HackerGirl",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2805581496,
+      3915729699,
+      1357031841,
+      4155286555,
+      3693985552
+    ],
+    "RecipeValueInGame": [
+      1539556936,
+      1027618165,
+      89348926,
+      4148242247,
+      57698159
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_13_R_CHARACTER_HACKERGIRL_NAME",
+    "Introduction": "T_13_R_SKILL_INTRODUCE_HACKERGIRL",
+    "Portrait": "FF_UI_Character_HackerGirl",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [
+      163,
+      115,
+      86
+    ],
+    "HairType": 2,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800111001,
+    "InGameSpecialAnim": "INGAME_SC_HACKERGIRL_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_HackerGirl",
+    "OrderSource": 15,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 700000240,
+    "LuxuryBundleID": 700000241,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_HACKERGIRL_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_HACKERGIRL_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [],
+    "RecipeValueInGame_inAb": [],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 2805581496,
+      "slot": "Female_Head_Sc_HackerGirl_N_Slot",
+      "overlay": "Female_Head_Sc_HackerGirl_Overlay_N",
+      "meshPathID": 2268397,
+      "submesh": 0,
+      "textures": [
+        62089,
+        63166,
+        66513
+      ]
+    },
+    {
+      "recipeHash": 2805581496,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_HackerGirl_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        88464
+      ]
+    },
+    {
+      "recipeHash": 3915729699,
+      "slot": "Female_Hair_Sc_HackerGirl_N_Slot",
+      "overlay": "Female_Hair_Sc_HackerGirl_Overlay_N",
+      "meshPathID": 2268417,
+      "submesh": 0,
+      "textures": [
+        93395,
+        65197,
+        91152
+      ]
+    },
+    {
+      "recipeHash": 1357031841,
+      "slot": "Female_Top_Sc_HackerGirl_N_0_Slot",
+      "overlay": "Female_Body_Sc_HackerGirl_Overlay_N",
+      "meshPathID": 2268499,
+      "submesh": 0,
+      "textures": [
+        81993,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 1357031841,
+      "slot": "Female_Top_Sc_HackerGirl_N_1_Slot",
+      "overlay": "Female_Top_Sc_HackerGirl_Overlay_N",
+      "meshPathID": 2268499,
+      "submesh": 1,
+      "textures": [
+        47639,
+        73706,
+        80452
+      ]
+    },
+    {
+      "recipeHash": 4155286555,
+      "slot": "Female_Bottom_Sc_HackerGirl_N_0_Slot",
+      "overlay": "Female_Bottom_Sc_HackerGirl_Overlay_N",
+      "meshPathID": 2268477,
+      "submesh": 0,
+      "textures": [
+        48019,
+        89605,
+        86941
+      ]
+    },
+    {
+      "recipeHash": 4155286555,
+      "slot": "Female_Bottom_Sc_HackerGirl_N_1_Slot",
+      "overlay": "Female_Body_Sc_HackerGirl_Overlay_N",
+      "meshPathID": 2268477,
+      "submesh": 1,
+      "textures": [
+        81993,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 3693985552,
+      "slot": "Female_Shoe_Sc_HackerGirl_N_Slot",
+      "overlay": "Female_Shoe_Sc_HackerGirl_Overlay_N",
+      "meshPathID": 2268515,
+      "submesh": 0,
+      "textures": [
+        49076,
+        87246,
+        59443
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2268397,
+      "vertices": 805,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2268417,
+      "vertices": 2786,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2268499,
+      "vertices": 2672,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2268477,
+      "vertices": 1004,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2268515,
+      "vertices": 378,
+      "submeshes": 1
+    }
+  ],
+  "bones": 70,
+  "file": "Moco_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1599268,
+  "sha256": "8992122e9710e25d67d169360c4c9bf54c9e2870377ba763bb613daccd1a8325",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

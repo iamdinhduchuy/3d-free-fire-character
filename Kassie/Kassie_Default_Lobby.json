@@ -1,0 +1,231 @@
+{
+  "character": "Kassie",
+  "avatarId": 101000049,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000049,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_Electricgirl",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      1680323510,
+      1704677798,
+      573215164,
+      1118899325,
+      723531739
+    ],
+    "RecipeValueInGame": [
+      394619665,
+      1507452554,
+      3764257800,
+      1192233394,
+      1821446841
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_45_H_CHARACTER_ELECTRICGIRL_N",
+    "Introduction": "T_45_H_SKILL_INTRODUCE_ELECTRICGIRL",
+    "Portrait": "FF_UI_Character_Electricgirl",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800245001,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_Electricgirl",
+    "OrderSource": 68,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB45/CSH/character/Electricgirl.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_ELECTRICGIRL_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_ELECTRICGIRL_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      1680323510,
+      1704677798
+    ],
+    "RecipeValueInGame_inAb": [
+      394619665,
+      1507452554
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 1680323510,
+      "slot": "Female_Head_Sc_Electricgirl_N_Slot",
+      "overlay": "Female_Head_Sc_Electricgirl_Overlay_N",
+      "meshPathID": 2273455,
+      "submesh": 0,
+      "textures": [
+        82008,
+        50686,
+        80971
+      ]
+    },
+    {
+      "recipeHash": 1680323510,
+      "slot": "Head_Hair_Base_Replace_Slot",
+      "overlay": "Female_Hairroot_Sc_Electricgirl_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        51961
+      ]
+    },
+    {
+      "recipeHash": 1704677798,
+      "slot": "Female_Hair_Sc_Electricgirl_N_0_Slot",
+      "overlay": "Female_Hair_Sc_Electricgirl_Overlay_N",
+      "meshPathID": 2273483,
+      "submesh": 0,
+      "textures": [
+        83949
+      ]
+    },
+    {
+      "recipeHash": 1704677798,
+      "slot": "Female_Hair_Sc_Electricgirl_N_1_Slot",
+      "overlay": "Female_Head2_Sc_Electricgirl_Overlay_N",
+      "meshPathID": 2273483,
+      "submesh": 1,
+      "textures": [
+        82008,
+        50686,
+        80971
+      ]
+    },
+    {
+      "recipeHash": 573215164,
+      "slot": "Female_Top_Sc_Electricgirl_N_0_Slot",
+      "overlay": "Female_Top_Sc_Electricgirl_Overlay_N",
+      "meshPathID": 2273579,
+      "submesh": 0,
+      "textures": [
+        64066,
+        87623,
+        70853
+      ]
+    },
+    {
+      "recipeHash": 573215164,
+      "slot": "Female_Top_Sc_Electricgirl_N_1_Slot",
+      "overlay": "Female_Body_Sc_Electricgirl_Overlay_N",
+      "meshPathID": 2273579,
+      "submesh": 1,
+      "textures": [
+        54798,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 1118899325,
+      "slot": "Female_Bottom_Sc_Electricgirl_N_0_Slot",
+      "overlay": "Female_Bottom_Sc_Electricgirl_Overlay_N",
+      "meshPathID": 2273539,
+      "submesh": 0,
+      "textures": [
+        57265,
+        66678,
+        90303
+      ]
+    },
+    {
+      "recipeHash": 1118899325,
+      "slot": "Female_Bottom_Sc_Electricgirl_N_1_Slot",
+      "overlay": "Female_Body_Sc_Electricgirl_Overlay_N",
+      "meshPathID": 2273539,
+      "submesh": 1,
+      "textures": [
+        54798,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 1118899325,
+      "slot": "Female_Bottom_Sc_Electricgirl_N_2_Slot",
+      "overlay": "Female_Top_Sc_Electricgirl_Overlay_N",
+      "meshPathID": 2273539,
+      "submesh": 2,
+      "textures": [
+        64066,
+        87623,
+        70853
+      ]
+    },
+    {
+      "recipeHash": 723531739,
+      "slot": "Female_Shoe_Sc_Electricgirl_N_Slot",
+      "overlay": "Female_Shoe_Sc_Electricgirl_Overlay_N",
+      "meshPathID": 2273607,
+      "submesh": 0,
+      "textures": [
+        78683,
+        74929,
+        58924
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2273455,
+      "vertices": 922,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2273483,
+      "vertices": 3048,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2273579,
+      "vertices": 3726,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2273539,
+      "vertices": 1750,
+      "submeshes": 3
+    },
+    {
+      "meshPathID": 2273607,
+      "vertices": 717,
+      "submeshes": 1
+    }
+  ],
+  "bones": 79,
+  "file": "Kassie_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1733176,
+  "sha256": "5101ed8c00a67ea7341fabbffd2191fc88834118a1b8ca4d342528284bf4a03f",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

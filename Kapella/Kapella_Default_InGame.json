@@ -1,0 +1,205 @@
+{
+  "character": "Kapella",
+  "avatarId": 101000018,
+  "variant": "InGame",
+  "config": {
+    "Id": 101000018,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_KpopSinger",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3924339308,
+      2813601783,
+      506709365,
+      3112028367,
+      2466042820
+    ],
+    "RecipeValueInGame": [
+      3556950122,
+      2994811735,
+      2324847900,
+      2021663077,
+      2360435021
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_21_Y_CHARACTER_KPOPSINGER_N",
+    "Introduction": "T_21_Y_SKILL_INTRODUCE_KPOPSINGER",
+    "Portrait": "FF_UI_Character_KpopSinger",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 2,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800118001,
+    "InGameSpecialAnim": "INGAME_SC_KPOPSINGER_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_KpopSinger",
+    "OrderSource": 27,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000617,
+    "LuxuryBundleID": 710000618,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB41/CSH/character/Kapella.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_KPOPSINGER_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_KPOPSINGER_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3924339308,
+      2813601783
+    ],
+    "RecipeValueInGame_inAb": [
+      3556950122,
+      2994811735
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3556950122,
+      "slot": "Female_Head_Sc_KpopSinger_Slot",
+      "overlay": "Female_Head_Sc_KpopSinger_Overlay",
+      "meshPathID": 2269502,
+      "submesh": 0,
+      "textures": [
+        66691
+      ]
+    },
+    {
+      "recipeHash": 3556950122,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Tomboy_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        77591
+      ]
+    },
+    {
+      "recipeHash": 2994811735,
+      "slot": "Female_Hair_Sc_KpopSinger_0_Slot",
+      "overlay": "Female_Hat_Sc_KpopSinger_Overlay",
+      "meshPathID": 2269527,
+      "submesh": 0,
+      "textures": [
+        50263
+      ]
+    },
+    {
+      "recipeHash": 2994811735,
+      "slot": "Female_Hair_Sc_KpopSinger_1_Slot",
+      "overlay": "Female_Hair_Sc_KpopSinger_Overlay",
+      "meshPathID": 2269527,
+      "submesh": 1,
+      "textures": [
+        54122
+      ]
+    },
+    {
+      "recipeHash": 2324847900,
+      "slot": "Female_Top_Sc_KpopSinger_0_Slot",
+      "overlay": "Female_Skin_Sc_KpopSinger_Overlay",
+      "meshPathID": 2269614,
+      "submesh": 0,
+      "textures": [
+        76068
+      ]
+    },
+    {
+      "recipeHash": 2324847900,
+      "slot": "Female_Top_Sc_KpopSinger_1_Slot",
+      "overlay": "Female_Top_Sc_KpopSinger_Overlay",
+      "meshPathID": 2269614,
+      "submesh": 1,
+      "textures": [
+        68596
+      ]
+    },
+    {
+      "recipeHash": 2021663077,
+      "slot": "Female_Bottom_Sc_KpopSinger_0_Slot",
+      "overlay": "Female_Skin_Sc_KpopSinger_Overlay",
+      "meshPathID": 2269586,
+      "submesh": 0,
+      "textures": [
+        76068
+      ]
+    },
+    {
+      "recipeHash": 2021663077,
+      "slot": "Female_Bottom_Sc_KpopSinger_1_Slot",
+      "overlay": "Female_Bottom_Sc_KpopSinger_Overlay",
+      "meshPathID": 2269586,
+      "submesh": 1,
+      "textures": [
+        54392
+      ]
+    },
+    {
+      "recipeHash": 2360435021,
+      "slot": "Female_Shoe_Sc_KpopSinger_Slot",
+      "overlay": "Female_Shoe_Sc_KpopSinger_Overlay",
+      "meshPathID": 2269642,
+      "submesh": 0,
+      "textures": [
+        87047
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2269502,
+      "vertices": 371,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2269527,
+      "vertices": 1027,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269614,
+      "vertices": 1386,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269586,
+      "vertices": 1202,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269642,
+      "vertices": 216,
+      "submeshes": 1
+    }
+  ],
+  "bones": 50,
+  "file": "Kapella_Default_InGame.glb",
+  "textures": 7,
+  "bytes": 1489160,
+  "sha256": "71c3574174656fe560a1897574bce7c2596a9a95b6f7cd91f814d59b9cb9427f",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

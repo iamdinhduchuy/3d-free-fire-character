@@ -1,0 +1,207 @@
+{
+  "character": "Steffie",
+  "avatarId": 101000017,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000017,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_Graffitist",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3560104720,
+      2590928523,
+      602508297,
+      2225570227,
+      2938542776
+    ],
+    "RecipeValueInGame": [
+      1698344873,
+      62479508,
+      1001009887,
+      3384299174,
+      1032392334
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_20_Y_CHARACTER_GRAFFITIST_N",
+    "Introduction": "T_20_Y_SKILL_INTRODUCE_GRAFFITIST",
+    "Portrait": "FF_UI_Character_Graffitist",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 2,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800117001,
+    "InGameSpecialAnim": "INGAME_SC_GRAFFITIST_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Graffitist",
+    "OrderSource": 25,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000576,
+    "LuxuryBundleID": 710000577,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_GRAFFITIST_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_GRAFFITIST_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3560104720,
+      2590928523
+    ],
+    "RecipeValueInGame_inAb": [
+      1698344873,
+      62479508
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3560104720,
+      "slot": "Female_Head_Sc_Graffitist_N_Slot",
+      "overlay": "Female_Head_Sc_Graffitist_Overlay_N",
+      "meshPathID": 2269374,
+      "submesh": 0,
+      "textures": [
+        85190,
+        68751,
+        68098
+      ]
+    },
+    {
+      "recipeHash": 3560104720,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Agent_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        83586
+      ]
+    },
+    {
+      "recipeHash": 2590928523,
+      "slot": "Female_Hair_Sc_Graffitist_N_Slot",
+      "overlay": "Female_Hair_Sc_Graffitist_Overlay_N",
+      "meshPathID": 2269392,
+      "submesh": 0,
+      "textures": [
+        79349
+      ]
+    },
+    {
+      "recipeHash": 602508297,
+      "slot": "Female_Top_Sc_Graffitist_N_0_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2269470,
+      "submesh": 0,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 602508297,
+      "slot": "Female_Top_Sc_Graffitist_N_1_Slot",
+      "overlay": "Female_Top_Sc_Graffitist_Overlay_N",
+      "meshPathID": 2269470,
+      "submesh": 1,
+      "textures": [
+        85301,
+        84190,
+        57307
+      ]
+    },
+    {
+      "recipeHash": 2225570227,
+      "slot": "Female_Bottom_Sc_Graffitist_N_0_Slot",
+      "overlay": "Female_Body_Sc_Graffitist_Overlay_N",
+      "meshPathID": 2269446,
+      "submesh": 0,
+      "textures": [
+        63756,
+        51836,
+        82827
+      ]
+    },
+    {
+      "recipeHash": 2225570227,
+      "slot": "Female_Bottom_Sc_Graffitist_N_1_Slot",
+      "overlay": "Female_Bottom_Sc_Graffitist_Overlay_N",
+      "meshPathID": 2269446,
+      "submesh": 1,
+      "textures": [
+        56811,
+        50865,
+        76227
+      ]
+    },
+    {
+      "recipeHash": 2938542776,
+      "slot": "Female_Shoe_Sc_Graffitist_N_Slot",
+      "overlay": "Female_Shoe_Sc_Graffitist_Overlay_N",
+      "meshPathID": 2269494,
+      "submesh": 0,
+      "textures": [
+        83958,
+        49029,
+        77663
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2269374,
+      "vertices": 699,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2269392,
+      "vertices": 1667,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2269470,
+      "vertices": 2168,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269446,
+      "vertices": 1780,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269494,
+      "vertices": 393,
+      "submeshes": 1
+    }
+  ],
+  "bones": 54,
+  "file": "Steffie_Default_Lobby.glb",
+  "textures": 7,
+  "bytes": 1715192,
+  "sha256": "7cdc606243ab3b33f82b85ff4c078a93cbb58e63ec4100721ab98135608c25c8",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

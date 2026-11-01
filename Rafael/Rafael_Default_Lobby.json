@@ -1,0 +1,187 @@
+{
+  "character": "Rafael",
+  "avatarId": 102000013,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000013,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_hitman",
+    "Type": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2952550097,
+      1636204423,
+      3852820756,
+      4177772027
+    ],
+    "RecipeValueInGame": [
+      2438520549,
+      1563742896,
+      3490606645,
+      3611407812
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_16_Y_CHARACTER_HITMAN_NAME",
+    "Introduction": "T_16_Y_SKILL_INTRODUCE_HITMAN",
+    "Portrait": "FF_UI_Character_Hitman",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800213001,
+    "InGameSpecialAnim": "INGAME_SC_HITMAN_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Hitman",
+    "OrderSource": 20,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000346,
+    "LuxuryBundleID": 710000347,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/Default.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_HITMAN_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_HITMAN_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2952550097
+    ],
+    "RecipeValueInGame_inAb": [
+      2438520549
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 2952550097,
+      "slot": "Male_Head_SC_Hitman_N_Slot",
+      "overlay": "Male_Head_SC_Hitman_Overlay_N",
+      "meshPathID": 2276141,
+      "submesh": 0,
+      "textures": [
+        59021,
+        80819,
+        62273
+      ]
+    },
+    {
+      "recipeHash": 2952550097,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_Hitman_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        81451
+      ]
+    },
+    {
+      "recipeHash": 1636204423,
+      "slot": "Male_Top_SC_Hitman_N_0_Slot",
+      "overlay": "Male_Top_SC_Hitman_Overlay_N",
+      "meshPathID": 2276239,
+      "submesh": 0,
+      "textures": [
+        93309,
+        68456,
+        92110
+      ]
+    },
+    {
+      "recipeHash": 1636204423,
+      "slot": "Male_Top_SC_Hitman_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2276239,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 3852820756,
+      "slot": "Male_Bottom_SC_Hitman_N_0_Slot",
+      "overlay": "Male_Bottom_SC_Hitman_Overlay_N",
+      "meshPathID": 2276215,
+      "submesh": 0,
+      "textures": [
+        58341,
+        61819,
+        62646
+      ]
+    },
+    {
+      "recipeHash": 3852820756,
+      "slot": "Male_Bottom_SC_Hitman_N_1_Slot",
+      "overlay": "Base_male_body_Overlay_N",
+      "meshPathID": 2276215,
+      "submesh": 1,
+      "textures": [
+        90512,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 4177772027,
+      "slot": "Male_Shoe_SC_Hitman_N_Slot",
+      "overlay": "Male_Shoe_SC_Hitman_Overlay_N",
+      "meshPathID": 2276261,
+      "submesh": 0,
+      "textures": [
+        67766,
+        51847,
+        91960
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2276141,
+      "vertices": 636,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2276239,
+      "vertices": 2729,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2276215,
+      "vertices": 934,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2276261,
+      "vertices": 524,
+      "submeshes": 1
+    }
+  ],
+  "bones": 55,
+  "file": "Rafael_Default_Lobby.glb",
+  "textures": 5,
+  "bytes": 1225784,
+  "sha256": "8d57d1f2bc34d185b8bee7b1cf4b5c8fd463e9f18d11c695ff022ab36233a9d4",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

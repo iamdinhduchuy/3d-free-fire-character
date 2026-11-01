@@ -1,0 +1,207 @@
+{
+  "character": "Kelly_Awakening",
+  "avatarId": 101000015,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000015,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_Awakening",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2321800304,
+      953815496,
+      1593271165,
+      1839735281,
+      199707808
+    ],
+    "RecipeValueInGame": [
+      3335137397,
+      3682370803,
+      643419209,
+      3394938354,
+      4119212564
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_20_Y_CHARACTER_KELLY_AWAKENING_N",
+    "Introduction": "T_20_Y_SKILL_INTRODUCE_KELLY_AWAKENING",
+    "Portrait": "FF_UI_Character_Kelly_Awakening",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800116001,
+    "InGameSpecialAnim": "INGAME_SC_KELLY_AWAKENING_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Kelly_Awakening",
+    "OrderSource": 42,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 710000573,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB39/CSH/character/KellyAwakening.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_KELLY_AWAKENING_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_KELLY_AWAKENING_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      2321800304,
+      953815496
+    ],
+    "RecipeValueInGame_inAb": [
+      3335137397,
+      3682370803
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 2321800304,
+      "slot": "Female_Head_Sc_Kelly_Awakening_N_Slot",
+      "overlay": "Female_Head_Sc_Kelly_Awakening_Overlay_N",
+      "meshPathID": 2269375,
+      "submesh": 0,
+      "textures": [
+        92608,
+        47895,
+        82416
+      ]
+    },
+    {
+      "recipeHash": 2321800304,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_Hairroot_Sc_Suit_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        58584
+      ]
+    },
+    {
+      "recipeHash": 953815496,
+      "slot": "Female_Hair_Sc_Kelly_Awakening_N_Slot",
+      "overlay": "Female_Hair_Sc_Kelly_Awakening_Overlay_N",
+      "meshPathID": 2269393,
+      "submesh": 0,
+      "textures": [
+        55749
+      ]
+    },
+    {
+      "recipeHash": 1593271165,
+      "slot": "Female_Top_Sc_Kelly_Awakening_N_0_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2269471,
+      "submesh": 0,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 1593271165,
+      "slot": "Female_Top_Sc_Kelly_Awakening_N_1_Slot",
+      "overlay": "Female_Top_Sc_Kelly_Awakening_Overlay_N",
+      "meshPathID": 2269471,
+      "submesh": 1,
+      "textures": [
+        71830,
+        50971,
+        72389
+      ]
+    },
+    {
+      "recipeHash": 1839735281,
+      "slot": "Female_Bottom_Sc_Kelly_Awakening_N_0_Slot",
+      "overlay": "Female_Bottom_Sc_Kelly_Awakening_Overlay_N",
+      "meshPathID": 2269447,
+      "submesh": 0,
+      "textures": [
+        63886,
+        68392,
+        90886
+      ]
+    },
+    {
+      "recipeHash": 1839735281,
+      "slot": "Female_Bottom_Sc_Kelly_Awakening_N_1_Slot",
+      "overlay": "female_body_Overlay_N",
+      "meshPathID": 2269447,
+      "submesh": 1,
+      "textures": [
+        48582,
+        91211,
+        81158
+      ]
+    },
+    {
+      "recipeHash": 199707808,
+      "slot": "Female_Shoe_Sc_Kelly_Awakening_N_Slot",
+      "overlay": "Female_Shoe_Sc_Kelly_Awakening_Overlay_N",
+      "meshPathID": 2269495,
+      "submesh": 0,
+      "textures": [
+        83390,
+        70426,
+        48504
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2269375,
+      "vertices": 1136,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2269393,
+      "vertices": 2072,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2269471,
+      "vertices": 2248,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269447,
+      "vertices": 1179,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2269495,
+      "vertices": 606,
+      "submeshes": 1
+    }
+  ],
+  "bones": 53,
+  "file": "Kelly_Awakening_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1671428,
+  "sha256": "dcc2c3a12e0bb2c860ef376865af2ff171a8b2a580b6875eaa44d3272971f10d",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

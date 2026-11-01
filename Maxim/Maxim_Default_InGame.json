@@ -1,0 +1,199 @@
+{
+  "character": "Maxim",
+  "avatarId": 102000007,
+  "variant": "InGame",
+  "config": {
+    "Id": 102000007,
+    "Gender": 2,
+    "IsDefault": true,
+    "IsSelected": true,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_foodieboy",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      2854365826,
+      3773744750,
+      3087958976,
+      3148412978,
+      3457446025
+    ],
+    "RecipeValueInGame": [
+      25615368,
+      615771664,
+      626406856,
+      1725099346,
+      2606155762
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "TXT_OB7_JRW_CHARACTER_FOODIEBOY_NAME",
+    "Introduction": "TXT_OB7_JRW_SKILL_INTRODUCE_FOODIEBOY",
+    "Portrait": "FF_UI_Character_Maxim",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 802007001,
+    "InGameSpecialAnim": "INGAME_SC_FOODIEBOY_SPECIAL_ANIMATION",
+    "SharingPortrait": "FF_UI_Character_Maxim",
+    "OrderSource": 8,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 700000030,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": true,
+    "AvatarType": 2,
+    "KeyArt": "OB40/CSH/character/Maxim.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_FOODIEBOY_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_FOODIEBOY_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [],
+    "RecipeValueInGame_inAb": [],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": "FF_UI_SA_Maxim"
+  },
+  "parts": [
+    {
+      "recipeHash": 25615368,
+      "slot": "Male_Head_SC_Foodieboy_Slot",
+      "overlay": "Male_Head_SC_Foodieboy_Overlay",
+      "meshPathID": 2283761,
+      "submesh": 0,
+      "textures": [
+        78785
+      ]
+    },
+    {
+      "recipeHash": 25615368,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_Hairroot_Sc_BrazilSoldier_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        48441
+      ]
+    },
+    {
+      "recipeHash": 615771664,
+      "slot": "Male_Hair_SC_Foodieboy_001_0_Slot",
+      "overlay": "Male_Hair_SC_Foodieboy_001_Overlay",
+      "meshPathID": 2283777,
+      "submesh": 0,
+      "textures": [
+        86359
+      ]
+    },
+    {
+      "recipeHash": 615771664,
+      "slot": "Male_Hair_SC_Foodieboy_001_1_Slot",
+      "overlay": "male_glass_SC_Foodieboy_Overlay",
+      "meshPathID": 2283777,
+      "submesh": 1,
+      "textures": [
+        90507
+      ]
+    },
+    {
+      "recipeHash": 626406856,
+      "slot": "Male_Top_SC_Foodieboy_001_0_Slot",
+      "overlay": "Male_Top_SC_Foodieboy_001_Overlay",
+      "meshPathID": 2283927,
+      "submesh": 0,
+      "textures": [
+        60784
+      ]
+    },
+    {
+      "recipeHash": 626406856,
+      "slot": "Male_Top_SC_Foodieboy_001_1_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2283927,
+      "submesh": 1,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 1725099346,
+      "slot": "Male_Bottom_SC_Foodieboy_001_0_Slot",
+      "overlay": "Base_male_body_Overlay",
+      "meshPathID": 2283859,
+      "submesh": 0,
+      "textures": [
+        90512
+      ]
+    },
+    {
+      "recipeHash": 1725099346,
+      "slot": "Male_Bottom_SC_Foodieboy_001_1_Slot",
+      "overlay": "Male_Bottom_SC_Foodieboy_001_Overlay",
+      "meshPathID": 2283859,
+      "submesh": 1,
+      "textures": [
+        84994
+      ]
+    },
+    {
+      "recipeHash": 2606155762,
+      "slot": "Male_Shoe_SC_Foodieboy_001_Slot",
+      "overlay": "Male_Shoe_SC_Foodieboy_001_Overlay",
+      "meshPathID": 2283990,
+      "submesh": 0,
+      "textures": [
+        64992
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2283761,
+      "vertices": 332,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2283777,
+      "vertices": 1137,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283927,
+      "vertices": 1274,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283859,
+      "vertices": 638,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2283990,
+      "vertices": 270,
+      "submeshes": 1
+    }
+  ],
+  "bones": 48,
+  "file": "Maxim_Default_InGame.glb",
+  "textures": 7,
+  "bytes": 1257640,
+  "sha256": "a84366ca8e81f2396322faca91b96556e4e9d63727ba51b46540e295a25ad286",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

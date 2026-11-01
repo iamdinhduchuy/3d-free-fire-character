@@ -1,0 +1,231 @@
+{
+  "character": "Oscar",
+  "avatarId": 102000052,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000052,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_CityHeroBoy",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      4016721785,
+      2298042680,
+      2300347104,
+      3398982266,
+      924610778
+    ],
+    "RecipeValueInGame": [
+      3939596547,
+      3001005793,
+      1987456006,
+      4278543494,
+      1334017993
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_48_H_CHARACTER_CITYHEROBOY_N",
+    "Introduction": "T_48_H_SKILL_INTRODUCE_CITYHEROBOY",
+    "Portrait": "FF_UI_Character_CityHeroBoy",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800248001,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_CityHeroBoy",
+    "OrderSource": 68,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB48/CSH/character/CityHeroBoy.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_CITYHEROBOY_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_CITYHEROBOY_SHOWPOSE",
+    "VFXShowPose": "FF_VFX_ShopShow_Male_SC_CityHeroBoy",
+    "RecipeValueInLobby_inAb": [
+      4016721785,
+      2298042680
+    ],
+    "RecipeValueInGame_inAb": [
+      3939596547,
+      3001005793
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 4016721785,
+      "slot": "Male_Head_Sc_CityHeroBoy_N_Slot",
+      "overlay": "Male_Head_Sc_CityHeroBoy_Overlay_N",
+      "meshPathID": 2282398,
+      "submesh": 0,
+      "textures": [
+        56898,
+        51023,
+        70044
+      ]
+    },
+    {
+      "recipeHash": 4016721785,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_HairRoot_Sc_CityHeroBoy_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        64840
+      ]
+    },
+    {
+      "recipeHash": 2298042680,
+      "slot": "Male_Hair_Sc_CityHeroBoy_N_0_Slot",
+      "overlay": "Male_Hair_Sc_CityHeroBoy_Overlay_N",
+      "meshPathID": 2282430,
+      "submesh": 0,
+      "textures": [
+        54010
+      ]
+    },
+    {
+      "recipeHash": 2298042680,
+      "slot": "Male_Hair_Sc_CityHeroBoy_N_1_Slot",
+      "overlay": "Male_Shoe_Sc_CityHeroBoy_Overlay_N",
+      "meshPathID": 2282430,
+      "submesh": 1,
+      "textures": [
+        52469,
+        55856,
+        86108
+      ]
+    },
+    {
+      "recipeHash": 2298042680,
+      "slot": "Male_Hair_Sc_CityHeroBoy_N_2_Slot",
+      "overlay": "Male_Hair_Sc_Glasses_CityHeroBoy_Overlay_N",
+      "meshPathID": 2282430,
+      "submesh": 2,
+      "textures": [
+        52469,
+        55856,
+        86108
+      ]
+    },
+    {
+      "recipeHash": 2300347104,
+      "slot": "Male_Top_Sc_CityHeroBoy_N_0_Slot",
+      "overlay": "Male_Skin_Cos_Blackgoldage_Overlay_N",
+      "meshPathID": 2282526,
+      "submesh": 0,
+      "textures": [
+        81706,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 2300347104,
+      "slot": "Male_Top_Sc_CityHeroBoy_N_1_Slot",
+      "overlay": "Male_Top_Sc_CityHeroBoy_Overlay_N",
+      "meshPathID": 2282526,
+      "submesh": 1,
+      "textures": [
+        47367,
+        89190,
+        64091
+      ]
+    },
+    {
+      "recipeHash": 3398982266,
+      "slot": "Male_Bottom_Sc_CityHeroBoy_N_0_Slot",
+      "overlay": "Male_Skin_Cos_Blackgoldage_Overlay_N",
+      "meshPathID": 2282474,
+      "submesh": 0,
+      "textures": [
+        81706,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 3398982266,
+      "slot": "Male_Bottom_Sc_CityHeroBoy_N_1_Slot",
+      "overlay": "Male_Bottom_Sc_CityHeroBoy_Overlay_N",
+      "meshPathID": 2282474,
+      "submesh": 1,
+      "textures": [
+        76337,
+        58669,
+        57896
+      ]
+    },
+    {
+      "recipeHash": 924610778,
+      "slot": "Male_Shoe_Sc_CityHeroBoy_N_Slot",
+      "overlay": "Male_Shoe_Sc_CityHeroBoy_Overlay_N",
+      "meshPathID": 2282570,
+      "submesh": 0,
+      "textures": [
+        52469,
+        55856,
+        86108
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2282398,
+      "vertices": 1673,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2282430,
+      "vertices": 2971,
+      "submeshes": 3
+    },
+    {
+      "meshPathID": 2282526,
+      "vertices": 3302,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2282474,
+      "vertices": 2580,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2282570,
+      "vertices": 724,
+      "submeshes": 1
+    }
+  ],
+  "bones": 56,
+  "file": "Oscar_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1692900,
+  "sha256": "eafded4f97f4d8be42f8a854a5cc1a6062b109d49e2058ce51f0f9b28a6a390f",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

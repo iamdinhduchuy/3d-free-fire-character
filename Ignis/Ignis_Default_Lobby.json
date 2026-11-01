@@ -1,0 +1,229 @@
+{
+  "character": "Ignis",
+  "avatarId": 102000044,
+  "variant": "Lobby",
+  "config": {
+    "Id": 102000044,
+    "Gender": 2,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_male_head_sc_Superteen",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      537199978,
+      2014038664,
+      3164754031,
+      902895855,
+      2237072288
+    ],
+    "RecipeValueInGame": [
+      1427811105,
+      3503447291,
+      3621529033,
+      3193881641,
+      2398592284
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_42_H_CHARACTER_SUPERTEEN_N",
+    "Introduction": "T_42_H_SKILL_INTRODUCE_SUPERTEEN",
+    "Portrait": "FF_UI_Character_Superteen",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800244003,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_Superteen",
+    "OrderSource": 57,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": true,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB42/CSH/character/Superteen.jpg",
+    "StandIdleResID": "LOBBY_ANIM_MALE_SC_SUPERTEEN_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_MALE_SC_SUPERTEEN_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      537199978,
+      2014038664
+    ],
+    "RecipeValueInGame_inAb": [
+      1427811105,
+      3503447291
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 537199978,
+      "slot": "Male_Head_Sc_Superteen_N_Slot",
+      "overlay": "Male_Head_Sc_Superteen_Overlay_N",
+      "meshPathID": 2281269,
+      "submesh": 0,
+      "textures": [
+        73528,
+        69119,
+        61179
+      ]
+    },
+    {
+      "recipeHash": 537199978,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Male_HairRoot_Sc_Superteen_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        85628
+      ]
+    },
+    {
+      "recipeHash": 2014038664,
+      "slot": "Male_Hair_Sc_Superteen_N_0_Slot",
+      "overlay": "Male_Hair_Sc_Superteen_Overlay",
+      "meshPathID": 2281304,
+      "submesh": 0,
+      "textures": [
+        65044
+      ]
+    },
+    {
+      "recipeHash": 2014038664,
+      "slot": "Male_Hair_Sc_Superteen_N_1_Slot",
+      "overlay": "Male_Head_Sc_Superteen_Overlay_N",
+      "meshPathID": 2281304,
+      "submesh": 1,
+      "textures": [
+        73528,
+        69119,
+        61179
+      ]
+    },
+    {
+      "recipeHash": 2014038664,
+      "slot": "Head_Hair_Base_Replace_Slot",
+      "overlay": "Male_Hairroot_Sc_Superteen_Red_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        64005
+      ]
+    },
+    {
+      "recipeHash": 3164754031,
+      "slot": "Male_Top_Sc_Superteen_N_0_Slot",
+      "overlay": "Male_Top_Sc_Superteen_Overlay_N",
+      "meshPathID": 2281414,
+      "submesh": 0,
+      "textures": [
+        72164,
+        57662,
+        83338
+      ]
+    },
+    {
+      "recipeHash": 3164754031,
+      "slot": "Male_Top_Sc_Superteen_N_1_Slot",
+      "overlay": "Male_Body_Sc_Superteen_Overlay_N",
+      "meshPathID": 2281414,
+      "submesh": 1,
+      "textures": [
+        53190,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 902895855,
+      "slot": "Male_Bottom_Sc_Superteen_N_0_Slot",
+      "overlay": "Male_Bottom_Sc_Superteen_Overlay_N",
+      "meshPathID": 2281370,
+      "submesh": 0,
+      "textures": [
+        86527,
+        76787,
+        72062
+      ]
+    },
+    {
+      "recipeHash": 902895855,
+      "slot": "Male_Bottom_Sc_Superteen_N_1_Slot",
+      "overlay": "Male_Body_Sc_Superteen_Overlay_N",
+      "meshPathID": 2281370,
+      "submesh": 1,
+      "textures": [
+        53190,
+        58962,
+        72755
+      ]
+    },
+    {
+      "recipeHash": 2237072288,
+      "slot": "Male_Shoe_Sc_Superteen_N_Slot",
+      "overlay": "Male_Shoe_Sc_Superteen_Overlay_N",
+      "meshPathID": 2281452,
+      "submesh": 0,
+      "textures": [
+        65590,
+        82548,
+        66290
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2281269,
+      "vertices": 1190,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2281304,
+      "vertices": 3279,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2281414,
+      "vertices": 3937,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2281370,
+      "vertices": 2076,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2281452,
+      "vertices": 842,
+      "submeshes": 1
+    }
+  ],
+  "bones": 63,
+  "file": "Ignis_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1993164,
+  "sha256": "9c7274b46b972e631c654f9e4493538589df8d3f0ac7c0fa9a4a88b812c2c88b",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}

@@ -1,0 +1,207 @@
+{
+  "character": "Lila",
+  "avatarId": 101000050,
+  "variant": "Lobby",
+  "config": {
+    "Id": 101000050,
+    "Gender": 1,
+    "IsDefault": false,
+    "IsSelected": false,
+    "EyesLookAt": true,
+    "Icon": "Icon_face_female_head_sc_MischiefGirl",
+    "Type": [
+      1,
+      11,
+      3,
+      4,
+      5
+    ],
+    "RecipeValueInLobby": [
+      3091780763,
+      3119789707,
+      4265997969,
+      2665376592,
+      4149170422
+    ],
+    "RecipeValueInGame": [
+      464735335,
+      1441776124,
+      3966247806,
+      1260793540,
+      1621571023
+    ],
+    "CanChangeSkinColor": false,
+    "Name": "T_46_H_CHARACTER_MISCHIEFGIRL_N",
+    "Introduction": "T_46_H_SKILL_INTRODUCE_MISCHIEFGIRL",
+    "Portrait": "FF_UI_Character_MischiefGirl",
+    "WalkAnimationResID": "",
+    "AvatarResID": "",
+    "AvatarAnimInterval": 10,
+    "DefaultSkinColor": [],
+    "HairType": 0,
+    "DecorPropIDRight": "",
+    "DecorPropIDLeft": "",
+    "DecorPropIDRoot": "",
+    "AvatarSkillSlotID": 800246001,
+    "InGameSpecialAnim": "",
+    "SharingPortrait": "FF_UI_Character_MischiefGirl",
+    "OrderSource": 61,
+    "Tag": 0,
+    "TagPower": 0,
+    "TagDescKey": "",
+    "BundleID": 0,
+    "LuxuryBundleID": 0,
+    "PVEPrimaryWeapon": 0,
+    "AlignmentIcon": "",
+    "HeadAdditiveSwitch": 0,
+    "IsActiveSkill": false,
+    "IsSkillDetail": false,
+    "AvatarType": 2,
+    "KeyArt": "OB46/CSH/character/MischiefGirl.jpg",
+    "StandIdleResID": "LOBBY_ANIM_FEMALE_SC_MISCHIEFGIRL_STANDIDLE",
+    "ShowPoseResID": "LOBBY_ANIM_FEMALE_SC_MISCHIEFGIRL_SHOWPOSE",
+    "VFXShowPose": "",
+    "RecipeValueInLobby_inAb": [
+      3091780763,
+      3119789707
+    ],
+    "RecipeValueInGame_inAb": [
+      464735335,
+      1441776124
+    ],
+    "NotInCDN": false,
+    "IsStoryShow": true,
+    "ActivityPortrait": ""
+  },
+  "parts": [
+    {
+      "recipeHash": 3091780763,
+      "slot": "Female_Head_Sc_MischiefGirl_N_Slot",
+      "overlay": "Female_Head_Sc_MischiefGirl_Overlay_N",
+      "meshPathID": 2273621,
+      "submesh": 0,
+      "textures": [
+        82594,
+        58816,
+        63488
+      ]
+    },
+    {
+      "recipeHash": 3091780763,
+      "slot": "Head_Hair_Base_Additive_Slot",
+      "overlay": "Female_HairRoot_Sc_MischiefGirl_Overlay",
+      "meshPathID": 0,
+      "submesh": 0,
+      "textures": [
+        50437
+      ]
+    },
+    {
+      "recipeHash": 3119789707,
+      "slot": "Female_Hair_Sc_MischiefGirl_N_0_Slot",
+      "overlay": "Female_Hair_Sc_MischiefGirl_Overlay_N",
+      "meshPathID": 2273647,
+      "submesh": 0,
+      "textures": [
+        57077
+      ]
+    },
+    {
+      "recipeHash": 3119789707,
+      "slot": "Female_Hair_Sc_MischiefGirl_N_1_Slot",
+      "overlay": "Female_Head_Sc_MischiefGirl_Overlay_N",
+      "meshPathID": 2273647,
+      "submesh": 1,
+      "textures": [
+        82594,
+        58816,
+        63488
+      ]
+    },
+    {
+      "recipeHash": 4265997969,
+      "slot": "Female_Top_Sc_MischiefGirl_N_0_Slot",
+      "overlay": "Female_Upperbody_Overlay_N",
+      "meshPathID": 2273708,
+      "submesh": 0,
+      "textures": [
+        71246,
+        74356,
+        78500
+      ]
+    },
+    {
+      "recipeHash": 4265997969,
+      "slot": "Female_Top_Sc_MischiefGirl_N_1_Slot",
+      "overlay": "Female_Top_Sc_MischiefGirl_Overlay_N",
+      "meshPathID": 2273708,
+      "submesh": 1,
+      "textures": [
+        75481,
+        59092,
+        85358
+      ]
+    },
+    {
+      "recipeHash": 2665376592,
+      "slot": "Female_Bottom_Sc_MischiefGirl_N_Slot",
+      "overlay": "Female_Bottom_Sc_MischiefGirl_Overlay_N",
+      "meshPathID": 2273676,
+      "submesh": 0,
+      "textures": [
+        50341,
+        59212,
+        81379
+      ]
+    },
+    {
+      "recipeHash": 4149170422,
+      "slot": "Female_Shoe_Sc_MischiefGirl_N_Slot",
+      "overlay": "Female_Shoe_Sc_MischiefGirl_Overlay_N",
+      "meshPathID": 2273734,
+      "submesh": 0,
+      "textures": [
+        76403,
+        58153,
+        61932
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "meshPathID": 2273621,
+      "vertices": 922,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2273647,
+      "vertices": 2699,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2273708,
+      "vertices": 4031,
+      "submeshes": 2
+    },
+    {
+      "meshPathID": 2273676,
+      "vertices": 2675,
+      "submeshes": 1
+    },
+    {
+      "meshPathID": 2273734,
+      "vertices": 884,
+      "submeshes": 1
+    }
+  ],
+  "bones": 63,
+  "file": "Lila_Default_Lobby.glb",
+  "textures": 6,
+  "bytes": 1683400,
+  "sha256": "d212244da565ba98495a61e67ea53565603d540ee448f075cc53448a7c2b983d",
+  "validation": {
+    "numErrors": 0,
+    "numWarnings": 0
+  },
+  "status": "original_recipe"
+}
